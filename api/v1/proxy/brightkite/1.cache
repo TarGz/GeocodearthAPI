@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" xmlns:bk="http://brightkite.com/placeFeed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>tonywu posted a photo @ Taiwan High Speed Rail Taichung Station</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/c9/d1/c9d122b7b5a12607cf9f5530f4325dc7-feed.jpg" /&gt;&lt;br /&gt;My Train</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/c9/d1/c9d122b7b5a12607cf9f5530f4325dc7-feed.jpg</bk:photoLink>
+      <bk:photoCaption>My Train</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/c9/d1/c9d122b7b5a12607cf9f5530f4325dc7-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/c9/d1/c9d122b7b5a12607cf9f5530f4325dc7-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/c9/d1/c9d122b7b5a12607cf9f5530f4325dc7-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/tonywu</bk:userLink>
+      <bk:userName>tonywu</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/de/e8/dee8631853a5c70ee648021dd779c7ed-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/4f6893c3e8693b68f06d4c823f22d51b</bk:placeLink>
+      <bk:placeName>Taiwan High Speed Rail Taichung Station</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>24.111792</geo:lat>
+      <geo:long>120.615868</geo:long>
+      <georss:point>24.111792 120.615868</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>Taiwan High Speed Rail Taichung Station</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:36:33 +0000</pubDate>
+      <bk:timestamp>1292319393.721</bk:timestamp>
+      <link>http://brightkite.com/objects/c9d122b7b5a12607cf9f5530f4325dc7</link>
+      <guid>http://brightkite.com/objects/c9d122b7b5a12607cf9f5530f4325dc7</guid>
+    </item>
+    <item>
+      <title>tonywu posted a photo @ Taiwan High Speed Rail Taichung Station</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d2/a9/d2a9eb704f1efafeedddc5995d9c3af7-feed.jpg" /&gt;&lt;br /&gt;Going to Taipei.</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d2/a9/d2a9eb704f1efafeedddc5995d9c3af7-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Going to Taipei.</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/d2/a9/d2a9eb704f1efafeedddc5995d9c3af7-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d2/a9/d2a9eb704f1efafeedddc5995d9c3af7-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d2/a9/d2a9eb704f1efafeedddc5995d9c3af7-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/tonywu</bk:userLink>
+      <bk:userName>tonywu</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/de/e8/dee8631853a5c70ee648021dd779c7ed-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/4f6893c3e8693b68f06d4c823f22d51b</bk:placeLink>
+      <bk:placeName>Taiwan High Speed Rail Taichung Station</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>24.111792</geo:lat>
+      <geo:long>120.615868</geo:long>
+      <georss:point>24.111792 120.615868</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>Taiwan High Speed Rail Taichung Station</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:35:28 +0000</pubDate>
+      <bk:timestamp>1292319328.962</bk:timestamp>
+      <link>http://brightkite.com/objects/d2a9eb704f1efafeedddc5995d9c3af7</link>
+      <guid>http://brightkite.com/objects/d2a9eb704f1efafeedddc5995d9c3af7</guid>
+    </item>
+    <item>
+      <title>cloud9ine posted a photo @ &#65288;&#26666;&#65289;&#12511;&#12461;&#12514;&#12488;&#12288;&#26412;&#24215;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/90/94/909435864a566b15ea63f1b335b04e41-feed.jpg" /&gt;&lt;br /&gt;&#37504;&#24231;&#12511;&#12461;&#12514;&#12488;&#12398;&#12463;&#12522;&#12473;&#12510;&#12473;&#12484;&#12522;&#12540;&#12398;&#21069;&#12391;&#19968;&#26381;&#12290;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/90/94/909435864a566b15ea63f1b335b04e41-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#37504;&#24231;&#12511;&#12461;&#12514;&#12488;&#12398;&#12463;&#12522;&#12473;&#12510;&#12473;&#12484;&#12522;&#12540;&#12398;&#21069;&#12391;&#19968;&#26381;&#12290;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/90/94/909435864a566b15ea63f1b335b04e41-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/90/94/909435864a566b15ea63f1b335b04e41-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/90/94/909435864a566b15ea63f1b335b04e41-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/cloud9ine</bk:userLink>
+      <bk:userName>cloud9ine</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/ce/1c/ce1cf61eb9d0c82e61a61b625eb8cede-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e06e265ad5a2b4f2217f50ae63d71bee</bk:placeLink>
+      <bk:placeName>&#65288;&#26666;&#65289;&#12511;&#12461;&#12514;&#12488;&#12288;&#26412;&#24215;</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>35.671925</geo:lat>
+      <geo:long>139.765281</geo:long>
+      <georss:point>35.671925 139.765281</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#65288;&#26666;&#65289;&#12511;&#12461;&#12514;&#12488;&#12288;&#26412;&#24215;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:24:46 +0000</pubDate>
+      <bk:timestamp>1292318686.821</bk:timestamp>
+      <link>http://brightkite.com/objects/909435864a566b15ea63f1b335b04e41</link>
+      <guid>http://brightkite.com/objects/909435864a566b15ea63f1b335b04e41</guid>
+    </item>
+    <item>
+      <title>tonywu posted a photo @ Taichung Train Station</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/9d/1c/9d1cbe268b32893a70f92a23144546c9-feed.jpg" /&gt;&lt;br /&gt;&#21338;&#24859;&#24231;&#32822;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/9d/1c/9d1cbe268b32893a70f92a23144546c9-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#21338;&#24859;&#24231;&#32822;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/9d/1c/9d1cbe268b32893a70f92a23144546c9-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/9d/1c/9d1cbe268b32893a70f92a23144546c9-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/9d/1c/9d1cbe268b32893a70f92a23144546c9-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/tonywu</bk:userLink>
+      <bk:userName>tonywu</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/de/e8/dee8631853a5c70ee648021dd779c7ed-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/77a26fa60d5a12cdd6e0a5f6964fc131</bk:placeLink>
+      <bk:placeName>Taichung Train Station</bk:placeName>
+      <bk:placeAddress>&#24314;&#22283;&#36335;172&#34399;, &#20013;&#21312;, Taiwan</bk:placeAddress>
+      <geo:lat>24.136836</geo:lat>
+      <geo:long>120.684638</geo:long>
+      <georss:point>24.136836 120.684638</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Taichung Train Station</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:16:18 +0000</pubDate>
+      <bk:timestamp>1292318178.884</bk:timestamp>
+      <link>http://brightkite.com/objects/9d1cbe268b32893a70f92a23144546c9</link>
+      <guid>http://brightkite.com/objects/9d1cbe268b32893a70f92a23144546c9</guid>
+    </item>
+    <item>
+      <title>cokimi posted a photo @ Fukuoka</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/6c/5a/6c5a70f2484abeb616f446a4b1251e23-feed.jpg" /&gt;&lt;br /&gt;2006&#24180;&#12289;&#12527;&#12540;&#12523;&#12489;&#12459;&#12483;&#12503;&#35251;&#25126;&#12398;&#12383;&#12417;&#12395;&#22823;&#12365;&#12394;&#12486;&#12524;&#12499;&#36023;&#12387;&#12383;&#12415;&#12394;&#12373;&#12435;...&#65288;&#20889;&#30495;&#12399;&#12452;&#12479;&#12522;&#12450;&#12398;&#12488;&#12483;&#12486;&#12451;&#65289;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/6c/5a/6c5a70f2484abeb616f446a4b1251e23-feed.jpg</bk:photoLink>
+      <bk:photoCaption>2006&#24180;&#12289;&#12527;&#12540;&#12523;&#12489;&#12459;&#12483;&#12503;&#35251;&#25126;&#12398;&#12383;&#12417;&#12395;&#22823;&#12365;&#12394;&#12486;&#12524;&#12499;&#36023;&#12387;&#12383;&#12415;&#12394;&#12373;&#12435;...&#65288;&#20889;&#30495;&#12399;&#12452;&#12479;&#12522;&#12450;&#12398;&#12488;&#12483;&#12486;&#12451;&#65289;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/6c/5a/6c5a70f2484abeb616f446a4b1251e23-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/6c/5a/6c5a70f2484abeb616f446a4b1251e23-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/6c/5a/6c5a70f2484abeb616f446a4b1251e23-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/cokimi</bk:userLink>
+      <bk:userName>cokimi</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/3b/62/3b62a2af15ce6e2eb7baf451ab6b2bf3-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/b9df647aa22411dda296b35da34cae2d</bk:placeLink>
+      <bk:placeName>Fukuoka</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>33.5833333</geo:lat>
+      <geo:long>130.4</geo:long>
+      <georss:point>33.5833333 130.4</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Fukuoka</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:15:34 +0000</pubDate>
+      <bk:timestamp>1292318134.037</bk:timestamp>
+      <link>http://brightkite.com/objects/6c5a70f2484abeb616f446a4b1251e23</link>
+      <guid>http://brightkite.com/objects/6c5a70f2484abeb616f446a4b1251e23</guid>
+    </item>
+    <item>
+      <title>theKENnection posted a photo @ Chili's Grill &amp; Bar</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/86/61/8661ba6c554199e0bb8c5515a78cb883-feed.png" /&gt;&lt;br /&gt;#brainSTRAIN</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/86/61/8661ba6c554199e0bb8c5515a78cb883-feed.png</bk:photoLink>
+      <bk:photoCaption>#brainSTRAIN</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/86/61/8661ba6c554199e0bb8c5515a78cb883-feed.png"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/86/61/8661ba6c554199e0bb8c5515a78cb883-big.png"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/86/61/8661ba6c554199e0bb8c5515a78cb883-feed.png"/>
+      <bk:userLink>http://brightkite.com/people/theKENnection</bk:userLink>
+      <bk:userName>theKENnection</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/b3/d6/b3d68bce7b3549aae00bf12c04ddf64d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/70e39024f5eb71da1f3a236b9d7e17d4304a06ce</bk:placeLink>
+      <bk:placeName>Chili's Grill &amp; Bar</bk:placeName>
+      <bk:placeAddress>9200 Reseda Blvd, Northridge, CA, United States</bk:placeAddress>
+      <geo:lat>34.237664</geo:lat>
+      <geo:long>-118.535586</geo:long>
+      <georss:point>34.237664 -118.535586</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Chili's Grill &amp; Bar</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:12:26 +0000</pubDate>
+      <bk:timestamp>1292317946.854</bk:timestamp>
+      <link>http://brightkite.com/objects/8661ba6c554199e0bb8c5515a78cb883</link>
+      <guid>http://brightkite.com/objects/8661ba6c554199e0bb8c5515a78cb883</guid>
+    </item>
+    <item>
+      <title>hk775m posted a photo @ &#65297;&#65300; &#65305;&#26481;&#21315;&#30707;&#30010;, Kagoshima, Kagoshima Prefecture</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/54/12/54123388f12dd62ba1367c018842bfdf-feed.png" /&gt;&lt;br /&gt;&#20170;&#12371;&#12371;&#12290;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/54/12/54123388f12dd62ba1367c018842bfdf-feed.png</bk:photoLink>
+      <bk:photoCaption>&#20170;&#12371;&#12371;&#12290;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/54/12/54123388f12dd62ba1367c018842bfdf-feed.png"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/54/12/54123388f12dd62ba1367c018842bfdf-big.png"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/54/12/54123388f12dd62ba1367c018842bfdf-feed.png"/>
+      <bk:userLink>http://brightkite.com/people/hk775m</bk:userLink>
+      <bk:userName>hk775m</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/f405b1c22cb711debd84003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/efa96134388111de9acb003048c0801e</bk:placeLink>
+      <bk:placeName>&#65297;&#65300; &#65305;&#26481;&#21315;&#30707;&#30010;, Kagoshima, Kagoshima Prefecture</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>31.591332</geo:lat>
+      <geo:long>130.555077</geo:long>
+      <georss:point>31.591332 130.555077</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>&#65297;&#65300; &#65305;&#26481;&#21315;&#30707;&#30010;, Kagoshima, Kagoshima Prefecture</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:02:40 +0000</pubDate>
+      <bk:timestamp>1292317360.481</bk:timestamp>
+      <link>http://brightkite.com/objects/54123388f12dd62ba1367c018842bfdf</link>
+      <guid>http://brightkite.com/objects/54123388f12dd62ba1367c018842bfdf</guid>
+    </item>
+    <item>
+      <title>Tirebiter posted a photo @ Twilight Zone</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/5b/df/5bdffdfcd8211f2fb766477d70921e65-feed.jpg" /&gt;&lt;br /&gt;http://cuteoverload.com/2010/12/07/ducklings-blowing-in-the-wind/
+Cuteness overload!</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/5b/df/5bdffdfcd8211f2fb766477d70921e65-feed.jpg</bk:photoLink>
+      <bk:photoCaption>http://cuteoverload.com/2010/12/07/ducklings-blowing-in-the-wind/
+Cuteness overload!</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/5b/df/5bdffdfcd8211f2fb766477d70921e65-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/5b/df/5bdffdfcd8211f2fb766477d70921e65-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/5b/df/5bdffdfcd8211f2fb766477d70921e65-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Tirebiter</bk:userLink>
+      <bk:userName>Tirebiter</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/35/ab/35ab6cc3ca90738bdfa33bfb5ced7712-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ba68c37fab41992a4762d3d48bb659a3</bk:placeLink>
+      <bk:placeName>Twilight Zone</bk:placeName>
+      <bk:placeAddress>411 Kalaimoku St, Honolulu, Hi, USA </bk:placeAddress>
+      <geo:lat>21.283184</geo:lat>
+      <geo:long>-157.829772</geo:long>
+      <georss:point>21.283184 -157.829772</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Twilight Zone</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:45:01 +0000</pubDate>
+      <bk:timestamp>1292316301.927</bk:timestamp>
+      <link>http://brightkite.com/objects/5bdffdfcd8211f2fb766477d70921e65</link>
+      <guid>http://brightkite.com/objects/5bdffdfcd8211f2fb766477d70921e65</guid>
+    </item>
+    <item>
+      <title>jediduke posted a photo @ Duke's Command Station</title>
+      <description>&lt;img src="http://www.limbo.com/bkimages/cd/a6/cda60e55b95d2b3017219738036cf6f6-feed.jpg" /&gt;&lt;br /&gt;#nowplaying '21 Guns' by Green Day from '21st Century Breakdown'. &#9834; http://bit.ly/gV7YyB Rating: &#9733;&#9733;&#9733;&#9733;&#9733; #GreenDay #bktunes</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://www.limbo.com/bkimages/cd/a6/cda60e55b95d2b3017219738036cf6f6-feed.jpg</bk:photoLink>
+      <bk:photoCaption>#nowplaying '21 Guns' by Green Day from '21st Century Breakdown'. &#9834; http://bit.ly/gV7YyB Rating: &#9733;&#9733;&#9733;&#9733;&#9733; #GreenDay #bktunes</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://www.limbo.com/bkimages/cd/a6/cda60e55b95d2b3017219738036cf6f6-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://www.limbo.com/bkimages/cd/a6/cda60e55b95d2b3017219738036cf6f6-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://www.limbo.com/bkimages/cd/a6/cda60e55b95d2b3017219738036cf6f6-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/jediduke</bk:userLink>
+      <bk:userName>jediduke</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/a4/fb/a4fb80007d66edf504b35ee35d279faf-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/86de0d1c4847241cf503dbf74ae0d31b</bk:placeLink>
+      <bk:placeName>Duke's Command Station</bk:placeName>
+      <bk:placeAddress>&#39640;&#20870;&#23546;&#39365;, &#26481;&#20140;&#37117;, Japan</bk:placeAddress>
+      <geo:lat>35.705385</geo:lat>
+      <geo:long>139.649867</geo:long>
+      <georss:point>35.705385 139.649867</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Duke's Command Station</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:36:39 +0000</pubDate>
+      <bk:timestamp>1292315799.036</bk:timestamp>
+      <link>http://brightkite.com/objects/cda60e55b95d2b3017219738036cf6f6</link>
+      <guid>http://brightkite.com/objects/cda60e55b95d2b3017219738036cf6f6</guid>
+    </item>
+    <item>
+      <title>Seravi posted a photo @ JP</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/9f/e1/9fe1a3ae4fd6bf0dd944c898426aeefa-feed.jpg" /&gt;&lt;br /&gt;So far liking the CNBC iPad app with quick access to currency and markets. NYT still wins for content and readability.</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/9f/e1/9fe1a3ae4fd6bf0dd944c898426aeefa-feed.jpg</bk:photoLink>
+      <bk:photoCaption>So far liking the CNBC iPad app with quick access to currency and markets. NYT still wins for content and readability.</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/9f/e1/9fe1a3ae4fd6bf0dd944c898426aeefa-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/9f/e1/9fe1a3ae4fd6bf0dd944c898426aeefa-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/9f/e1/9fe1a3ae4fd6bf0dd944c898426aeefa-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Seravi</bk:userLink>
+      <bk:userName>Seravi</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/38c0ac29a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/1ac16d41eed3fa66981727feab1ffc2d</bk:placeLink>
+      <bk:placeName>JP</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>35.734993</geo:lat>
+      <geo:long>139.631988</geo:long>
+      <georss:point>35.734993 139.631988</georss:point>
+      <georss:featuretypetag>street</georss:featuretypetag>
+      <georss:featurename>JP</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:33:56 +0000</pubDate>
+      <bk:timestamp>1292315636.559</bk:timestamp>
+      <link>http://brightkite.com/objects/9fe1a3ae4fd6bf0dd944c898426aeefa</link>
+      <guid>http://brightkite.com/objects/9fe1a3ae4fd6bf0dd944c898426aeefa</guid>
+    </item>
+    <item>
+      <title>funa3 posted a photo @ &#12479;&#12522;&#12540;&#12474;&#12467;&#12540;&#12498;&#12540;&#12288;&#19977;&#30000;&#22269;&#38555;&#12499;&#12523;&#12482;&#12531;&#12464;&#24215;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/a1/aa/a1aa39a1e53daceee3a435853b437aaf-feed.jpg" /&gt;&lt;br /&gt;bk iPhone apl &#12363;&#12425;fb&#12408;&#20889;&#30495;&#12364;&#12509;&#12473;&#12488;&#12373;&#12428;&#12427;&#12363;&#12398;&#12486;&#12473;&#12488;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/a1/aa/a1aa39a1e53daceee3a435853b437aaf-feed.jpg</bk:photoLink>
+      <bk:photoCaption>bk iPhone apl &#12363;&#12425;fb&#12408;&#20889;&#30495;&#12364;&#12509;&#12473;&#12488;&#12373;&#12428;&#12427;&#12363;&#12398;&#12486;&#12473;&#12488;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/a1/aa/a1aa39a1e53daceee3a435853b437aaf-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/a1/aa/a1aa39a1e53daceee3a435853b437aaf-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/a1/aa/a1aa39a1e53daceee3a435853b437aaf-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/funa3</bk:userLink>
+      <bk:userName>funa3</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/47/ae/47aea3cfe58292ef7358a587b4830896-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e0d867123616dd801d868c62298e10c3</bk:placeLink>
+      <bk:placeName>&#12479;&#12522;&#12540;&#12474;&#12467;&#12540;&#12498;&#12540;&#12288;&#19977;&#30000;&#22269;&#38555;&#12499;&#12523;&#12482;&#12531;&#12464;&#24215;</bk:placeName>
+      <bk:placeAddress>&#26085;&#26412;</bk:placeAddress>
+      <geo:lat>35.652644</geo:lat>
+      <geo:long>139.744353</geo:long>
+      <georss:point>35.652644 139.744353</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#12479;&#12522;&#12540;&#12474;&#12467;&#12540;&#12498;&#12540;&#12288;&#19977;&#30000;&#22269;&#38555;&#12499;&#12523;&#12482;&#12531;&#12464;&#24215;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:33:17 +0000</pubDate>
+      <bk:timestamp>1292315597.089</bk:timestamp>
+      <link>http://brightkite.com/objects/a1aa39a1e53daceee3a435853b437aaf</link>
+      <guid>http://brightkite.com/objects/a1aa39a1e53daceee3a435853b437aaf</guid>
+    </item>
+    <item>
+      <title>mountainash posted a photo @ Oakville</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/c4/2c/c42c65d555d45bf8bfc608b9bec74dc8-feed.jpg" /&gt;&lt;br /&gt;Haven't done this for a while</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/c4/2c/c42c65d555d45bf8bfc608b9bec74dc8-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Haven't done this for a while</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/c4/2c/c42c65d555d45bf8bfc608b9bec74dc8-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/c4/2c/c42c65d555d45bf8bfc608b9bec74dc8-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/c4/2c/c42c65d555d45bf8bfc608b9bec74dc8-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/mountainash</bk:userLink>
+      <bk:userName>mountainash</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/bdfc2c2a9a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/763e856148900cb3233c57268034aae9</bk:placeLink>
+      <bk:placeName>Oakville</bk:placeName>
+      <bk:placeAddress>Australia</bk:placeAddress>
+      <geo:lat>-33.622562</geo:lat>
+      <geo:long>150.862154</geo:long>
+      <georss:point>-33.622562 150.862154</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Oakville</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:31:11 +0000</pubDate>
+      <bk:timestamp>1292315471.197</bk:timestamp>
+      <link>http://brightkite.com/objects/c42c65d555d45bf8bfc608b9bec74dc8</link>
+      <guid>http://brightkite.com/objects/c42c65d555d45bf8bfc608b9bec74dc8</guid>
+    </item>
+    <item>
+      <title>PattysTail posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/36/99/3699d1ac0dc2148b96aa248059471b43-feed.jpg" /&gt;&lt;br /&gt;&#24112;&#12429;&#12387;&#12392;&#65281;&#20170;&#22812;&#12399;&#12405;&#12383;&#12372;&#24231;&#27969;&#26143;&#32676;&#12364;&#35211;&#12360;&#12427;&#12415;&#12383;&#12356;&#12391;&#12377;&#12424;&#12290;&#26376;&#12418;&#12391;&#12390;&#12356;&#12383;&#12363;&#12425;&#12289;&#21402;&#30528;&#12375;&#12390;&#31354;&#12434;&#30522;&#12417;&#12383;&#12356;&#12391;&#12377;&#12397;&#12290;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/36/99/3699d1ac0dc2148b96aa248059471b43-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#24112;&#12429;&#12387;&#12392;&#65281;&#20170;&#22812;&#12399;&#12405;&#12383;&#12372;&#24231;&#27969;&#26143;&#32676;&#12364;&#35211;&#12360;&#12427;&#12415;&#12383;&#12356;&#12391;&#12377;&#12424;&#12290;&#26376;&#12418;&#12391;&#12390;&#12356;&#12383;&#12363;&#12425;&#12289;&#21402;&#30528;&#12375;&#12390;&#31354;&#12434;&#30522;&#12417;&#12383;&#12356;&#12391;&#12377;&#12397;&#12290;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/36/99/3699d1ac0dc2148b96aa248059471b43-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/36/99/3699d1ac0dc2148b96aa248059471b43-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/36/99/3699d1ac0dc2148b96aa248059471b43-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/PattysTail</bk:userLink>
+      <bk:userName>PattysTail</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/a8/fa/a8faa8931119d332df64096be2859a05-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:29:15 +0000</pubDate>
+      <bk:timestamp>1292315355.092</bk:timestamp>
+      <link>http://brightkite.com/objects/3699d1ac0dc2148b96aa248059471b43</link>
+      <guid>http://brightkite.com/objects/3699d1ac0dc2148b96aa248059471b43</guid>
+    </item>
+    <item>
+      <title>satie posted a photo @ JP</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/71/f6/71f6a1056e2489a432b4ecf771eb7de3-feed.jpg" /&gt;&lt;br /&gt;&#24112;&#12426;&#36947;&#23492;&#12426;&#36947;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/71/f6/71f6a1056e2489a432b4ecf771eb7de3-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#24112;&#12426;&#36947;&#23492;&#12426;&#36947;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/71/f6/71f6a1056e2489a432b4ecf771eb7de3-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/71/f6/71f6a1056e2489a432b4ecf771eb7de3-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/71/f6/71f6a1056e2489a432b4ecf771eb7de3-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/satie</bk:userLink>
+      <bk:userName>satie</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/6c/be/6cbe77c497f4ccd10aac22aa9b0a315c-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/6ab072115278d45ef6b3b9f955f9e00d</bk:placeLink>
+      <bk:placeName>JP</bk:placeName>
+      <bk:placeAddress>Japan, Japan</bk:placeAddress>
+      <geo:lat>34.970133</geo:lat>
+      <geo:long>135.678698</geo:long>
+      <georss:point>34.970133 135.678698</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>JP</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:21:23 +0000</pubDate>
+      <bk:timestamp>1292314883.734</bk:timestamp>
+      <link>http://brightkite.com/objects/71f6a1056e2489a432b4ecf771eb7de3</link>
+      <guid>http://brightkite.com/objects/71f6a1056e2489a432b4ecf771eb7de3</guid>
+    </item>
+    <item>
+      <title>Lingurin posted a photo @ &#20845;&#26412;&#26408;&#12498;&#12523;&#12474;&#26862;&#12479;&#12527;&#12540;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/e1/73/e173e1e02462c9f373dede76d7a7e048-feed.jpg" /&gt;&lt;br /&gt;&#30456;&#26834; &#21127;&#22580;&#29256;2&#12398;&#20154;&#12364;&#12356;&#12383;&#12424;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/e1/73/e173e1e02462c9f373dede76d7a7e048-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#30456;&#26834; &#21127;&#22580;&#29256;2&#12398;&#20154;&#12364;&#12356;&#12383;&#12424;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/e1/73/e173e1e02462c9f373dede76d7a7e048-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/e1/73/e173e1e02462c9f373dede76d7a7e048-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/e1/73/e173e1e02462c9f373dede76d7a7e048-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Lingurin</bk:userLink>
+      <bk:userName>Lingurin</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/dc/7e/dc7e9d405da7919e10c8f6572affa1f0-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/03c0434a6cb2205952c2bf0255d2162e</bk:placeLink>
+      <bk:placeName>&#20845;&#26412;&#26408;&#12498;&#12523;&#12474;&#26862;&#12479;&#12527;&#12540;</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>35.660345</geo:lat>
+      <geo:long>139.729234</geo:long>
+      <georss:point>35.660345 139.729234</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#20845;&#26412;&#26408;&#12498;&#12523;&#12474;&#26862;&#12479;&#12527;&#12540;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:17:17 +0000</pubDate>
+      <bk:timestamp>1292314637.175</bk:timestamp>
+      <link>http://brightkite.com/objects/e173e1e02462c9f373dede76d7a7e048</link>
+      <guid>http://brightkite.com/objects/e173e1e02462c9f373dede76d7a7e048</guid>
+    </item>
+    <item>
+      <title>oshupun posted a photo @ &#12500;&#12483;&#12467;&#12525;&#12514;&#12531;&#12489;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/6c/79/6c79f42bea3356ff8776e61d81337a55-feed.jpg" /&gt;&lt;br /&gt;&#12458;&#12510;&#12540;&#12523;&#12399;&#12464;&#12521;&#12479;&#12531;&#12395;&#12375;&#12414;&#12377;&#12290;&#12458;&#12510;&#12540;&#12523;&#12398;&#20986;&#12375;&#27713;&#12395;&#28611;&#21402;&#12394;&#12458;&#12510;&#12540;&#12523;&#12398;&#21619;&#22092;&#12289;&#12502;&#12521;&#12531;&#12487;&#12540;&#12289;&#12463;&#12522;&#12540;&#12512;&#12289;&#12488;&#12510;&#12488;&#12434;&#20837;&#12428;&#12390;&#12477;&#12540;&#12473;&#12434;&#20316;&#12426;&#12289;&#12503;&#12522;&#12503;&#12522;&#12398;&#36523;&#12395;&#12363;&#12369;&#12390;&#12458;&#12540;&#12502;&#12531;&#12391;&#28988;&#12365;&#12414;&#12377;&#12290;&#12385;&#12423;&#12387;&#12392;&#26412;&#27671;&#12391;&#24537;&#12375;&#12367;&#12394;&#12387;&#12390;&#12365;&#12414;&#12375;&#12383;&#12290;&#12463;&#12521;&#12387;&#12392;&#12375;&#12414;&#12377;&#12290;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/6c/79/6c79f42bea3356ff8776e61d81337a55-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#12458;&#12510;&#12540;&#12523;&#12399;&#12464;&#12521;&#12479;&#12531;&#12395;&#12375;&#12414;&#12377;&#12290;&#12458;&#12510;&#12540;&#12523;&#12398;&#20986;&#12375;&#27713;&#12395;&#28611;&#21402;&#12394;&#12458;&#12510;&#12540;&#12523;&#12398;&#21619;&#22092;&#12289;&#12502;&#12521;&#12531;&#12487;&#12540;&#12289;&#12463;&#12522;&#12540;&#12512;&#12289;&#12488;&#12510;&#12488;&#12434;&#20837;&#12428;&#12390;&#12477;&#12540;&#12473;&#12434;&#20316;&#12426;&#12289;&#12503;&#12522;&#12503;&#12522;&#12398;&#36523;&#12395;&#12363;&#12369;&#12390;&#12458;&#12540;&#12502;&#12531;&#12391;&#28988;&#12365;&#12414;&#12377;&#12290;&#12385;&#12423;&#12387;&#12392;&#26412;&#27671;&#12391;&#24537;&#12375;&#12367;&#12394;&#12387;&#12390;&#12365;&#12414;&#12375;&#12383;&#12290;&#12463;&#12521;&#12387;&#12392;&#12375;&#12414;&#12377;&#12290;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/6c/79/6c79f42bea3356ff8776e61d81337a55-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/6c/79/6c79f42bea3356ff8776e61d81337a55-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/6c/79/6c79f42bea3356ff8776e61d81337a55-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/oshupun</bk:userLink>
+      <bk:userName>oshupun</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/76/8a/768ae2eaa4014cdadaf3ab65c111623a-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ee3badf6fe3f9d5e2c3868e5c9467b92</bk:placeLink>
+      <bk:placeName>&#12500;&#12483;&#12467;&#12525;&#12514;&#12531;&#12489;</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>31.592161</geo:lat>
+      <geo:long>130.553052</geo:long>
+      <georss:point>31.592161 130.553052</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#12500;&#12483;&#12467;&#12525;&#12514;&#12531;&#12489;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 08:05:59 +0000</pubDate>
+      <bk:timestamp>1292313959.05</bk:timestamp>
+      <link>http://brightkite.com/objects/6c79f42bea3356ff8776e61d81337a55</link>
+      <guid>http://brightkite.com/objects/6c79f42bea3356ff8776e61d81337a55</guid>
+    </item>
+    <item>
+      <title>jediduke posted a photo @ Duke's Command Station</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/3a/6b/3a6b05a2ce91b50f24611be65513afaf-feed.jpg" /&gt;&lt;br /&gt;&#12377;&#12370;&#12359;&#12394;&#12290;Web&#19978;&#12398;Gmail&#12290;&#12371;&#12435;&#12394;&#12480;&#12452;&#12450;&#12525;&#12464;&#12391;&#27880;&#24847;&#12434;&#20419;&#12375;&#12390;&#12367;&#12428;&#12427;&#12398;&#12363;&#12290; #Gmail</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/3a/6b/3a6b05a2ce91b50f24611be65513afaf-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#12377;&#12370;&#12359;&#12394;&#12290;Web&#19978;&#12398;Gmail&#12290;&#12371;&#12435;&#12394;&#12480;&#12452;&#12450;&#12525;&#12464;&#12391;&#27880;&#24847;&#12434;&#20419;&#12375;&#12390;&#12367;&#12428;&#12427;&#12398;&#12363;&#12290; #Gmail</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/3a/6b/3a6b05a2ce91b50f24611be65513afaf-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/3a/6b/3a6b05a2ce91b50f24611be65513afaf-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/3a/6b/3a6b05a2ce91b50f24611be65513afaf-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/jediduke</bk:userLink>
+      <bk:userName>jediduke</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/a4/fb/a4fb80007d66edf504b35ee35d279faf-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/86de0d1c4847241cf503dbf74ae0d31b</bk:placeLink>
+      <bk:placeName>Duke's Command Station</bk:placeName>
+      <bk:placeAddress>&#39640;&#20870;&#23546;&#39365;, &#26481;&#20140;&#37117;, Japan</bk:placeAddress>
+      <geo:lat>35.705385</geo:lat>
+      <geo:long>139.649867</geo:long>
+      <georss:point>35.705385 139.649867</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Duke's Command Station</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 07:50:08 +0000</pubDate>
+      <bk:timestamp>1292313008.291</bk:timestamp>
+      <link>http://brightkite.com/objects/3a6b05a2ce91b50f24611be65513afaf</link>
+      <guid>http://brightkite.com/objects/3a6b05a2ce91b50f24611be65513afaf</guid>
+    </item>
+    <item>
+      <title>gardenpapa posted a photo @ &#12383;&#12363;&#12415;&#23627;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/8e/59/8e59cb4017c95cc48960f4b5d2e452d0-feed.jpg" /&gt;&lt;br /&gt;&#32048;&#12385;&#12386;&#12428;&#40629;&#12398;&#12521;&#12540;&#12513;&#12531;&#12290;&#25040;&#12363;&#12375;&#12356;&#12290;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/8e/59/8e59cb4017c95cc48960f4b5d2e452d0-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#32048;&#12385;&#12386;&#12428;&#40629;&#12398;&#12521;&#12540;&#12513;&#12531;&#12290;&#25040;&#12363;&#12375;&#12356;&#12290;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/8e/59/8e59cb4017c95cc48960f4b5d2e452d0-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/8e/59/8e59cb4017c95cc48960f4b5d2e452d0-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/8e/59/8e59cb4017c95cc48960f4b5d2e452d0-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/gardenpapa</bk:userLink>
+      <bk:userName>gardenpapa</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/d7/5a/d75a5f066ed12be8394bb82f3c532d0b-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/5931a851a79da449537f5844bdb25cdb</bk:placeLink>
+      <bk:placeName>&#12383;&#12363;&#12415;&#23627;</bk:placeName>
+      <bk:placeAddress>Japan</bk:placeAddress>
+      <geo:lat>39.699239</geo:lat>
+      <geo:long>141.153892</geo:long>
+      <georss:point>39.699239 141.153892</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#12383;&#12363;&#12415;&#23627;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 07:43:19 +0000</pubDate>
+      <bk:timestamp>1292312599.579</bk:timestamp>
+      <link>http://brightkite.com/objects/8e59cb4017c95cc48960f4b5d2e452d0</link>
+      <guid>http://brightkite.com/objects/8e59cb4017c95cc48960f4b5d2e452d0</guid>
+    </item>
+    <item>
+      <title>kien1tc posted a photo @ Shinonoi Station &#31712;&#12494;&#20117;&#39365; &#31712;&#20035;&#20117;&#36554;&#31449; &#49884;&#45432;&#45432;&#51060;&#50669;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d5/b5/d5b5946fe4b4d0c03dc336bde3cfea38-feed.jpg" /&gt;&lt;br /&gt;48&#176;F 9&#176;C &#9728;&#9789; 16:20 &#57383;
+Sun has set already. &#1743;&#1605;&#1575;&#1578;&#1607;&#1575;&#1585;&#1610; &#1587;&#1608;&#1583;&#1607; &#1578;&#1585;&#1576;&#1606;&#1600;&#1600;&#1600;&#1600;&#1600;&#1606; &#22826;&#38525;&#24050;&#32147;&#19979;&#23665;&#20102;&#12290;&#57421; &#8226;&#805;&#785;.&#814;&#8226;&#805;&#785; @myEN
+... On my way home &#1583; &#1580;&#1575;&#1604;&#1600;&#1600;&#1600;&#1600;&#1600;&#1606; &#1603; &#1585;&#1608;&#1605;&#1600;&#1600;&#1600;&#1600;&#1600;&#1607;&#1603;&#1608; &#22238;&#23478;&#36335;&#19978;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d5/b5/d5b5946fe4b4d0c03dc336bde3cfea38-feed.jpg</bk:photoLink>
+      <bk:photoCaption>48&#176;F 9&#176;C &#9728;&#9789; 16:20 &#57383;
+Sun has set already. &#1743;&#1605;&#1575;&#1578;&#1607;&#1575;&#1585;&#1610; &#1587;&#1608;&#1583;&#1607; &#1578;&#1585;&#1576;&#1606;&#1600;&#1600;&#1600;&#1600;&#1600;&#1606; &#22826;&#38525;&#24050;&#32147;&#19979;&#23665;&#20102;&#12290;&#57421; &#8226;&#805;&#785;.&#814;&#8226;&#805;&#785; @myEN
+... On my way home &#1583; &#1580;&#1575;&#1604;&#1600;&#1600;&#1600;&#1600;&#1600;&#1606; &#1603; &#1585;&#1608;&#1605;&#1600;&#1600;&#1600;&#1600;&#1600;&#1607;&#1603;&#1608; &#22238;&#23478;&#36335;&#19978;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/d5/b5/d5b5946fe4b4d0c03dc336bde3cfea38-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d5/b5/d5b5946fe4b4d0c03dc336bde3cfea38-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d5/b5/d5b5946fe4b4d0c03dc336bde3cfea38-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/kien1tc</bk:userLink>
+      <bk:userName>kien1tc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/e0/c5/e0c5f0a7ee985ffccdac859e9ae88ad1-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/5840c2b79c3814dee373b295ce0641aa</bk:placeLink>
+      <bk:placeName>Shinonoi Station &#31712;&#12494;&#20117;&#39365; &#31712;&#20035;&#20117;&#36554;&#31449; &#49884;&#45432;&#45432;&#51060;&#50669;</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>36.576991</geo:lat>
+      <geo:long>138.137976</geo:long>
+      <georss:point>36.576991 138.137976</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Shinonoi Station &#31712;&#12494;&#20117;&#39365; &#31712;&#20035;&#20117;&#36554;&#31449; &#49884;&#45432;&#45432;&#51060;&#50669;</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 07:37:09 +0000</pubDate>
+      <bk:timestamp>1292312229.088</bk:timestamp>
+      <link>http://brightkite.com/objects/d5b5946fe4b4d0c03dc336bde3cfea38</link>
+      <guid>http://brightkite.com/objects/d5b5946fe4b4d0c03dc336bde3cfea38</guid>
+    </item>
+    <item>
+      <title>rcaedic posted a photo @ Brightkite Tits-Up</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/99/e8/99e8289c6115c39f257417a1cadee4a0-feed.jpg" /&gt;&lt;br /&gt;#notsorandompic</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/99/e8/99e8289c6115c39f257417a1cadee4a0-feed.jpg</bk:photoLink>
+      <bk:photoCaption>#notsorandompic</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/99/e8/99e8289c6115c39f257417a1cadee4a0-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/99/e8/99e8289c6115c39f257417a1cadee4a0-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/99/e8/99e8289c6115c39f257417a1cadee4a0-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/rcaedic</bk:userLink>
+      <bk:userName>rcaedic</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/70/77/70771eb5297edc05ad7aec6f24df0cdd-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/b9bc162a3db0c683dd64729fea1355b9</bk:placeLink>
+      <bk:placeName>Brightkite Tits-Up</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>42.636526</geo:lat>
+      <geo:long>-114.826185</geo:long>
+      <georss:point>42.636526 -114.826185</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Brightkite Tits-Up</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 07:35:27 +0000</pubDate>
+      <bk:timestamp>1292312127.033</bk:timestamp>
+      <link>http://brightkite.com/objects/99e8289c6115c39f257417a1cadee4a0</link>
+      <guid>http://brightkite.com/objects/99e8289c6115c39f257417a1cadee4a0</guid>
+    </item>
+  </channel>
+</rss>

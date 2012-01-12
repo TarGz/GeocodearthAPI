@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:bk="http://brightkite.com/placeFeed" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>karlak15 posted a text message @ Somewhere in the world</title>
+      <description>magdon http://www.myspace.cc/forums/index.php?showtopic=37712</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>magdon http://www.myspace.cc/forums/index.php?showtopic=37712</bk:message>
+      <bk:userLink>http://brightkite.com/people/karlak15</bk:userLink>
+      <bk:userName>karlak15</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:41:08 +0000</pubDate>
+      <bk:timestamp>1292319668.816</bk:timestamp>
+      <link>http://brightkite.com/objects/93b64786d42de22d67c19080d5685c15</link>
+      <guid>http://brightkite.com/objects/93b64786d42de22d67c19080d5685c15</guid>
+    </item>
+    <item>
+      <title>Succesgids posted a text message @ Somewhere in the world</title>
+      <description>&#8220;There is no such thing as failure. There are only results.&#8221;</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>&#8220;There is no such thing as failure. There are only results.&#8221;</bk:message>
+      <bk:userLink>http://brightkite.com/people/Succesgids</bk:userLink>
+      <bk:userName>Succesgids</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/d2/89/d2892b0b073fbbda9943619c6430168d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:40:53 +0000</pubDate>
+      <bk:timestamp>1292319653.192</bk:timestamp>
+      <link>http://brightkite.com/objects/bed64205d9dd492c8574bdbf59919a73</link>
+      <guid>http://brightkite.com/objects/bed64205d9dd492c8574bdbf59919a73</guid>
+    </item>
+    <item>
+      <title>Franchiseafcllc posted a text message @ Somewhere in the world</title>
+      <description>Business Alliance is uniquely able to provide a win-win scenario for the investor and the franchiser. Try http://ow.ly/2kt2M</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Business Alliance is uniquely able to provide a win-win scenario for the investor and the franchiser. Try http://ow.ly/2kt2M</bk:message>
+      <bk:userLink>http://brightkite.com/people/Franchiseafcllc</bk:userLink>
+      <bk:userName>Franchiseafcllc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/9a/3a/9a3a40903ce21d2ddbfc82db2522235d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:40:03 +0000</pubDate>
+      <bk:timestamp>1292319603.416</bk:timestamp>
+      <link>http://brightkite.com/objects/a48b2e647f293dc6ac48eeaf2f918122</link>
+      <guid>http://brightkite.com/objects/a48b2e647f293dc6ac48eeaf2f918122</guid>
+    </item>
+    <item>
+      <title>htpc posted a text message @ Somewhere in the world</title>
+      <description>looking through "Ya puedes descargar los AMD Catalyst 10.12". http://bit.ly/hN42YC</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>looking through "Ya puedes descargar los AMD Catalyst 10.12". http://bit.ly/hN42YC</bk:message>
+      <bk:userLink>http://brightkite.com/people/htpc</bk:userLink>
+      <bk:userName>htpc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/42/6f/426fb039b2550e6c9042f064ebc28a9c-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:39:37 +0000</pubDate>
+      <bk:timestamp>1292319577.174</bk:timestamp>
+      <link>http://brightkite.com/objects/c076570f3cd95c8249dbbeb3062d51d5</link>
+      <guid>http://brightkite.com/objects/c076570f3cd95c8249dbbeb3062d51d5</guid>
+    </item>
+    <item>
+      <title>tv0607 posted a text message @ Somewhere in the world</title>
+      <description>Visa Student Credit Card | DID OBAMA REALLY ABANDON THE BASE ? RACHEL MADDOW SPEAKS WITH MEREDITH VIEIRA ON THE &#8230; http://ping.fm/67h83</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Visa Student Credit Card | DID OBAMA REALLY ABANDON THE BASE ? RACHEL MADDOW SPEAKS WITH MEREDITH VIEIRA ON THE &#8230; http://ping.fm/67h83</bk:message>
+      <bk:userLink>http://brightkite.com/people/tv0607</bk:userLink>
+      <bk:userName>tv0607</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/cd/f9/cdf95c22c42ce6369b77f2172ace5d08-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:39:34 +0000</pubDate>
+      <bk:timestamp>1292319574.563</bk:timestamp>
+      <link>http://brightkite.com/objects/074a6c5a1ae3ff2904ea0b51f9bee62d</link>
+      <guid>http://brightkite.com/objects/074a6c5a1ae3ff2904ea0b51f9bee62d</guid>
+    </item>
+    <item>
+      <title>Franchiseafcllc posted a text message @ Somewhere in the world</title>
+      <description>We have two great home based business opportunities that are low start up cost and very profitable. Visit us at http://ow.ly/2ktXb</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>We have two great home based business opportunities that are low start up cost and very profitable. Visit us at http://ow.ly/2ktXb</bk:message>
+      <bk:userLink>http://brightkite.com/people/Franchiseafcllc</bk:userLink>
+      <bk:userName>Franchiseafcllc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/9a/3a/9a3a40903ce21d2ddbfc82db2522235d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:39:24 +0000</pubDate>
+      <bk:timestamp>1292319564.924</bk:timestamp>
+      <link>http://brightkite.com/objects/66250b3c2d931f53d8f5034867a905e5</link>
+      <guid>http://brightkite.com/objects/66250b3c2d931f53d8f5034867a905e5</guid>
+    </item>
+    <item>
+      <title>Franchiseafcllc posted a text message @ Somewhere in the world</title>
+      <description>Franchise Consulting gives you an exciting offer which includes free franchise ,advices, helps in financial &amp; more visit http://ow.ly/2kt3I</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Franchise Consulting gives you an exciting offer which includes free franchise ,advices, helps in financial &amp; more visit http://ow.ly/2kt3I</bk:message>
+      <bk:userLink>http://brightkite.com/people/Franchiseafcllc</bk:userLink>
+      <bk:userName>Franchiseafcllc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/9a/3a/9a3a40903ce21d2ddbfc82db2522235d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:39:23 +0000</pubDate>
+      <bk:timestamp>1292319563.709</bk:timestamp>
+      <link>http://brightkite.com/objects/67d26c07b8bc1aa7f09ec59c26e5cc43</link>
+      <guid>http://brightkite.com/objects/67d26c07b8bc1aa7f09ec59c26e5cc43</guid>
+    </item>
+    <item>
+      <title>nophiefirdaos posted a text message @ Somewhere in the world</title>
+      <description>What is it About Celebrity And Baldness? http://ping.fm/LxsfJ</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>What is it About Celebrity And Baldness? http://ping.fm/LxsfJ</bk:message>
+      <bk:userLink>http://brightkite.com/people/nophiefirdaos</bk:userLink>
+      <bk:userName>nophiefirdaos</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:39:01 +0000</pubDate>
+      <bk:timestamp>1292319541.356</bk:timestamp>
+      <link>http://brightkite.com/objects/2b733b9c14d92a6ea562a270452340d8</link>
+      <guid>http://brightkite.com/objects/2b733b9c14d92a6ea562a270452340d8</guid>
+    </item>
+    <item>
+      <title>nophiefirdaos posted a text message @ Somewhere in the world</title>
+      <description>The Causes of Roundworms in Dogs http://ping.fm/2UCb3</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>The Causes of Roundworms in Dogs http://ping.fm/2UCb3</bk:message>
+      <bk:userLink>http://brightkite.com/people/nophiefirdaos</bk:userLink>
+      <bk:userName>nophiefirdaos</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:58 +0000</pubDate>
+      <bk:timestamp>1292319538.881</bk:timestamp>
+      <link>http://brightkite.com/objects/cb6dc9ec9db2b817bf0ce0a6e90d617e</link>
+      <guid>http://brightkite.com/objects/cb6dc9ec9db2b817bf0ce0a6e90d617e</guid>
+    </item>
+    <item>
+      <title>Franchiseafcllc posted a text message @ Somewhere in the world</title>
+      <description>Do you possess the motivation and determination to own a business? If so, we have an exciting business opportunity at http://ow.ly/2kuao</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Do you possess the motivation and determination to own a business? If so, we have an exciting business opportunity at http://ow.ly/2kuao</bk:message>
+      <bk:userLink>http://brightkite.com/people/Franchiseafcllc</bk:userLink>
+      <bk:userName>Franchiseafcllc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/9a/3a/9a3a40903ce21d2ddbfc82db2522235d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:54 +0000</pubDate>
+      <bk:timestamp>1292319534.05</bk:timestamp>
+      <link>http://brightkite.com/objects/749dd3e74554a8794b1975803daa675d</link>
+      <guid>http://brightkite.com/objects/749dd3e74554a8794b1975803daa675d</guid>
+    </item>
+    <item>
+      <title>patphelan posted a text message @ Blackrock, , Ireland</title>
+      <description>Links for 2010-12-13 [del.icio.us] http://ping.fm/Dghia</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Links for 2010-12-13 [del.icio.us] http://ping.fm/Dghia</bk:message>
+      <bk:userLink>http://brightkite.com/people/patphelan</bk:userLink>
+      <bk:userName>patphelan</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/72d87d32e9f511dd82cc003048c0801e</bk:placeLink>
+      <bk:placeName>Blackrock, , Ireland</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>51.896571</geo:lat>
+      <geo:long>-8.40158</geo:long>
+      <georss:point>51.896571 -8.40158</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Blackrock, , Ireland</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:53 +0000</pubDate>
+      <bk:timestamp>1292319533.172</bk:timestamp>
+      <link>http://brightkite.com/objects/d67314ef721f038030860b27b208da7a</link>
+      <guid>http://brightkite.com/objects/d67314ef721f038030860b27b208da7a</guid>
+    </item>
+    <item>
+      <title>wawerek12 posted a text message @ Somewhere in the world</title>
+      <description>kugiel http://www.liveforthemetal.com/community/viewtopic.php?pid=210981#p210981</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>kugiel http://www.liveforthemetal.com/community/viewtopic.php?pid=210981#p210981</bk:message>
+      <bk:userLink>http://brightkite.com/people/wawerek12</bk:userLink>
+      <bk:userName>wawerek12</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:47 +0000</pubDate>
+      <bk:timestamp>1292319527.058</bk:timestamp>
+      <link>http://brightkite.com/objects/18690cc505a77a84fdf169b60916a062</link>
+      <guid>http://brightkite.com/objects/18690cc505a77a84fdf169b60916a062</guid>
+    </item>
+    <item>
+      <title>malysiak6 posted a text message @ Somewhere in the world</title>
+      <description>matus http://www.thepalmbeachtimes.com/forum/viewtopic.php?f=3&amp;t=104362</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>matus http://www.thepalmbeachtimes.com/forum/viewtopic.php?f=3&amp;t=104362</bk:message>
+      <bk:userLink>http://brightkite.com/people/malysiak6</bk:userLink>
+      <bk:userName>malysiak6</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:45 +0000</pubDate>
+      <bk:timestamp>1292319525.61</bk:timestamp>
+      <link>http://brightkite.com/objects/5a029f3e505a556ec7d9017b469536bc</link>
+      <guid>http://brightkite.com/objects/5a029f3e505a556ec7d9017b469536bc</guid>
+    </item>
+    <item>
+      <title>iphoneorandroid posted a text message @ Somewhere in the world</title>
+      <description>How to Jailbreak iOS 4.2.1 on iPhone, iPad or iPod Touch http://bit.ly/f9y8gs iphone android</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>How to Jailbreak iOS 4.2.1 on iPhone, iPad or iPod Touch http://bit.ly/f9y8gs iphone android</bk:message>
+      <bk:userLink>http://brightkite.com/people/iphoneorandroid</bk:userLink>
+      <bk:userName>iphoneorandroid</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/32/c3/32c389a315c79e13dcd03963641b64fa-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:07 +0000</pubDate>
+      <bk:timestamp>1292319487.202</bk:timestamp>
+      <link>http://brightkite.com/objects/65a08ccf4b4077c4c094ce766c86b933</link>
+      <guid>http://brightkite.com/objects/65a08ccf4b4077c4c094ce766c86b933</guid>
+    </item>
+    <item>
+      <title>kankan1978 posted a text message @ Somewhere in the world</title>
+      <description>The Secrets To Reverse Auctions http://thebidblog.com/922/the-secrets-to-reverse-auctions/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>The Secrets To Reverse Auctions http://thebidblog.com/922/the-secrets-to-reverse-auctions/</bk:message>
+      <bk:userLink>http://brightkite.com/people/kankan1978</bk:userLink>
+      <bk:userName>kankan1978</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:03 +0000</pubDate>
+      <bk:timestamp>1292319483.193</bk:timestamp>
+      <link>http://brightkite.com/objects/8b8c5f191f2a5135a2bd5c59df06d4cc</link>
+      <guid>http://brightkite.com/objects/8b8c5f191f2a5135a2bd5c59df06d4cc</guid>
+    </item>
+    <item>
+      <title>lyricvdeo posted a text message @ Somewhere in the world</title>
+      <description>I &amp;#9829; Super Junior !'s Photos http://bit.ly/bkLjWl (via http://bit.ly/aqlI9W )</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>I &amp;#9829; Super Junior !'s Photos http://bit.ly/bkLjWl (via http://bit.ly/aqlI9W )</bk:message>
+      <bk:userLink>http://brightkite.com/people/lyricvdeo</bk:userLink>
+      <bk:userName>lyricvdeo</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/e8/d3/e8d32c0447d327052a137bbeb2ba0579-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:38:00 +0000</pubDate>
+      <bk:timestamp>1292319480.909</bk:timestamp>
+      <link>http://brightkite.com/objects/3bdaba99fca3569a028cdb10feb93ef9</link>
+      <guid>http://brightkite.com/objects/3bdaba99fca3569a028cdb10feb93ef9</guid>
+    </item>
+    <item>
+      <title>Franchiseafcllc posted a text message @ Somewhere in the world</title>
+      <description>Do you take real pleasure in being the boss, or having the authority and responsibility for the success or failure of a new venture? http://</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Do you take real pleasure in being the boss, or having the authority and responsibility for the success or failure of a new venture? http://</bk:message>
+      <bk:userLink>http://brightkite.com/people/Franchiseafcllc</bk:userLink>
+      <bk:userName>Franchiseafcllc</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/9a/3a/9a3a40903ce21d2ddbfc82db2522235d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:37:59 +0000</pubDate>
+      <bk:timestamp>1292319479.181</bk:timestamp>
+      <link>http://brightkite.com/objects/154f53fd5003a90ae1d3f1b28bb89934</link>
+      <guid>http://brightkite.com/objects/154f53fd5003a90ae1d3f1b28bb89934</guid>
+    </item>
+    <item>
+      <title>jsaroja posted a text message @ Somewhere in the world</title>
+      <description>A Study in Zinfandel | Columns | News &amp;amp; Features http://bit.ly/ftPG4N (via http://bit.ly/dpoLr7 )</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>A Study in Zinfandel | Columns | News &amp;amp; Features http://bit.ly/ftPG4N (via http://bit.ly/dpoLr7 )</bk:message>
+      <bk:userLink>http://brightkite.com/people/jsaroja</bk:userLink>
+      <bk:userName>jsaroja</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:37:51 +0000</pubDate>
+      <bk:timestamp>1292319471.478</bk:timestamp>
+      <link>http://brightkite.com/objects/cf053b07638e465f8374f10097d011c8</link>
+      <guid>http://brightkite.com/objects/cf053b07638e465f8374f10097d011c8</guid>
+    </item>
+    <item>
+      <title>trybek11 posted a text message @ Somewhere in the world</title>
+      <description>maciejczuk http://e-gracz.pl/index.php?showtopic=6880</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>maciejczuk http://e-gracz.pl/index.php?showtopic=6880</bk:message>
+      <bk:userLink>http://brightkite.com/people/trybek11</bk:userLink>
+      <bk:userName>trybek11</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:37:50 +0000</pubDate>
+      <bk:timestamp>1292319470.877</bk:timestamp>
+      <link>http://brightkite.com/objects/49a9409885370c62a81d6f30574169f5</link>
+      <guid>http://brightkite.com/objects/49a9409885370c62a81d6f30574169f5</guid>
+    </item>
+    <item>
+      <title>ostrouch7 posted a text message @ Somewhere in the world</title>
+      <description>suszczewicz http://www.intotheduat.com/forum/viewtopic.php?f=2&amp;t=5371</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>suszczewicz http://www.intotheduat.com/forum/viewtopic.php?f=2&amp;t=5371</bk:message>
+      <bk:userLink>http://brightkite.com/people/ostrouch7</bk:userLink>
+      <bk:userName>ostrouch7</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Tue, 14 Dec 2010 09:37:49 +0000</pubDate>
+      <bk:timestamp>1292319469.32</bk:timestamp>
+      <link>http://brightkite.com/objects/e0988d71072835c3e53440359766d6b2</link>
+      <guid>http://brightkite.com/objects/e0988d71072835c3e53440359766d6b2</guid>
+    </item>
+  </channel>
+</rss>

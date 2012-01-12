@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cross-domain-policy>
+    <allow-access-from domain="*.twittearth.com"/>
+    <allow-access-from domain="*.twittearth.fr"/>
+    <allow-access-from domain="*.terraz.org"/>
+    <allow-access-from domain="*.geocodearth.com"/>
+ </cross-domain-policy>

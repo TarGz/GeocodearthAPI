@@ -1,0 +1,89 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Flickr Gallerie</title>
+<link>http://www.geocodearth.com</link>
+<description>V1</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>P1010011</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1286009901</pubDate>
+<link>http://www.flickr.com/photos/barradeau/5043309603/</link>
+<author><a href='http://www.flickr.com/photos/barradeau/5043309603/'>5</a></author>
+<guid>5043309603</guid>
+<media:content url='http://farm5.static.flickr.com/4130/5043309603_e91bf6c936.jpg' type='image/jpeg'/>
+<media:title>P1010011</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4130/5043309603_e91bf6c936_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>FOTB Brighton 09</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1253659966</pubDate>
+<link>http://www.flickr.com/photos/leerraum/3946168492/</link>
+<author><a href='http://www.flickr.com/photos/leerraum/3946168492/'>3</a></author>
+<guid>3946168492</guid>
+<media:content url='http://farm3.static.flickr.com/2446/3946168492_d8f6db93c2.jpg' type='image/jpeg'/>
+<media:title>FOTB Brighton 09</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2446/3946168492_d8f6db93c2_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>FOTB</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1285263685</pubDate>
+<link>http://www.flickr.com/photos/50760206@N04/5017689879/</link>
+<author><a href='http://www.flickr.com/photos/50760206@N04/5017689879/'>5</a></author>
+<guid>5017689879</guid>
+<media:content url='http://farm5.static.flickr.com/4149/5017689879_80b57854f9.jpg' type='image/jpeg'/>
+<media:title>FOTB</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4149/5017689879_80b57854f9_s.jpg' height='248' width='150' />
+</item>
+
+<item>
+<title>FOTB Brighton 09</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1253660082</pubDate>
+<link>http://www.flickr.com/photos/leerraum/3945389829/</link>
+<author><a href='http://www.flickr.com/photos/leerraum/3945389829/'>3</a></author>
+<guid>3945389829</guid>
+<media:content url='http://farm4.static.flickr.com/3450/3945389829_3c593c2a91.jpg' type='image/jpeg'/>
+<media:title>FOTB Brighton 09</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3450/3945389829_3c593c2a91_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>FOTB poster</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1253823528</pubDate>
+<link>http://www.flickr.com/photos/niquimerret/3950820825/</link>
+<author><a href='http://www.flickr.com/photos/niquimerret/3950820825/'>6</a></author>
+<guid>3950820825</guid>
+<media:content url='http://farm4.static.flickr.com/3506/3950820825_3210fc0804.jpg' type='image/jpeg'/>
+<media:title>FOTB poster</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3506/3950820825_3210fc0804_s.jpg' height='354' width='500' />
+</item>
+</channel>
+</rss>
+1

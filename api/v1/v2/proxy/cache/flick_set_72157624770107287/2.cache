@@ -1,0 +1,328 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Twitter public timeline in GeoRss</title>
+<link>http://www.geocodearth.com/api/proxy/twitter_proxy.php</link>
+<description>See what's going on in the Twiter Universe</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>-33.0173</geo:lat>
+<geo:long>27.90081</geo:long>
+<georss:point>-33.0173 27.90081</georss:point>
+<georss:featurename>East London, Afrique du Sud</georss:featurename>
+<pubDate>1283285774</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945738001/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945738001/'>Commonwealth Pavilion</a></author>
+<guid>4945738001</guid>
+<media:content url='http://farm5.static.flickr.com/4112/4945738001_a2f702e8f1.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4112/4945738001_a2f702e8f1_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>2.228975</geo:lat>
+<geo:long>102.248382</geo:long>
+<georss:point>2.228975 102.248382</georss:point>
+<georss:featurename>Peringgit, Malaisie</georss:featurename>
+<pubDate>1283285773</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945737947/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945737947/'>Commonwealth Pavilion</a></author>
+<guid>4945737947</guid>
+<media:content url='http://farm5.static.flickr.com/4146/4945737947_815e757161.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4146/4945737947_815e757161_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>51.757109</geo:lat>
+<geo:long>-1.261711</geo:long>
+<georss:point>51.757109 -1.261711</georss:point>
+<georss:featurename>Oxford, Royaume Uni</georss:featurename>
+<pubDate>1283285775</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323112/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323112/'>Commonwealth Pavilion</a></author>
+<guid>4946323112</guid>
+<media:content url='http://farm5.static.flickr.com/4149/4946323112_b1a571ff0b.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4149/4946323112_b1a571ff0b_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>45.415804</geo:lat>
+<geo:long>-75.694427</geo:long>
+<georss:point>45.415804 -75.694427</georss:point>
+<georss:featurename>Ottawa, Canada</georss:featurename>
+<pubDate>1283285776</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323168/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323168/'>Commonwealth Pavilion</a></author>
+<guid>4946323168</guid>
+<media:content url='http://farm5.static.flickr.com/4118/4946323168_cf4de7b23d.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4118/4946323168_cf4de7b23d_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>10.521315</geo:lat>
+<geo:long>-61.431598</geo:long>
+<georss:point>10.521315 -61.431598</georss:point>
+<georss:featurename>Chaguanas, Trinité-et-Tobago</georss:featurename>
+<pubDate>1283285778</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945738159/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945738159/'>Commonwealth Pavilion</a></author>
+<guid>4945738159</guid>
+<media:content url='http://farm5.static.flickr.com/4125/4945738159_c96f68ddc6.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4125/4945738159_c96f68ddc6_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>8.518382</geo:lat>
+<geo:long>76.952705</geo:long>
+<georss:point>8.518382 76.952705</georss:point>
+<georss:featurename>Thiruvananthapuram, Inde</georss:featurename>
+<pubDate>1283285779</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323308/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323308/'>Commonwealth Pavilion</a></author>
+<guid>4946323308</guid>
+<media:content url='http://farm5.static.flickr.com/4116/4946323308_e43c9ef1ee.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4116/4946323308_e43c9ef1ee_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>-41.278064</geo:lat>
+<geo:long>174.768791</geo:long>
+<georss:point>-41.278064 174.768791</georss:point>
+<georss:featurename>Wellington, Nouvelle-Zélande</georss:featurename>
+<pubDate>1283285780</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945738285/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945738285/'>Commonwealth Pavilion</a></author>
+<guid>4945738285</guid>
+<media:content url='http://farm5.static.flickr.com/4131/4945738285_7f7f59118e.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4131/4945738285_7f7f59118e_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>6.4412</geo:lat>
+<geo:long>3.422412</geo:long>
+<georss:point>6.4412 3.422412</georss:point>
+<georss:featurename>Lagos, Nigeria</georss:featurename>
+<pubDate>1283285781</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945738343/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945738343/'>Commonwealth Pavilion</a></author>
+<guid>4945738343</guid>
+<media:content url='http://farm5.static.flickr.com/4104/4945738343_59ba6e9fdc.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4104/4945738343_59ba6e9fdc_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>-42.866151</geo:lat>
+<geo:long>147.323913</geo:long>
+<georss:point>-42.866151 147.323913</georss:point>
+<georss:featurename>Hobart, Australie</georss:featurename>
+<pubDate>1283285783</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323502/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323502/'>Commonwealth Pavilion</a></author>
+<guid>4946323502</guid>
+<media:content url='http://farm5.static.flickr.com/4091/4946323502_1e98d65b1f.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4091/4946323502_1e98d65b1f_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>-1.280916</geo:lat>
+<geo:long>36.818962</geo:long>
+<georss:point>-1.280916 36.818962</georss:point>
+<georss:featurename>Nairobi, Kenya</georss:featurename>
+<pubDate>1283285784</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323554/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323554/'>Commonwealth Pavilion</a></author>
+<guid>4946323554</guid>
+<media:content url='http://farm5.static.flickr.com/4150/4946323554_17bf871745.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4150/4946323554_17bf871745_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>4.171115</geo:lat>
+<geo:long>73.497676</geo:long>
+<georss:point>4.171115 73.497676</georss:point>
+<georss:featurename>Male International Airport, Maldives</georss:featurename>
+<pubDate>1283285785</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4945738555/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4945738555/'>Commonwealth Pavilion</a></author>
+<guid>4945738555</guid>
+<media:content url='http://farm5.static.flickr.com/4109/4945738555_b173eb93c9.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4109/4945738555_b173eb93c9_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>GreenHouse: A Commonwealth Climate Challenge</title>
+<description>Array</description>
+<geo:lat>-13.829912</geo:lat>
+<geo:long>-171.757335</geo:long>
+<georss:point>-13.829912 -171.757335</georss:point>
+<georss:featurename>, Samoa-Occidental</georss:featurename>
+<pubDate>1283285787</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4946323700/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4946323700/'>Commonwealth Pavilion</a></author>
+<guid>4946323700</guid>
+<media:content url='http://farm5.static.flickr.com/4130/4946323700_34246d55ba.jpg' type='image/jpeg'/>
+<media:title>GreenHouse: A Commonwealth Climate Challenge</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4130/4946323700_34246d55ba_s.jpg' height='496' width='391' />
+</item>
+
+<item>
+<title>Day of Peace 2007</title>
+<description></description>
+<geo:lat>17.19292</geo:lat>
+<geo:long>-88.652839</geo:long>
+<georss:point>17.19292 -88.652839</georss:point>
+<georss:featurename>, Belize</georss:featurename>
+<pubDate>1283200938</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4942499833/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4942499833/'>Commonwealth Pavilion</a></author>
+<guid>4942499833</guid>
+<media:content url='http://farm5.static.flickr.com/4073/4942499833_29e815a65b.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2007</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4073/4942499833_29e815a65b_s.jpg' height='500' width='417' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>13.05939</geo:lat>
+<geo:long>80.245666</geo:long>
+<georss:point>13.05939 80.245666</georss:point>
+<georss:featurename>Chennai, Inde</georss:featurename>
+<pubDate>1283200939</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943086642/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943086642/'>Commonwealth Pavilion</a></author>
+<guid>4943086642</guid>
+<media:content url='http://farm5.static.flickr.com/4082/4943086642_67a7787e5e.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4082/4943086642_67a7787e5e_s.jpg' height='246' width='395' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>13.05939</geo:lat>
+<geo:long>80.245666</geo:long>
+<georss:point>13.05939 80.245666</georss:point>
+<georss:featurename>Chennai, Inde</georss:featurename>
+<pubDate>1283200939</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943086712/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943086712/'>Commonwealth Pavilion</a></author>
+<guid>4943086712</guid>
+<media:content url='http://farm5.static.flickr.com/4093/4943086712_763223b352.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4093/4943086712_763223b352_s.jpg' height='500' width='358' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>13.05939</geo:lat>
+<geo:long>80.245666</geo:long>
+<georss:point>13.05939 80.245666</georss:point>
+<georss:featurename>Chennai, Inde</georss:featurename>
+<pubDate>1283200940</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4942499987/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4942499987/'>Commonwealth Pavilion</a></author>
+<guid>4942499987</guid>
+<media:content url='http://farm5.static.flickr.com/4114/4942499987_e34b1df0e3.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4114/4942499987_e34b1df0e3_s.jpg' height='268' width='395' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>13.05939</geo:lat>
+<geo:long>80.245666</geo:long>
+<georss:point>13.05939 80.245666</georss:point>
+<georss:featurename>Chennai, Inde</georss:featurename>
+<pubDate>1283200942</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943086854/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943086854/'>Commonwealth Pavilion</a></author>
+<guid>4943086854</guid>
+<media:content url='http://farm5.static.flickr.com/4139/4943086854_5567357221.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4139/4943086854_5567357221_s.jpg' height='473' width='500' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>-6.822919</geo:lat>
+<geo:long>39.26966</geo:long>
+<georss:point>-6.822919 39.26966</georss:point>
+<georss:featurename>Dar es Salaam, Tanzanie</georss:featurename>
+<pubDate>1283200942</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943086912/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943086912/'>Commonwealth Pavilion</a></author>
+<guid>4943086912</guid>
+<media:content url='http://farm5.static.flickr.com/4095/4943086912_c94e6e00bf.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4095/4943086912_c94e6e00bf_s.jpg' height='296' width='395' />
+</item>
+
+<item>
+<title>Day of Peace 2006</title>
+<description></description>
+<geo:lat>-6.822919</geo:lat>
+<geo:long>39.26966</geo:long>
+<georss:point>-6.822919 39.26966</georss:point>
+<georss:featurename>Dar es Salaam, Tanzanie</georss:featurename>
+<pubDate>1283200943</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943086960/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943086960/'>Commonwealth Pavilion</a></author>
+<guid>4943086960</guid>
+<media:content url='http://farm5.static.flickr.com/4077/4943086960_6d17b2ceeb.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2006</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4077/4943086960_6d17b2ceeb_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Day of Peace 2007</title>
+<description></description>
+<geo:lat>-3.74288</geo:lat>
+<geo:long>37.661869</geo:long>
+<georss:point>-3.74288 37.661869</georss:point>
+<georss:featurename>, Tanzanie</georss:featurename>
+<pubDate>1283200944</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4943087000/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4943087000/'>Commonwealth Pavilion</a></author>
+<guid>4943087000</guid>
+<media:content url='http://farm5.static.flickr.com/4143/4943087000_c71ecf1de9.jpg' type='image/jpeg'/>
+<media:title>Day of Peace 2007</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4143/4943087000_c71ecf1de9_s.jpg' height='333' width='500' />
+</item>
+</channel>
+</rss>

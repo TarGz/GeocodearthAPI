@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" xmlns:bk="http://brightkite.com/placeFeed" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>Num2003 posted a text message @ Somewhere in the world</title>
+      <description>http://www.navigationzoom.com/your-ford-f150-with-a-magellan-gps-navigation-system/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.navigationzoom.com/your-ford-f150-with-a-magellan-gps-navigation-system/</bk:message>
+      <bk:userLink>http://brightkite.com/people/Num2003</bk:userLink>
+      <bk:userName>Num2003</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/f3/48/f348631046bf87c501f1051399dc7964-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 02:05:08 +0000</pubDate>
+      <bk:timestamp>1295143508.002</bk:timestamp>
+      <link>http://brightkite.com/objects/353af5d720a672ba1379328cea2527a7</link>
+      <guid>http://brightkite.com/objects/353af5d720a672ba1379328cea2527a7</guid>
+    </item>
+    <item>
+      <title>cjnuble posted a text message @ Somewhere in the world</title>
+      <description>http://quazen.com/recreation/horoscopes/prepare-to-be-shocked-know-about-the-new-2011-zodiac-signs/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://quazen.com/recreation/horoscopes/prepare-to-be-shocked-know-about-the-new-2011-zodiac-signs/</bk:message>
+      <bk:userLink>http://brightkite.com/people/cjnuble</bk:userLink>
+      <bk:userName>cjnuble</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 02:01:16 +0000</pubDate>
+      <bk:timestamp>1295143276.245</bk:timestamp>
+      <link>http://brightkite.com/objects/5fd4db59e97831b2fe057619d5c93aa5</link>
+      <guid>http://brightkite.com/objects/5fd4db59e97831b2fe057619d5c93aa5</guid>
+    </item>
+    <item>
+      <title>RedBeatz posted a text message @ Somewhere in the world</title>
+      <description>http://www.probeatmakingsoftware.com</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.probeatmakingsoftware.com</bk:message>
+      <bk:userLink>http://brightkite.com/people/RedBeatz</bk:userLink>
+      <bk:userName>RedBeatz</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:47:01 +0000</pubDate>
+      <bk:timestamp>1295142421.946</bk:timestamp>
+      <link>http://brightkite.com/objects/f2c678e06fe5fb3323027c52c617fa27</link>
+      <guid>http://brightkite.com/objects/f2c678e06fe5fb3323027c52c617fa27</guid>
+    </item>
+    <item>
+      <title>navysealworkou posted a text message @ Somewhere in the world</title>
+      <description>http://cheatdayweightloss.iblogger.org/82/watch-the-real-way-to-lose-belly-fat/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://cheatdayweightloss.iblogger.org/82/watch-the-real-way-to-lose-belly-fat/</bk:message>
+      <bk:userLink>http://brightkite.com/people/navysealworkou</bk:userLink>
+      <bk:userName>navysealworkou</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/fd/3a/fd3a76bb5a0b010677c5444ddd098620-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:39:41 +0000</pubDate>
+      <bk:timestamp>1295141981.727</bk:timestamp>
+      <link>http://brightkite.com/objects/d4d378de773e5485b58a2ffc7aab5d5c</link>
+      <guid>http://brightkite.com/objects/d4d378de773e5485b58a2ffc7aab5d5c</guid>
+    </item>
+    <item>
+      <title>MakeYourOwnBeat posted a text message @ Somewhere in the world</title>
+      <description>http://ezinearticles.com/?Make-Your-Own-Beat&amp;id=5636879</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://ezinearticles.com/?Make-Your-Own-Beat&amp;id=5636879</bk:message>
+      <bk:userLink>http://brightkite.com/people/MakeYourOwnBeat</bk:userLink>
+      <bk:userName>MakeYourOwnBeat</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:32:39 +0000</pubDate>
+      <bk:timestamp>1295141559.62</bk:timestamp>
+      <link>http://brightkite.com/objects/41062e75ef4b843abe012a56a613c7da</link>
+      <guid>http://brightkite.com/objects/41062e75ef4b843abe012a56a613c7da</guid>
+    </item>
+    <item>
+      <title>RedBeatz posted a text message @ Somewhere in the world</title>
+      <description>http://www.youtube.com/watch?v=I2_i4eTjRLg</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.youtube.com/watch?v=I2_i4eTjRLg</bk:message>
+      <bk:userLink>http://brightkite.com/people/RedBeatz</bk:userLink>
+      <bk:userName>RedBeatz</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:22:36 +0000</pubDate>
+      <bk:timestamp>1295140956.838</bk:timestamp>
+      <link>http://brightkite.com/objects/6d81d1dd294f2d60382b8db1b197ace9</link>
+      <guid>http://brightkite.com/objects/6d81d1dd294f2d60382b8db1b197ace9</guid>
+    </item>
+    <item>
+      <title>carrieflockhart posted a text message @ Somewhere in the world</title>
+      <description>http://www.washingtonpost.com/wp-dyn/content/article/2011/01/12/AR2011011205696.html</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.washingtonpost.com/wp-dyn/content/article/2011/01/12/AR2011011205696.html</bk:message>
+      <bk:userLink>http://brightkite.com/people/carrieflockhart</bk:userLink>
+      <bk:userName>carrieflockhart</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:18:50 +0000</pubDate>
+      <bk:timestamp>1295140730.456</bk:timestamp>
+      <link>http://brightkite.com/objects/11527a59c29f192de37f7440d45b1050</link>
+      <guid>http://brightkite.com/objects/11527a59c29f192de37f7440d45b1050</guid>
+    </item>
+    <item>
+      <title>RedBeatz posted a text message @ Somewhere in the world</title>
+      <description>http://www.youtube.com/watch?v=biMqCP6rmSE</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.youtube.com/watch?v=biMqCP6rmSE</bk:message>
+      <bk:userLink>http://brightkite.com/people/RedBeatz</bk:userLink>
+      <bk:userName>RedBeatz</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:16:46 +0000</pubDate>
+      <bk:timestamp>1295140606.303</bk:timestamp>
+      <link>http://brightkite.com/objects/bf060cbc85c9d52b0315d4461fa4299c</link>
+      <guid>http://brightkite.com/objects/bf060cbc85c9d52b0315d4461fa4299c</guid>
+    </item>
+    <item>
+      <title>ziggy919191 posted a text message @ Somewhere in the world</title>
+      <description>http://theeasycash.hostzi.com/the-importance-of-page-load-speed/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://theeasycash.hostzi.com/the-importance-of-page-load-speed/</bk:message>
+      <bk:userLink>http://brightkite.com/people/ziggy919191</bk:userLink>
+      <bk:userName>ziggy919191</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/ea/2f/ea2f4db0876abe61b2db6486c2b55d06-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:13:39 +0000</pubDate>
+      <bk:timestamp>1295140419.83</bk:timestamp>
+      <link>http://brightkite.com/objects/366195552a94cdf726df616eb4466008</link>
+      <guid>http://brightkite.com/objects/366195552a94cdf726df616eb4466008</guid>
+    </item>
+    <item>
+      <title>greatseoservice posted a text message @ Somewhere in the world</title>
+      <description>http://makingmoneyonlinewithebay.com/2011/01/buying-ebay-cars-for-saleclickbank/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://makingmoneyonlinewithebay.com/2011/01/buying-ebay-cars-for-saleclickbank/</bk:message>
+      <bk:userLink>http://brightkite.com/people/greatseoservice</bk:userLink>
+      <bk:userName>greatseoservice</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:08:03 +0000</pubDate>
+      <bk:timestamp>1295140083.654</bk:timestamp>
+      <link>http://brightkite.com/objects/3e57ad5306f602f11c4d7405c948be17</link>
+      <guid>http://brightkite.com/objects/3e57ad5306f602f11c4d7405c948be17</guid>
+    </item>
+    <item>
+      <title>datingtalknet posted a text message @ Somewhere in the world</title>
+      <description>Hombre joseph para romantica,  contactos con foto http://mujeres-peru.com/users/es/25447.htm</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Hombre joseph para romantica,  contactos con foto http://mujeres-peru.com/users/es/25447.htm</bk:message>
+      <bk:userLink>http://brightkite.com/people/datingtalknet</bk:userLink>
+      <bk:userName>datingtalknet</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/54/10/5410b48e4f6487ce6def1f665dce7e36-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 01:04:04 +0000</pubDate>
+      <bk:timestamp>1295139844.166</bk:timestamp>
+      <link>http://brightkite.com/objects/8c528e69815ec748e76cbd744b24fccc</link>
+      <guid>http://brightkite.com/objects/8c528e69815ec748e76cbd744b24fccc</guid>
+    </item>
+    <item>
+      <title>tomibarst3ori posted a text message @ Somewhere in the world</title>
+      <description>http://onlywire.com/r/18757641</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://onlywire.com/r/18757641</bk:message>
+      <bk:userLink>http://brightkite.com/people/tomibarst3ori</bk:userLink>
+      <bk:userName>tomibarst3ori</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 00:49:07 +0000</pubDate>
+      <bk:timestamp>1295138947.552</bk:timestamp>
+      <link>http://brightkite.com/objects/108bb03e7e0d1e6ad72a77afc2aef0b6</link>
+      <guid>http://brightkite.com/objects/108bb03e7e0d1e6ad72a77afc2aef0b6</guid>
+    </item>
+    <item>
+      <title>MarviBrace61 posted a text message @ Somewhere in the world</title>
+      <description>http://www.appleipadbits.com/ipad-accessories/latest-ipad-accessory-auctions-13/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.appleipadbits.com/ipad-accessories/latest-ipad-accessory-auctions-13/</bk:message>
+      <bk:userLink>http://brightkite.com/people/MarviBrace61</bk:userLink>
+      <bk:userName>MarviBrace61</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/fc/7e/fc7e9f6aad85ba8f534d575ff7828d71-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 00:18:34 +0000</pubDate>
+      <bk:timestamp>1295137114.758</bk:timestamp>
+      <link>http://brightkite.com/objects/f7f3c481694307e033ca827c23576517</link>
+      <guid>http://brightkite.com/objects/f7f3c481694307e033ca827c23576517</guid>
+    </item>
+    <item>
+      <title>macusr10 posted a text message @ Somewhere in the world</title>
+      <description>http://topdigitalvoicerecorders.com</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://topdigitalvoicerecorders.com</bk:message>
+      <bk:userLink>http://brightkite.com/people/macusr10</bk:userLink>
+      <bk:userName>macusr10</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 16 Jan 2011 00:09:04 +0000</pubDate>
+      <bk:timestamp>1295136544.21</bk:timestamp>
+      <link>http://brightkite.com/objects/b8209665dc503f091f4da15187fb64ea</link>
+      <guid>http://brightkite.com/objects/b8209665dc503f091f4da15187fb64ea</guid>
+    </item>
+    <item>
+      <title>RamonPoloHere posted a text message @ Somewhere in the world</title>
+      <description>http://onlywire.com/r/18864988</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://onlywire.com/r/18864988</bk:message>
+      <bk:userLink>http://brightkite.com/people/RamonPoloHere</bk:userLink>
+      <bk:userName>RamonPoloHere</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/ec/83/ec83468f1419eaffbfd8b04151f2c8aa-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 23:54:42 +0000</pubDate>
+      <bk:timestamp>1295135682.754</bk:timestamp>
+      <link>http://brightkite.com/objects/c21b8dace059023316cfda8a7d231483</link>
+      <guid>http://brightkite.com/objects/c21b8dace059023316cfda8a7d231483</guid>
+    </item>
+    <item>
+      <title>fatlosstrainer posted a text message @ Somewhere in the world</title>
+      <description>http://cheatdayweightloss.iblogger.org/75/what-are-workout-supplements-and-how-to-choose-them/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://cheatdayweightloss.iblogger.org/75/what-are-workout-supplements-and-how-to-choose-them/</bk:message>
+      <bk:userLink>http://brightkite.com/people/fatlosstrainer</bk:userLink>
+      <bk:userName>fatlosstrainer</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 23:37:46 +0000</pubDate>
+      <bk:timestamp>1295134666.701</bk:timestamp>
+      <link>http://brightkite.com/objects/c116be09ffac857ebb22a68a5df41698</link>
+      <guid>http://brightkite.com/objects/c116be09ffac857ebb22a68a5df41698</guid>
+    </item>
+    <item>
+      <title>cherylhanson16 posted a text message @ Somewhere in the world</title>
+      <description>http://www.stopcigsforever.com/2011/01/15/zebras-do-not-get-ulcers/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://www.stopcigsforever.com/2011/01/15/zebras-do-not-get-ulcers/</bk:message>
+      <bk:userLink>http://brightkite.com/people/cherylhanson16</bk:userLink>
+      <bk:userName>cherylhanson16</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 23:22:14 +0000</pubDate>
+      <bk:timestamp>1295133734.119</bk:timestamp>
+      <link>http://brightkite.com/objects/e6985973e259ef6d01073748cbca0113</link>
+      <guid>http://brightkite.com/objects/e6985973e259ef6d01073748cbca0113</guid>
+    </item>
+    <item>
+      <title>gwaaden posted a text message @ Somewhere in the world</title>
+      <description>http://daytodaydiets.org/articles/no-diet-plan-is-the-best-diet-plan/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://daytodaydiets.org/articles/no-diet-plan-is-the-best-diet-plan/</bk:message>
+      <bk:userLink>http://brightkite.com/people/gwaaden</bk:userLink>
+      <bk:userName>gwaaden</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 23:16:08 +0000</pubDate>
+      <bk:timestamp>1295133368.763</bk:timestamp>
+      <link>http://brightkite.com/objects/20446281abd1e7e1d0c1038c83b57a78</link>
+      <guid>http://brightkite.com/objects/20446281abd1e7e1d0c1038c83b57a78</guid>
+    </item>
+    <item>
+      <title>MichelleRo94 posted a text message @ Somewhere in the world</title>
+      <description>http://mortgage-loan.co.cc/?p=4554</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://mortgage-loan.co.cc/?p=4554</bk:message>
+      <bk:userLink>http://brightkite.com/people/MichelleRo94</bk:userLink>
+      <bk:userName>MichelleRo94</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 23:14:04 +0000</pubDate>
+      <bk:timestamp>1295133244.066</bk:timestamp>
+      <link>http://brightkite.com/objects/988dcf30229b389fcf8d1d82729f3582</link>
+      <guid>http://brightkite.com/objects/988dcf30229b389fcf8d1d82729f3582</guid>
+    </item>
+    <item>
+      <title>RentAHubbyOrg posted a text message @ Somewhere in the world</title>
+      <description>http://rentahubby.org/ruptured-frozen-water-pipe-now-what/</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>http://rentahubby.org/ruptured-frozen-water-pipe-now-what/</bk:message>
+      <bk:userLink>http://brightkite.com/people/RentAHubbyOrg</bk:userLink>
+      <bk:userName>RentAHubbyOrg</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/b7/0a/b70a9fcd3d78ec405a2b4314a3135471-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sat, 15 Jan 2011 22:49:52 +0000</pubDate>
+      <bk:timestamp>1295131792.875</bk:timestamp>
+      <link>http://brightkite.com/objects/bd72cc9bb891826cbf881e79f5a86382</link>
+      <guid>http://brightkite.com/objects/bd72cc9bb891826cbf881e79f5a86382</guid>
+    </item>
+  </channel>
+</rss>

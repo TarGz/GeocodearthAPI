@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" version="2.0" xmlns:bk="http://brightkite.com/placeFeed">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>aragorne posted a text message @ Lyon, Rh&#244;ne-Alpes, France</title>
+      <description>"Xbox 360 Game Disc Stand" - http://ping.fm/xehxR</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>"Xbox 360 Game Disc Stand" - http://ping.fm/xehxR</bk:message>
+      <bk:userLink>http://brightkite.com/people/aragorne</bk:userLink>
+      <bk:userName>aragorne</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/72d5df7e9a5811ddb702003048c10834</bk:placeLink>
+      <bk:placeName>Lyon, Rh&#244;ne-Alpes, France</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>45.75</geo:lat>
+      <geo:long>4.85001</geo:long>
+      <georss:point>45.75 4.85001</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Lyon, Rh&#244;ne-Alpes, France</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:27:23 +0000</pubDate>
+      <bk:timestamp>1265516843.28</bk:timestamp>
+      <link>http://brightkite.com/objects/7e61798cc4be8a1c92a6ae8d9d6e075a</link>
+      <guid>http://brightkite.com/objects/7e61798cc4be8a1c92a6ae8d9d6e075a</guid>
+    </item>
+    <item>
+      <title>marketingteam3 posted a text message @ Somewhere in the world</title>
+      <description>MA Newsstand offers hundreds of fantastic magazines for every interest. Browse through the latest magazine and book releases, this is awesom</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>MA Newsstand offers hundreds of fantastic magazines for every interest. Browse through the latest magazine and book releases, this is awesom</bk:message>
+      <bk:userLink>http://brightkite.com/people/marketingteam3</bk:userLink>
+      <bk:userName>marketingteam3</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/6e46d53030a311deb3cf003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:26:39 +0000</pubDate>
+      <bk:timestamp>1265516799.945</bk:timestamp>
+      <link>http://brightkite.com/objects/f5d2ab20f88441549318fc3ee22d1c96</link>
+      <guid>http://brightkite.com/objects/f5d2ab20f88441549318fc3ee22d1c96</guid>
+    </item>
+    <item>
+      <title>mead posted a text message @ Media Source</title>
+      <description>Gave Noah his first spaghetti dinner tonight it was a total cliche baby mess.</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Gave Noah his first spaghetti dinner tonight it was a total cliche baby mess.</bk:message>
+      <bk:userLink>http://brightkite.com/people/mead</bk:userLink>
+      <bk:userName>mead</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/3d8602969a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/95f0d7944add11de8ded003048c10834</bk:placeLink>
+      <bk:placeName>Media Source</bk:placeName>
+      <bk:placeAddress>1800 W 5th Ave, Columbus, OH, United States</bk:placeAddress>
+      <geo:lat>39.989337</geo:lat>
+      <geo:long>-83.054727</geo:long>
+      <georss:point>39.989337 -83.054727</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Media Source</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:26:06 +0000</pubDate>
+      <bk:timestamp>1265516766.433</bk:timestamp>
+      <link>http://brightkite.com/objects/6d8a4e34b2342de5cbc6ca2081205b9b</link>
+      <guid>http://brightkite.com/objects/6d8a4e34b2342de5cbc6ca2081205b9b</guid>
+    </item>
+    <item>
+      <title>ebarrera posted a text message @ El Palacio de Hierro S.A. de C.V.</title>
+      <description>A nerd is someone who uses a telephone to talk to other people about telephones.</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>A nerd is someone who uses a telephone to talk to other people about telephones.</bk:message>
+      <bk:userLink>http://brightkite.com/people/ebarrera</bk:userLink>
+      <bk:userName>ebarrera</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/b72bbbe09a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/3d914b06e52afcc77ade8a27e7e87837</bk:placeLink>
+      <bk:placeName>El Palacio de Hierro S.A. de C.V.</bk:placeName>
+      <bk:placeAddress>Mexico</bk:placeAddress>
+      <geo:lat>19.4214</geo:lat>
+      <geo:long>-99.16832</geo:long>
+      <georss:point>19.4214 -99.16832</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>El Palacio de Hierro S.A. de C.V.</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:25:44 +0000</pubDate>
+      <bk:timestamp>1265516744.9</bk:timestamp>
+      <link>http://brightkite.com/objects/e5c29ad6e08a7c332b97072feee2089f</link>
+      <guid>http://brightkite.com/objects/e5c29ad6e08a7c332b97072feee2089f</guid>
+    </item>
+    <item>
+      <title>ComicList posted a text message @ Avery Cir</title>
+      <description>Captain America will be a USO performer in the movie, director says | http://ping.fm/vTjPa</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Captain America will be a USO performer in the movie, director says | http://ping.fm/vTjPa</bk:message>
+      <bk:userLink>http://brightkite.com/people/ComicList</bk:userLink>
+      <bk:userName>ComicList</bk:userName>
+      <bk:userAvatar>http://cdn.brightkite.com/d9/b5/d9b5cee43b386d7c8e5e61d826317a9a-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/478d3134aa3111deb5d6003048c0801e</bk:placeLink>
+      <bk:placeName>Avery Cir</bk:placeName>
+      <bk:placeAddress>Lake City, FL, United States</bk:placeAddress>
+      <geo:lat>30.183851</geo:lat>
+      <geo:long>-82.660172</geo:long>
+      <georss:point>30.183851 -82.660172</georss:point>
+      <georss:featuretypetag>street</georss:featuretypetag>
+      <georss:featurename>Avery Cir</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:25:04 +0000</pubDate>
+      <bk:timestamp>1265516704.142</bk:timestamp>
+      <link>http://brightkite.com/objects/637667465ce00a3e43134059061f0335</link>
+      <guid>http://brightkite.com/objects/637667465ce00a3e43134059061f0335</guid>
+    </item>
+    <item>
+      <title>whattoknow posted a text message @ Somewhere in the world</title>
+      <description>RT: 6 Reasons Why Fighting A Traffic Ticket Is Good http://is.gd/5kFkP</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>RT: 6 Reasons Why Fighting A Traffic Ticket Is Good http://is.gd/5kFkP</bk:message>
+      <bk:userLink>http://brightkite.com/people/whattoknow</bk:userLink>
+      <bk:userName>whattoknow</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/ec8e97da4afb11dea220003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:24:30 +0000</pubDate>
+      <bk:timestamp>1265516670.236</bk:timestamp>
+      <link>http://brightkite.com/objects/a9cce945b5f1a8887941496f8f1abf79</link>
+      <guid>http://brightkite.com/objects/a9cce945b5f1a8887941496f8f1abf79</guid>
+    </item>
+    <item>
+      <title>CHRISVOSS posted a text message @ near Milkweed Canyon Ave &amp; Spencer Canyon St</title>
+      <description>My Video on Adaptability in Business - Customers Make Your Business Plan - My insights on this concept http://bit.ly/7j71dB</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>My Video on Adaptability in Business - Customers Make Your Business Plan - My insights on this concept http://bit.ly/7j71dB</bk:message>
+      <bk:userLink>http://brightkite.com/people/CHRISVOSS</bk:userLink>
+      <bk:userName>CHRISVOSS</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/9f67d42c883f11de9df3003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/0fc8443139df70e09d5bb04dada5aecb</bk:placeLink>
+      <bk:placeName>near Milkweed Canyon Ave &amp; Spencer Canyon St</bk:placeName>
+      <bk:placeAddress>Las Vegas, NV, United States</bk:placeAddress>
+      <geo:lat>36.31295</geo:lat>
+      <geo:long>-115.304894</geo:long>
+      <georss:point>36.31295 -115.304894</georss:point>
+      <georss:featuretypetag>intersection</georss:featuretypetag>
+      <georss:featurename>near Milkweed Canyon Ave &amp; Spencer Canyon St</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:24:29 +0000</pubDate>
+      <bk:timestamp>1265516669.991</bk:timestamp>
+      <link>http://brightkite.com/objects/868c7b5c25c546f1f8192d445af5f85c</link>
+      <guid>http://brightkite.com/objects/868c7b5c25c546f1f8192d445af5f85c</guid>
+    </item>
+    <item>
+      <title>ehershey posted a text message @ near Poisonwood Rd &amp; Overseas Hwy</title>
+      <description>Tried to see the sweet divine but they ended too soon</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Tried to see the sweet divine but they ended too soon</bk:message>
+      <bk:userLink>http://brightkite.com/people/ehershey</bk:userLink>
+      <bk:userName>ehershey</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/92527fc9a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/88d1548442dd82ea2321b4d8921ba289</bk:placeLink>
+      <bk:placeName>near Poisonwood Rd &amp; Overseas Hwy</bk:placeName>
+      <bk:placeAddress>Key Largo, FL, United States</bk:placeAddress>
+      <geo:lat>25.070967</geo:lat>
+      <geo:long>-80.464994</geo:long>
+      <georss:point>25.070967 -80.464994</georss:point>
+      <georss:featuretypetag>intersection</georss:featuretypetag>
+      <georss:featurename>near Poisonwood Rd &amp; Overseas Hwy</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:24:06 +0000</pubDate>
+      <bk:timestamp>1265516646.029</bk:timestamp>
+      <link>http://brightkite.com/objects/f0341580823d927ae3a96f7969d74e84</link>
+      <guid>http://brightkite.com/objects/f0341580823d927ae3a96f7969d74e84</guid>
+    </item>
+    <item>
+      <title>PageTweck649 posted a text message @ Somewhere in the world</title>
+      <description>Indians with SCB or Karur Vysya Bank online accounts only by SouthIndian http://tinyurl.com/yefz4h4</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Indians with SCB or Karur Vysya Bank online accounts only by SouthIndian http://tinyurl.com/yefz4h4</bk:message>
+      <bk:userLink>http://brightkite.com/people/PageTweck649</bk:userLink>
+      <bk:userName>PageTweck649</bk:userName>
+      <bk:userAvatar>http://cdn.brightkite.com/c3/06/c3067f7be71dc76c55e51bd7477d5597-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:23:49 +0000</pubDate>
+      <bk:timestamp>1265516629.035</bk:timestamp>
+      <link>http://brightkite.com/objects/46188aa24db7b032a3103ce82a5415de</link>
+      <guid>http://brightkite.com/objects/46188aa24db7b032a3103ce82a5415de</guid>
+    </item>
+    <item>
+      <title>PageTweck649 posted a text message @ Somewhere in the world</title>
+      <description>Movie Review Writer by reviews99 http://tinyurl.com/y93ngj2</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Movie Review Writer by reviews99 http://tinyurl.com/y93ngj2</bk:message>
+      <bk:userLink>http://brightkite.com/people/PageTweck649</bk:userLink>
+      <bk:userName>PageTweck649</bk:userName>
+      <bk:userAvatar>http://cdn.brightkite.com/c3/06/c3067f7be71dc76c55e51bd7477d5597-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:23:40 +0000</pubDate>
+      <bk:timestamp>1265516620.056</bk:timestamp>
+      <link>http://brightkite.com/objects/67681a77eb5e184f3253c7ee2545e217</link>
+      <guid>http://brightkite.com/objects/67681a77eb5e184f3253c7ee2545e217</guid>
+    </item>
+    <item>
+      <title>PageTweck649 posted a text message @ Somewhere in the world</title>
+      <description>Nonpublic project 607352 by FireCentaur http://tinyurl.com/ykoerc7</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Nonpublic project 607352 by FireCentaur http://tinyurl.com/ykoerc7</bk:message>
+      <bk:userLink>http://brightkite.com/people/PageTweck649</bk:userLink>
+      <bk:userName>PageTweck649</bk:userName>
+      <bk:userAvatar>http://cdn.brightkite.com/c3/06/c3067f7be71dc76c55e51bd7477d5597-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:23:39 +0000</pubDate>
+      <bk:timestamp>1265516619.226</bk:timestamp>
+      <link>http://brightkite.com/objects/99e519b41ae3237605907dd46e931f30</link>
+      <guid>http://brightkite.com/objects/99e519b41ae3237605907dd46e931f30</guid>
+    </item>
+    <item>
+      <title>financehelp posted a text message @ Somewhere in the world</title>
+      <description>It's new year and time to deal with your debt! Find a debt relief product right for you at http://bit.ly/6xSQlW</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>It's new year and time to deal with your debt! Find a debt relief product right for you at http://bit.ly/6xSQlW</bk:message>
+      <bk:userLink>http://brightkite.com/people/financehelp</bk:userLink>
+      <bk:userName>financehelp</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/cdc69124891011de9881003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:22:30 +0000</pubDate>
+      <bk:timestamp>1265516550.11</bk:timestamp>
+      <link>http://brightkite.com/objects/29106c1971378a7565e491ca8807f999</link>
+      <guid>http://brightkite.com/objects/29106c1971378a7565e491ca8807f999</guid>
+    </item>
+    <item>
+      <title>royalmice posted a text message @ Somewhere in the world</title>
+      <description>"Billige Hotels, das Hotel Suche Thailand Thailand, Bangkok, Chiang Mai, Phuket, Pattaya, Koh Samui" - http://ping.fm/4Zbix</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>"Billige Hotels, das Hotel Suche Thailand Thailand, Bangkok, Chiang Mai, Phuket, Pattaya, Koh Samui" - http://ping.fm/4Zbix</bk:message>
+      <bk:userLink>http://brightkite.com/people/royalmice</bk:userLink>
+      <bk:userName>royalmice</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/1157e36c786c11de9144003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:22:00 +0000</pubDate>
+      <bk:timestamp>1265516520.666</bk:timestamp>
+      <link>http://brightkite.com/objects/6fc9ba5308537d886105fc0e0cbad721</link>
+      <guid>http://brightkite.com/objects/6fc9ba5308537d886105fc0e0cbad721</guid>
+    </item>
+    <item>
+      <title>thecarol posted a text message @ Taipei, , Taiwan</title>
+      <description>&#26089;&#39184;&#65306;&#20116;&#31296;&#39237;&#38957;&#12289;&#28961;&#31958;&#35910;&#28479;&#12289;&#19968;&#30871;&#26032;&#39854;&#33609;&#33683;&#12290;</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>&#26089;&#39184;&#65306;&#20116;&#31296;&#39237;&#38957;&#12289;&#28961;&#31958;&#35910;&#28479;&#12289;&#19968;&#30871;&#26032;&#39854;&#33609;&#33683;&#12290;</bk:message>
+      <bk:userLink>http://brightkite.com/people/thecarol</bk:userLink>
+      <bk:userName>thecarol</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/1a1146369a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/3e03de1c9e5511ddbf68003048c0801e</bk:placeLink>
+      <bk:placeName>Taipei, , Taiwan</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>25.0392</geo:lat>
+      <geo:long>121.52499</geo:long>
+      <georss:point>25.0392 121.52499</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Taipei, , Taiwan</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:26 +0000</pubDate>
+      <bk:timestamp>1265516486.791</bk:timestamp>
+      <link>http://brightkite.com/objects/54486a098466c66e8befafcfab0ab003</link>
+      <guid>http://brightkite.com/objects/54486a098466c66e8befafcfab0ab003</guid>
+    </item>
+    <item>
+      <title>msathish69 posted a text message @ Somewhere in the world</title>
+      <description>@sh SENSEX NSE The Hindu Business Line : Karnataka co-ops to sell rice, wheat at ... digg.com/...  DESIWALA.SHOUTEM.COM</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>@sh SENSEX NSE The Hindu Business Line : Karnataka co-ops to sell rice, wheat at ... digg.com/...  DESIWALA.SHOUTEM.COM</bk:message>
+      <bk:userLink>http://brightkite.com/people/msathish69</bk:userLink>
+      <bk:userName>msathish69</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:18 +0000</pubDate>
+      <bk:timestamp>1265516478.817</bk:timestamp>
+      <link>http://brightkite.com/objects/03b33daa7b74770d6a93a79a03779041</link>
+      <guid>http://brightkite.com/objects/03b33daa7b74770d6a93a79a03779041</guid>
+    </item>
+    <item>
+      <title>msathish69 posted a text message @ Somewhere in the world</title>
+      <description>@sh SENSEX NSE Louisiana AG Shops can sellWho Dat shirts digg.com/...  DESIWALA.SHOUTEM.COM</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>@sh SENSEX NSE Louisiana AG Shops can sellWho Dat shirts digg.com/...  DESIWALA.SHOUTEM.COM</bk:message>
+      <bk:userLink>http://brightkite.com/people/msathish69</bk:userLink>
+      <bk:userName>msathish69</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:18 +0000</pubDate>
+      <bk:timestamp>1265516478.404</bk:timestamp>
+      <link>http://brightkite.com/objects/7b2f9d5bb1d9584b514e8db8141e4573</link>
+      <guid>http://brightkite.com/objects/7b2f9d5bb1d9584b514e8db8141e4573</guid>
+    </item>
+    <item>
+      <title>Dazecoop posted a text message @ Titchfield</title>
+      <description>is home. Enjoyed the massive drive and the company, now sleep if possible</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>is home. Enjoyed the massive drive and the company, now sleep if possible</bk:message>
+      <bk:userLink>http://brightkite.com/people/Dazecoop</bk:userLink>
+      <bk:userName>Dazecoop</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/d11354b2a22411dd8663bf71d18b034e</bk:placeLink>
+      <bk:placeName>Titchfield</bk:placeName>
+      <bk:placeAddress>England, UK</bk:placeAddress>
+      <geo:lat>50.8495238343853</geo:lat>
+      <geo:long>-1.23493194580078</geo:long>
+      <georss:point>50.8495238343853 -1.23493194580078</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Titchfield</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:07 +0000</pubDate>
+      <bk:timestamp>1265516467.424</bk:timestamp>
+      <link>http://brightkite.com/objects/9eb2078ebfa277a8e6b9ef8c5ae0bf88</link>
+      <guid>http://brightkite.com/objects/9eb2078ebfa277a8e6b9ef8c5ae0bf88</guid>
+    </item>
+    <item>
+      <title>JoeBruin88 posted a text message @ 23208 Glenbrook St</title>
+      <description>Time to get my stuff ready for the race, and then go to bed!</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Time to get my stuff ready for the race, and then go to bed!</bk:message>
+      <bk:userLink>http://brightkite.com/people/JoeBruin88</bk:userLink>
+      <bk:userName>JoeBruin88</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/93787bc9a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/12cf43d128c48fd404719974d665efce</bk:placeLink>
+      <bk:placeName>23208 Glenbrook St</bk:placeName>
+      <bk:placeAddress>St Clair Shores, MI, United States</bk:placeAddress>
+      <geo:lat>42.536612</geo:lat>
+      <geo:long>-82.878716</geo:long>
+      <georss:point>42.536612 -82.878716</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>23208 Glenbrook St</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:07 +0000</pubDate>
+      <bk:timestamp>1265516467.272</bk:timestamp>
+      <link>http://brightkite.com/objects/fac9f641ee234bc95d561aed7b950b72</link>
+      <guid>http://brightkite.com/objects/fac9f641ee234bc95d561aed7b950b72</guid>
+    </item>
+    <item>
+      <title>royalmice posted a text message @ Somewhere in the world</title>
+      <description>"Pura Vida! Insider's Guide auf den Besuch des Manuel Antonio." - http://ping.fm/iWqzj</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>"Pura Vida! Insider's Guide auf den Besuch des Manuel Antonio." - http://ping.fm/iWqzj</bk:message>
+      <bk:userLink>http://brightkite.com/people/royalmice</bk:userLink>
+      <bk:userName>royalmice</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/1157e36c786c11de9144003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>39.762146</geo:lat>
+      <geo:long>-104.98248</geo:long>
+      <georss:point>39.762146 -104.98248</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:21:01 +0000</pubDate>
+      <bk:timestamp>1265516461.339</bk:timestamp>
+      <link>http://brightkite.com/objects/b8094bf365cead17f58d8332bf5124bd</link>
+      <guid>http://brightkite.com/objects/b8094bf365cead17f58d8332bf5124bd</guid>
+    </item>
+    <item>
+      <title>KiasuChick posted a text message @ Nerd Boy House B-)</title>
+      <description>UK gov spent 19% of its budget on healthcare in 2009 &amp; the US gov. spent 18% on medicaid/medicare. What is wrong with this picture?</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>UK gov spent 19% of its budget on healthcare in 2009 &amp; the US gov. spent 18% on medicaid/medicare. What is wrong with this picture?</bk:message>
+      <bk:userLink>http://brightkite.com/people/KiasuChick</bk:userLink>
+      <bk:userName>KiasuChick</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bk_store/images/user/avatar/2ee0b4a89e1b11ddba3c003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/5a1544b87c074da9c9c6de60c034ca5e</bk:placeLink>
+      <bk:placeName>Nerd Boy House B-)</bk:placeName>
+      <bk:placeAddress>5211 Pacific Concourse Dr, Los Angeles, CA, United States</bk:placeAddress>
+      <geo:lat>33.926856</geo:lat>
+      <geo:long>-118.370997</geo:long>
+      <georss:point>33.926856 -118.370997</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Nerd Boy House B-)</georss:featurename>
+      <pubDate>Sun, 07 Feb 2010 04:20:54 +0000</pubDate>
+      <bk:timestamp>1265516454.335</bk:timestamp>
+      <link>http://brightkite.com/objects/6b0f51b6745e5b5342464b9dc1eb3d0c</link>
+      <guid>http://brightkite.com/objects/6b0f51b6745e5b5342464b9dc1eb3d0c</guid>
+    </item>
+  </channel>
+</rss>

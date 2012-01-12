@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" version="2.0" xmlns:bk="http://brightkite.com/placeFeed" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>kieronbm posted a text message @ Home Depot</title>
+      <description>argg!  4 Christmas gifts returned: the P.O. thought they were bombs.  Apparently if I take them in and tell them they aren't bombs, they wil</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>argg!  4 Christmas gifts returned: the P.O. thought they were bombs.  Apparently if I take them in and tell them they aren't bombs, they wil</bk:message>
+      <bk:userLink>http://brightkite.com/people/kieronbm</bk:userLink>
+      <bk:userName>kieronbm</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/863151b2b35211ddba3c003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/614e0019eed68def724932cf0a01155b</bk:placeLink>
+      <bk:placeName>Home Depot</bk:placeName>
+      <bk:placeAddress>2225 N Post Rd, Indianapolis, IN, United States</bk:placeAddress>
+      <geo:lat>39.798094</geo:lat>
+      <geo:long>-86.009348</geo:long>
+      <georss:point>39.798094 -86.009348</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Home Depot</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:19 +0000</pubDate>
+      <bk:timestamp>1292511139.226</bk:timestamp>
+      <link>http://brightkite.com/objects/cb99bac8a5e143da60d1b52fd38a854d</link>
+      <guid>http://brightkite.com/objects/cb99bac8a5e143da60d1b52fd38a854d</guid>
+    </item>
+    <item>
+      <title>piskula7 posted a text message @ Somewhere in the world</title>
+      <description>doros http://www.hisdaughtershouse.org/pray/showthread.php?p=70547#post70547</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>doros http://www.hisdaughtershouse.org/pray/showthread.php?p=70547#post70547</bk:message>
+      <bk:userLink>http://brightkite.com/people/piskula7</bk:userLink>
+      <bk:userName>piskula7</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:18 +0000</pubDate>
+      <bk:timestamp>1292511138.975</bk:timestamp>
+      <link>http://brightkite.com/objects/e9b2878dc976f4508ed6905d7c0dccc7</link>
+      <guid>http://brightkite.com/objects/e9b2878dc976f4508ed6905d7c0dccc7</guid>
+    </item>
+    <item>
+      <title>andula6 posted a text message @ Somewhere in the world</title>
+      <description>kromski http://biopolymer.pl/e/Laptopy-sklep-iphone-sklep-sluc,4746</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>kromski http://biopolymer.pl/e/Laptopy-sklep-iphone-sklep-sluc,4746</bk:message>
+      <bk:userLink>http://brightkite.com/people/andula6</bk:userLink>
+      <bk:userName>andula6</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:17 +0000</pubDate>
+      <bk:timestamp>1292511137.125</bk:timestamp>
+      <link>http://brightkite.com/objects/e2aa4d59580c42e4e60c5239f92195bc</link>
+      <guid>http://brightkite.com/objects/e2aa4d59580c42e4e60c5239f92195bc</guid>
+    </item>
+    <item>
+      <title>harasim18 posted a text message @ Somewhere in the world</title>
+      <description>bakalarski http://ageofgrief.com/forums/viewtopic.php?f=4&amp;t=228920</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>bakalarski http://ageofgrief.com/forums/viewtopic.php?f=4&amp;t=228920</bk:message>
+      <bk:userLink>http://brightkite.com/people/harasim18</bk:userLink>
+      <bk:userName>harasim18</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:08 +0000</pubDate>
+      <bk:timestamp>1292511128.754</bk:timestamp>
+      <link>http://brightkite.com/objects/830b65c5977343c9ebbddff1f562dc37</link>
+      <guid>http://brightkite.com/objects/830b65c5977343c9ebbddff1f562dc37</guid>
+    </item>
+    <item>
+      <title>rys18 posted a text message @ Somewhere in the world</title>
+      <description>tomczak http://ablacyjne.tk/e/Zaklad-stolarski-fabryka-mebli,651</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>tomczak http://ablacyjne.tk/e/Zaklad-stolarski-fabryka-mebli,651</bk:message>
+      <bk:userLink>http://brightkite.com/people/rys18</bk:userLink>
+      <bk:userName>rys18</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:08 +0000</pubDate>
+      <bk:timestamp>1292511128.718</bk:timestamp>
+      <link>http://brightkite.com/objects/b1b8f08af4a337b7406f6df30dbef4e6</link>
+      <guid>http://brightkite.com/objects/b1b8f08af4a337b7406f6df30dbef4e6</guid>
+    </item>
+    <item>
+      <title>wojnicz8 posted a text message @ Somewhere in the world</title>
+      <description>strzelbicki http://drugi.cyberek.biz/e/Szkolenie-rozwoj-osobisty-szkole,4132</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>strzelbicki http://drugi.cyberek.biz/e/Szkolenie-rozwoj-osobisty-szkole,4132</bk:message>
+      <bk:userLink>http://brightkite.com/people/wojnicz8</bk:userLink>
+      <bk:userName>wojnicz8</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:05 +0000</pubDate>
+      <bk:timestamp>1292511125.782</bk:timestamp>
+      <link>http://brightkite.com/objects/4741b6d16a78d4d144d7fbb832c866b9</link>
+      <guid>http://brightkite.com/objects/4741b6d16a78d4d144d7fbb832c866b9</guid>
+    </item>
+    <item>
+      <title>szlas5 posted a text message @ Somewhere in the world</title>
+      <description>wawrzyczek http://abradowane.tk/e/Wyjazdy-do-skandynawii-i-wycieczki,831</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>wawrzyczek http://abradowane.tk/e/Wyjazdy-do-skandynawii-i-wycieczki,831</bk:message>
+      <bk:userLink>http://brightkite.com/people/szlas5</bk:userLink>
+      <bk:userName>szlas5</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:01 +0000</pubDate>
+      <bk:timestamp>1292511121.651</bk:timestamp>
+      <link>http://brightkite.com/objects/7789b2995ab7cebfde67604d309d603d</link>
+      <guid>http://brightkite.com/objects/7789b2995ab7cebfde67604d309d603d</guid>
+    </item>
+    <item>
+      <title>paderewski19 posted a text message @ Somewhere in the world</title>
+      <description>szkoluda http://osc.template-help.com/forum_12921/profile.php?mode=viewprofile&amp;u=42483</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>szkoluda http://osc.template-help.com/forum_12921/profile.php?mode=viewprofile&amp;u=42483</bk:message>
+      <bk:userLink>http://brightkite.com/people/paderewski19</bk:userLink>
+      <bk:userName>paderewski19</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:52:01 +0000</pubDate>
+      <bk:timestamp>1292511121.611</bk:timestamp>
+      <link>http://brightkite.com/objects/5bcbaacd8ebd10defc56d202be90eef1</link>
+      <guid>http://brightkite.com/objects/5bcbaacd8ebd10defc56d202be90eef1</guid>
+    </item>
+    <item>
+      <title>kryszkiewicz5 posted a text message @ Somewhere in the world</title>
+      <description>kszczot http://centerseo.damci.pl/e/Wczasy-samolotem-organizator-wyci,488</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>kszczot http://centerseo.damci.pl/e/Wczasy-samolotem-organizator-wyci,488</bk:message>
+      <bk:userLink>http://brightkite.com/people/kryszkiewicz5</bk:userLink>
+      <bk:userName>kryszkiewicz5</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:59 +0000</pubDate>
+      <bk:timestamp>1292511119.13</bk:timestamp>
+      <link>http://brightkite.com/objects/8151da1ff2ff640b8e9f31a42f7e0a8a</link>
+      <guid>http://brightkite.com/objects/8151da1ff2ff640b8e9f31a42f7e0a8a</guid>
+    </item>
+    <item>
+      <title>karwot18 posted a text message @ Somewhere in the world</title>
+      <description>ganczar http://www.consiliulelevilor.ro/forum/profile.php?mode=viewprofile&amp;u=154567</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>ganczar http://www.consiliulelevilor.ro/forum/profile.php?mode=viewprofile&amp;u=154567</bk:message>
+      <bk:userLink>http://brightkite.com/people/karwot18</bk:userLink>
+      <bk:userName>karwot18</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:58 +0000</pubDate>
+      <bk:timestamp>1292511118.805</bk:timestamp>
+      <link>http://brightkite.com/objects/ae4fa38fd9ac7f4bebdc9566996e164b</link>
+      <guid>http://brightkite.com/objects/ae4fa38fd9ac7f4bebdc9566996e164b</guid>
+    </item>
+    <item>
+      <title>gemza13 posted a text message @ Somewhere in the world</title>
+      <description>hudy http://absorberom.tk/e/Blachy-miedziane-tasmy-miedziane,399</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>hudy http://absorberom.tk/e/Blachy-miedziane-tasmy-miedziane,399</bk:message>
+      <bk:userLink>http://brightkite.com/people/gemza13</bk:userLink>
+      <bk:userName>gemza13</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:58 +0000</pubDate>
+      <bk:timestamp>1292511118.754</bk:timestamp>
+      <link>http://brightkite.com/objects/2b7f66b7a1ecdf462751541169676a17</link>
+      <guid>http://brightkite.com/objects/2b7f66b7a1ecdf462751541169676a17</guid>
+    </item>
+    <item>
+      <title>dokurno13 posted a text message @ Somewhere in the world</title>
+      <description>zawisza http://ablatywny.tk/e/Docieplenia-konglomerat-produkcj,638</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>zawisza http://ablatywny.tk/e/Docieplenia-konglomerat-produkcj,638</bk:message>
+      <bk:userLink>http://brightkite.com/people/dokurno13</bk:userLink>
+      <bk:userName>dokurno13</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:58 +0000</pubDate>
+      <bk:timestamp>1292511118.236</bk:timestamp>
+      <link>http://brightkite.com/objects/b4a9eb1b88cb9727469d86570e6ead74</link>
+      <guid>http://brightkite.com/objects/b4a9eb1b88cb9727469d86570e6ead74</guid>
+    </item>
+    <item>
+      <title>chyrzynski17 posted a text message @ Somewhere in the world</title>
+      <description>uczek http://web.cieplne.waw.pl/e/Studio-fitness-aqua-aerobic-sil,6985</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>uczek http://web.cieplne.waw.pl/e/Studio-fitness-aqua-aerobic-sil,6985</bk:message>
+      <bk:userLink>http://brightkite.com/people/chyrzynski17</bk:userLink>
+      <bk:userName>chyrzynski17</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:52 +0000</pubDate>
+      <bk:timestamp>1292511112.538</bk:timestamp>
+      <link>http://brightkite.com/objects/25c2269437977ff379221eacc39a0372</link>
+      <guid>http://brightkite.com/objects/25c2269437977ff379221eacc39a0372</guid>
+    </item>
+    <item>
+      <title>dokurno13 posted a text message @ Somewhere in the world</title>
+      <description>zawisza http://abisobionty.tk/e/Pielgrzymki-biuro-pielgrzymkowe,837</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>zawisza http://abisobionty.tk/e/Pielgrzymki-biuro-pielgrzymkowe,837</bk:message>
+      <bk:userLink>http://brightkite.com/people/dokurno13</bk:userLink>
+      <bk:userName>dokurno13</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:48 +0000</pubDate>
+      <bk:timestamp>1292511108.614</bk:timestamp>
+      <link>http://brightkite.com/objects/947f9ca81d080c5e8eabbac02307a75a</link>
+      <guid>http://brightkite.com/objects/947f9ca81d080c5e8eabbac02307a75a</guid>
+    </item>
+    <item>
+      <title>zelewski9 posted a text message @ Somewhere in the world</title>
+      <description>lasonczyk http://deuwarez.com/profile.php?mode=viewprofile&amp;u=44475</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>lasonczyk http://deuwarez.com/profile.php?mode=viewprofile&amp;u=44475</bk:message>
+      <bk:userLink>http://brightkite.com/people/zelewski9</bk:userLink>
+      <bk:userName>zelewski9</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:43 +0000</pubDate>
+      <bk:timestamp>1292511103.113</bk:timestamp>
+      <link>http://brightkite.com/objects/dea41ed617aae4aaeedafe2f6e75ea30</link>
+      <guid>http://brightkite.com/objects/dea41ed617aae4aaeedafe2f6e75ea30</guid>
+    </item>
+    <item>
+      <title>skraba5 posted a text message @ Somewhere in the world</title>
+      <description>stanowski http://abrogowaniem.tk/e/Gipsy-silikony-techniczne-urzad,570</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>stanowski http://abrogowaniem.tk/e/Gipsy-silikony-techniczne-urzad,570</bk:message>
+      <bk:userLink>http://brightkite.com/people/skraba5</bk:userLink>
+      <bk:userName>skraba5</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:36 +0000</pubDate>
+      <bk:timestamp>1292511096.063</bk:timestamp>
+      <link>http://brightkite.com/objects/11d18c4c6dba97d2786e50a70c96bf1d</link>
+      <guid>http://brightkite.com/objects/11d18c4c6dba97d2786e50a70c96bf1d</guid>
+    </item>
+    <item>
+      <title>bartniak5 posted a text message @ Somewhere in the world</title>
+      <description>bratek http://abortusu.tk/e/Ogrzewacze-przewody-grzejne-ogrz,497</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>bratek http://abortusu.tk/e/Ogrzewacze-przewody-grzejne-ogrz,497</bk:message>
+      <bk:userLink>http://brightkite.com/people/bartniak5</bk:userLink>
+      <bk:userName>bartniak5</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:31 +0000</pubDate>
+      <bk:timestamp>1292511091.551</bk:timestamp>
+      <link>http://brightkite.com/objects/cb090917d2383fc0d2d945946053e722</link>
+      <guid>http://brightkite.com/objects/cb090917d2383fc0d2d945946053e722</guid>
+    </item>
+    <item>
+      <title>danel9 posted a text message @ Somewhere in the world</title>
+      <description>jarczewski http://katalog.firmysukcesu.pl/index.php?m=3&amp;wpis=113066</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>jarczewski http://katalog.firmysukcesu.pl/index.php?m=3&amp;wpis=113066</bk:message>
+      <bk:userLink>http://brightkite.com/people/danel9</bk:userLink>
+      <bk:userName>danel9</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:29 +0000</pubDate>
+      <bk:timestamp>1292511089.156</bk:timestamp>
+      <link>http://brightkite.com/objects/b7c9d3c2e676001409d470f6dd8a4a0c</link>
+      <guid>http://brightkite.com/objects/b7c9d3c2e676001409d470f6dd8a4a0c</guid>
+    </item>
+    <item>
+      <title>amywood posted a text message @ UA</title>
+      <description>SCHP website lists over 220 accidents since 5:00am in Anderson-Greenville-Oconee-Pickens-Spartanburg counties. /via @fredontv</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>SCHP website lists over 220 accidents since 5:00am in Anderson-Greenville-Oconee-Pickens-Spartanburg counties. /via @fredontv</bk:message>
+      <bk:userLink>http://brightkite.com/people/amywood</bk:userLink>
+      <bk:userName>amywood</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/25e298b69a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/c647868b1281260368fb7feed0617beb</bk:placeLink>
+      <bk:placeName>UA</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>47.858094</geo:lat>
+      <geo:long>35.075397</geo:long>
+      <georss:point>47.858094 35.075397</georss:point>
+      <georss:featuretypetag>country</georss:featuretypetag>
+      <georss:featurename>UA</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:25 +0000</pubDate>
+      <bk:timestamp>1292511085.543</bk:timestamp>
+      <link>http://brightkite.com/objects/7a688b971041142e91d177f2a7109fc6</link>
+      <guid>http://brightkite.com/objects/7a688b971041142e91d177f2a7109fc6</guid>
+    </item>
+    <item>
+      <title>kitlinski20 posted a text message @ Somewhere in the world</title>
+      <description>piskor http://kriss.namepad.org/e/Jalowiec-sprzedaz-owoce-jalowc,4726</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>piskor http://kriss.namepad.org/e/Jalowiec-sprzedaz-owoce-jalowc,4726</bk:message>
+      <bk:userLink>http://brightkite.com/people/kitlinski20</bk:userLink>
+      <bk:userName>kitlinski20</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Thu, 16 Dec 2010 14:51:23 +0000</pubDate>
+      <bk:timestamp>1292511083.596</bk:timestamp>
+      <link>http://brightkite.com/objects/ed3e6ed0e4c4a27c7ae4addead99eda6</link>
+      <guid>http://brightkite.com/objects/ed3e6ed0e4c4a27c7ae4addead99eda6</guid>
+    </item>
+  </channel>
+</rss>

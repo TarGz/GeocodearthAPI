@@ -1,0 +1,232 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Flickr Gallerie</title>
+<link>http://www.geocodearth.com</link>
+<description>V1</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>New York - The City of Lights</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1241535809</pubDate>
+<link>http://www.flickr.com/photos/dominic_kamp/3503948461/</link>
+<author><a href='http://www.flickr.com/photos/dominic_kamp/3503948461/'>8</a></author>
+<guid>3503948461</guid>
+<media:content url='http://farm4.static.flickr.com/3394/3503948461_b6c17d567b_o.jpg' type='image/jpeg' height='664' width='1000' />
+<media:title>New York - The City of Lights</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3394/3503948461_1d4b0f61cd_s.jpg'  />
+</item>
+
+<item>
+<title>Leaving New York</title>
+<description>Array</description>
+<geo:lat>40.704144</geo:lat>
+<geo:long>-73.994505</geo:long>
+<georss:point>40.704144 -73.994505</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1222767310</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2900844061/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2900844061/'>9</a></author>
+<guid>2900844061</guid>
+<media:content url='http://farm4.static.flickr.com/3276/2900844061_c02e6e17c5_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Leaving New York</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3276/2900844061_c02e6e17c5_s.jpg'  />
+</item>
+
+<item>
+<title>A New York Night</title>
+<description>Array</description>
+<geo:lat>40.748501</geo:lat>
+<geo:long>-73.986075</geo:long>
+<georss:point>40.748501 -73.986075</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1228137541</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3074484850/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3074484850/'>9</a></author>
+<guid>3074484850</guid>
+<media:content url='http://farm4.static.flickr.com/3014/3074484850_f514ff3106_b.jpg' type='image/jpeg' height='576' width='1024' />
+<media:title>A New York Night</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3014/3074484850_f514ff3106_s.jpg'  />
+</item>
+
+<item>
+<title>Downtown</title>
+<description>Array</description>
+<geo:lat>40.708273</geo:lat>
+<geo:long>-73.999625</geo:long>
+<georss:point>40.708273 -73.999625</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1229778389</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3122716080/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3122716080/'>9</a></author>
+<guid>3122716080</guid>
+<media:content url='http://farm4.static.flickr.com/3245/3122716080_7f7554c2b7_b.jpg' type='image/jpeg' height='768' width='1024' />
+<media:title>Downtown</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3245/3122716080_7f7554c2b7_s.jpg'  />
+</item>
+
+<item>
+<title>Top of the Rock</title>
+<description>Array</description>
+<geo:lat>40.758814</geo:lat>
+<geo:long>-73.979402</geo:long>
+<georss:point>40.758814 -73.979402</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1223132150</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2911516667/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2911516667/'>9</a></author>
+<guid>2911516667</guid>
+<media:content url='http://farm4.static.flickr.com/3024/2911516667_08242504bc_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Top of the Rock</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3024/2911516667_08242504bc_s.jpg'  />
+</item>
+
+<item>
+<title>Tribute in Light</title>
+<description>Array</description>
+<geo:lat>40.717026</geo:lat>
+<geo:long>-74.029961</geo:long>
+<georss:point>40.717026 -74.029961</georss:point>
+<georss:featurename>Jersey City, États-Unis</georss:featurename>
+<pubDate>1223288947</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2918480276/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2918480276/'>9</a></author>
+<guid>2918480276</guid>
+<media:content url='http://farm4.static.flickr.com/3053/2918480276_b6ded59748_b.jpg' type='image/jpeg' height='682' width='1024' />
+<media:title>Tribute in Light</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3053/2918480276_b6ded59748_s.jpg'  />
+</item>
+
+<item>
+<title>Empire View</title>
+<description>Array</description>
+<geo:lat>40.748419</geo:lat>
+<geo:long>-73.985764</geo:long>
+<georss:point>40.748419 -73.985764</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1227898055</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3065589949/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3065589949/'>9</a></author>
+<guid>3065589949</guid>
+<media:content url='http://farm4.static.flickr.com/3146/3065589949_915b40d2ea_b.jpg' type='image/jpeg' height='576' width='1024' />
+<media:title>Empire View</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3146/3065589949_915b40d2ea_s.jpg'  />
+</item>
+
+<item>
+<title>Manhattan Skyline</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1258011782</pubDate>
+<link>http://www.flickr.com/photos/dickmann/4097063509/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/4097063509/'>9</a></author>
+<guid>4097063509</guid>
+<media:content url='http://farm3.static.flickr.com/2769/4097063509_056f969371_b.jpg' type='image/jpeg' height='512' width='1024' />
+<media:title>Manhattan Skyline</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2769/4097063509_056f969371_s.jpg'  />
+</item>
+
+<item>
+<title>Paris at Dusk</title>
+<description>Array</description>
+<geo:lat>48.841913</geo:lat>
+<geo:long>2.322192</geo:long>
+<georss:point>48.841913 2.322192</georss:point>
+<georss:featurename>Paris, France</georss:featurename>
+<pubDate>1276435511</pubDate>
+<link>http://www.flickr.com/photos/dickmann/4696218070/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/4696218070/'>9</a></author>
+<guid>4696218070</guid>
+<media:content url='http://farm5.static.flickr.com/4032/4696218070_fda4462857_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Paris at Dusk</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4032/4696218070_fda4462857_s.jpg'  />
+</item>
+
+<item>
+<title>Residential Hong Kong</title>
+<description>Array</description>
+<geo:lat>22.364909</geo:lat>
+<geo:long>114.112329</geo:long>
+<georss:point>22.364909 114.112329</georss:point>
+<georss:featurename>Tsuen Wan, Hong Kong</georss:featurename>
+<pubDate>1289809408</pubDate>
+<link>http://www.flickr.com/photos/dickmann/5177537861/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/5177537861/'>9</a></author>
+<guid>5177537861</guid>
+<media:content url='http://farm5.static.flickr.com/4124/5177537861_d55ddc8016_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Residential Hong Kong</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4124/5177537861_d55ddc8016_s.jpg'  />
+</item>
+
+<item>
+<title>City Lights</title>
+<description>Array</description>
+<geo:lat>40.748297</geo:lat>
+<geo:long>-73.985635</geo:long>
+<georss:point>40.748297 -73.985635</georss:point>
+<georss:featurename>New York, États-Unis</georss:featurename>
+<pubDate>1240942401</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3483191163/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3483191163/'>9</a></author>
+<guid>3483191163</guid>
+<media:content url='http://farm4.static.flickr.com/3185/3483191163_f36cecc749_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>City Lights</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3185/3483191163_f36cecc749_s.jpg'  />
+</item>
+
+<item>
+<title>London Night Light</title>
+<description>Array</description>
+<geo:lat>51.501703</geo:lat>
+<geo:long>-0.119776</geo:long>
+<georss:point>51.501703 -0.119776</georss:point>
+<georss:featurename>Londres, Royaume Uni</georss:featurename>
+<pubDate>1257095945</pubDate>
+<link>http://www.flickr.com/photos/doug88888/4064275837/</link>
+<author><a href='http://www.flickr.com/photos/doug88888/4064275837/'>2</a></author>
+<guid>4064275837</guid>
+<media:content url='http://farm3.static.flickr.com/2682/4064275837_430dd17622_o.jpg' type='image/jpeg' height='1700' width='2700' />
+<media:title>London Night Light</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2682/4064275837_6c4c383ceb_s.jpg'  />
+</item>
+
+<item>
+<title>Seattle Alive at Sunset</title>
+<description>Array</description>
+<geo:lat>47.592207</geo:lat>
+<geo:long>-122.317636</geo:long>
+<georss:point>47.592207 -122.317636</georss:point>
+<georss:featurename>Seattle, États-Unis</georss:featurename>
+<pubDate>1233132767</pubDate>
+<link>http://www.flickr.com/photos/surrealize/3232960021/</link>
+<author><a href='http://www.flickr.com/photos/surrealize/3232960021/'>3</a></author>
+<guid>3232960021</guid>
+<media:content url='http://farm4.static.flickr.com/3347/3232960021_fe9814e676_o.jpg' type='image/jpeg' height='800' width='1557' />
+<media:title>Seattle Alive at Sunset</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3347/3232960021_059a46950e_s.jpg'  />
+</item>
+
+<item>
+<title>river of lights, towers of steel</title>
+<description>Array</description>
+<geo:lat>34.054917</geo:lat>
+<geo:long>-118.257222</geo:long>
+<georss:point>34.054917 -118.257222</georss:point>
+<georss:featurename>Los Angeles, États-Unis</georss:featurename>
+<pubDate>1184349165</pubDate>
+<link>http://www.flickr.com/photos/gsgeorge/800088103/</link>
+<author><a href='http://www.flickr.com/photos/gsgeorge/800088103/'>3</a></author>
+<guid>800088103</guid>
+<media:content url='http://farm2.static.flickr.com/1307/800088103_6dc6f067c6_b.jpg' type='image/jpeg' height='726' width='1024' />
+<media:title>river of lights, towers of steel</media:title>
+<media:thumbnail url='http://farm2.static.flickr.com/1307/800088103_6dc6f067c6_s.jpg'  />
+</item>
+</channel>
+</rss>

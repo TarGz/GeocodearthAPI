@@ -1,0 +1,168 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Twitter public timeline in GeoRss</title>
+<link>http://www.geocodearth.com/api/proxy/twitter_proxy.php</link>
+<description>See what's going on in the Twiter Universe</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>IMG_20100816_141103</title>
+<description></description>
+<geo:lat>37.782213</geo:lat>
+<geo:long>-122.411041</geo:long>
+<georss:point>37.782213 -122.411041</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282502953</pubDate>
+<link>http://www.flickr.com/photos/targz/4917222254/</link>
+<author><a href='http://www.flickr.com/photos/targz/4917222254/'>TarGz</a></author>
+<guid>4917222254</guid>
+<media:content url='http://farm5.static.flickr.com/4135/4917222254_0093e7421c.jpg' type='image/jpeg'/>
+<media:title>IMG_20100816_141103</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4135/4917222254_0093e7421c_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>IMG_20100816_144400</title>
+<description></description>
+<geo:lat>37.808686</geo:lat>
+<geo:long>-122.475401</geo:long>
+<georss:point>37.808686 -122.475401</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282502962</pubDate>
+<link>http://www.flickr.com/photos/targz/4917222822/</link>
+<author><a href='http://www.flickr.com/photos/targz/4917222822/'>TarGz</a></author>
+<guid>4917222822</guid>
+<media:content url='http://farm5.static.flickr.com/4114/4917222822_ba9037c1d2.jpg' type='image/jpeg'/>
+<media:title>IMG_20100816_144400</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4114/4917222822_ba9037c1d2_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>IMG_20100817_121309</title>
+<description></description>
+<geo:lat>37.771677</geo:lat>
+<geo:long>-122.402056</geo:long>
+<georss:point>37.771677 -122.402056</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282502973</pubDate>
+<link>http://www.flickr.com/photos/targz/4917223480/</link>
+<author><a href='http://www.flickr.com/photos/targz/4917223480/'>TarGz</a></author>
+<guid>4917223480</guid>
+<media:content url='http://farm5.static.flickr.com/4121/4917223480_52650e675a.jpg' type='image/jpeg'/>
+<media:title>IMG_20100817_121309</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4121/4917223480_52650e675a_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Title of the image</title>
+<description></description>
+<geo:lat>37.773335</geo:lat>
+<geo:long>-122.450695</geo:long>
+<georss:point>37.773335 -122.450695</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282502986</pubDate>
+<link>http://www.flickr.com/photos/targz/4917224242/</link>
+<author><a href='http://www.flickr.com/photos/targz/4917224242/'>TarGz</a></author>
+<guid>4917224242</guid>
+<media:content url='http://farm5.static.flickr.com/4100/4917224242_91956022b5.jpg' type='image/jpeg'/>
+<media:title>Title of the image</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4100/4917224242_91956022b5_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>IMG_0294</title>
+<description></description>
+<geo:lat>37.771166</geo:lat>
+<geo:long>-122.404834</geo:long>
+<georss:point>37.771166 -122.404834</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282503008</pubDate>
+<link>http://www.flickr.com/photos/targz/4916626005/</link>
+<author><a href='http://www.flickr.com/photos/targz/4916626005/'>TarGz</a></author>
+<guid>4916626005</guid>
+<media:content url='http://farm5.static.flickr.com/4095/4916626005_2119bed246.jpg' type='image/jpeg'/>
+<media:title>IMG_0294</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4095/4916626005_2119bed246_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>The Castro theater</title>
+<description></description>
+<geo:lat>37.759621</geo:lat>
+<geo:long>-122.43473</geo:long>
+<georss:point>37.759621 -122.43473</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1281951008</pubDate>
+<link>http://www.flickr.com/photos/targz/4897376394/</link>
+<author><a href='http://www.flickr.com/photos/targz/4897376394/'>TarGz</a></author>
+<guid>4897376394</guid>
+<media:content url='http://farm5.static.flickr.com/4077/4897376394_5acd1b67f8.jpg' type='image/jpeg'/>
+<media:title>The Castro theater</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4077/4897376394_5acd1b67f8_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>3 am can't sleep anymore</title>
+<description></description>
+<geo:lat>37.786819</geo:lat>
+<geo:long>-122.402489</geo:long>
+<georss:point>37.786819 -122.402489</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1281953297</pubDate>
+<link>http://www.flickr.com/photos/targz/4897438674/</link>
+<author><a href='http://www.flickr.com/photos/targz/4897438674/'>TarGz</a></author>
+<guid>4897438674</guid>
+<media:content url='http://farm5.static.flickr.com/4116/4897438674_e01eb57aff.jpg' type='image/jpeg'/>
+<media:title>3 am can't sleep anymore</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4116/4897438674_e01eb57aff_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Burgerking !!!!!</title>
+<description></description>
+<geo:lat>37.784983</geo:lat>
+<geo:long>-122.407489</geo:long>
+<georss:point>37.784983 -122.407489</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1281992245</pubDate>
+<link>http://www.flickr.com/photos/targz/4899230070/</link>
+<author><a href='http://www.flickr.com/photos/targz/4899230070/'>TarGz</a></author>
+<guid>4899230070</guid>
+<media:content url='http://farm5.static.flickr.com/4134/4899230070_67dfc74f36.jpg' type='image/jpeg'/>
+<media:title>Burgerking !!!!!</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4134/4899230070_67dfc74f36_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Lazing at the Dolores park</title>
+<description></description>
+<geo:lat>37.776427</geo:lat>
+<geo:long>-122.458523</geo:long>
+<georss:point>37.776427 -122.458523</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282009688</pubDate>
+<link>http://www.flickr.com/photos/targz/4900016060/</link>
+<author><a href='http://www.flickr.com/photos/targz/4900016060/'>TarGz</a></author>
+<guid>4900016060</guid>
+<media:content url='http://farm5.static.flickr.com/4101/4900016060_1500f9bdb6.jpg' type='image/jpeg'/>
+<media:title>Lazing at the Dolores park</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4101/4900016060_1500f9bdb6_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>First session #FITC by @qazimondo</title>
+<description></description>
+<geo:lat>37.770911</geo:lat>
+<geo:long>-122.401212</geo:long>
+<georss:point>37.770911 -122.401212</georss:point>
+<georss:featurename>San Francisco, États-Unis</georss:featurename>
+<pubDate>1282068563</pubDate>
+<link>http://www.flickr.com/photos/targz/4902093156/</link>
+<author><a href='http://www.flickr.com/photos/targz/4902093156/'>TarGz</a></author>
+<guid>4902093156</guid>
+<media:content url='http://farm5.static.flickr.com/4117/4902093156_8882d0da49.jpg' type='image/jpeg'/>
+<media:title>First session #FITC by @qazimondo</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4117/4902093156_8882d0da49_s.jpg' height='375' width='500' />
+</item>
+</channel>
+</rss>

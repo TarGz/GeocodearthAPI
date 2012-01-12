@@ -1,0 +1,73 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Flickr Gallerie</title>
+<link>http://www.geocodearth.com</link>
+<description>V1</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>Cuba Gallery: Sand dune / clouds / sky / beach / Landscape / New Zealand / Portrait / Photography</title>
+<description>Array</description>
+<geo:lat>-36.340433</geo:lat>
+<geo:long>174.781494</geo:long>
+<georss:point>-36.340433 174.781494</georss:point>
+<georss:featurename>Omaha, Nouvelle-Zélande</georss:featurename>
+<pubDate>1283244312</pubDate>
+<link>http://www.flickr.com/photos/cubagallery/4944754276/</link>
+<author><a href='http://www.flickr.com/photos/cubagallery/4944754276/'>3</a></author>
+<guid>4944754276</guid>
+<media:content url='http://farm5.static.flickr.com/4100/4944754276_45a3a16d30.jpg' type='image/jpeg'/>
+<media:title>Cuba Gallery: Sand dune / clouds / sky / beach / Landscape / New Zealand / Portrait / Photography</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4100/4944754276_45a3a16d30_s.jpg' height='500' width='500' />
+</item>
+
+<item>
+<title>When Waves Collide</title>
+<description>Array</description>
+<geo:lat>33.51781</geo:lat>
+<geo:long>-117.761759</geo:long>
+<georss:point>33.51781 -117.761759</georss:point>
+<georss:featurename>Laguna Beach, États-Unis</georss:featurename>
+<pubDate>1152036325</pubDate>
+<link>http://www.flickr.com/photos/acastellano/181730235/</link>
+<author><a href='http://www.flickr.com/photos/acastellano/181730235/'>8</a></author>
+<guid>181730235</guid>
+<media:content url='http://farm1.static.flickr.com/58/181730235_14013541d9.jpg' type='image/jpeg'/>
+<media:title>When Waves Collide</media:title>
+<media:thumbnail url='http://farm1.static.flickr.com/58/181730235_14013541d9_s.jpg' height='333' width='500' />
+</item>
+
+<item>
+<title>Singing Bells</title>
+<description>Array</description>
+<geo:lat>50.627761</geo:lat>
+<geo:long>5.14787</geo:long>
+<georss:point>50.627761 5.14787</georss:point>
+<georss:featurename>Braives, Belgique</georss:featurename>
+<pubDate>1271231897</pubDate>
+<link>http://www.flickr.com/photos/benheine/4520340022/</link>
+<author><a href='http://www.flickr.com/photos/benheine/4520340022/'>4</a></author>
+<guid>4520340022</guid>
+<media:content url='http://farm3.static.flickr.com/2745/4520340022_66dd753b24.jpg' type='image/jpeg'/>
+<media:title>Singing Bells</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2745/4520340022_66dd753b24_s.jpg' height='500' width='337' />
+</item>
+
+<item>
+<title>Pencil Vs Camera - 5</title>
+<description>Array</description>
+<geo:lat>50.627761</geo:lat>
+<geo:long>5.14787</geo:long>
+<georss:point>50.627761 5.14787</georss:point>
+<georss:featurename>Braives, Belgique</georss:featurename>
+<pubDate>1271549468</pubDate>
+<link>http://www.flickr.com/photos/benheine/4529741606/</link>
+<author><a href='http://www.flickr.com/photos/benheine/4529741606/'>4</a></author>
+<guid>4529741606</guid>
+<media:content url='http://farm5.static.flickr.com/4051/4529741606_6c1b5c0b22.jpg' type='image/jpeg'/>
+<media:title>Pencil Vs Camera - 5</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4051/4529741606_6c1b5c0b22_s.jpg' height='329' width='500' />
+</item>
+</channel>
+</rss>
+1

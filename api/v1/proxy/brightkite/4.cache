@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss" xmlns:bk="http://brightkite.com/placeFeed" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>aipf posted a photo @ Nashville</title>
+      <description>&lt;img src="http://www.limbo.com/bkimages/04/c5/04c5dc40846893621c8fc93c58f90b48-feed.gif" /&gt;&lt;br /&gt;tidur ahhh</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://www.limbo.com/bkimages/04/c5/04c5dc40846893621c8fc93c58f90b48-feed.gif</bk:photoLink>
+      <bk:photoCaption>tidur ahhh</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://www.limbo.com/bkimages/04/c5/04c5dc40846893621c8fc93c58f90b48-feed.gif"/>
+      <media:thumbnail height="80" width="80" url="http://www.limbo.com/bkimages/04/c5/04c5dc40846893621c8fc93c58f90b48-big.gif"/>
+      <enclosure type="image/jpeg" url="http://www.limbo.com/bkimages/04/c5/04c5dc40846893621c8fc93c58f90b48-feed.gif"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ecaf0f86a22411ddb20efba271b1393c</bk:placeLink>
+      <bk:placeName>Nashville</bk:placeName>
+      <bk:placeAddress>TN, United States</bk:placeAddress>
+      <geo:lat>36.1658899</geo:lat>
+      <geo:long>-86.7844432</geo:long>
+      <georss:point>36.1658899 -86.7844432</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Nashville</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:34:32 +0000</pubDate>
+      <bk:timestamp>1295015672.165</bk:timestamp>
+      <link>http://brightkite.com/objects/04c5dc40846893621c8fc93c58f90b48</link>
+      <guid>http://brightkite.com/objects/04c5dc40846893621c8fc93c58f90b48</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Pizza Hut</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d0/49/d049f91a5f07c3c3134f2ffeea1d4f17-feed.gif" /&gt;&lt;br /&gt;pizza</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d0/49/d049f91a5f07c3c3134f2ffeea1d4f17-feed.gif</bk:photoLink>
+      <bk:photoCaption>pizza</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/d0/49/d049f91a5f07c3c3134f2ffeea1d4f17-feed.gif"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d0/49/d049f91a5f07c3c3134f2ffeea1d4f17-big.gif"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d0/49/d049f91a5f07c3c3134f2ffeea1d4f17-feed.gif"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/461044b80a4f338caca3beaeeca5bf5e</bk:placeLink>
+      <bk:placeName>Pizza Hut</bk:placeName>
+      <bk:placeAddress>5731 NW 36th St, Virginia Gardens, FL, United States</bk:placeAddress>
+      <geo:lat>25.807629</geo:lat>
+      <geo:long>-80.289684</geo:long>
+      <georss:point>25.807629 -80.289684</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Pizza Hut</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:31:43 +0000</pubDate>
+      <bk:timestamp>1295015503.179</bk:timestamp>
+      <link>http://brightkite.com/objects/d049f91a5f07c3c3134f2ffeea1d4f17</link>
+      <guid>http://brightkite.com/objects/d049f91a5f07c3c3134f2ffeea1d4f17</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ West-End Park</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/6d/37/6d3761becbf3fa7717a495f7a3f52ffe-feed.jpg" /&gt;&lt;br /&gt;nice</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/6d/37/6d3761becbf3fa7717a495f7a3f52ffe-feed.jpg</bk:photoLink>
+      <bk:photoCaption>nice</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/6d/37/6d3761becbf3fa7717a495f7a3f52ffe-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/6d/37/6d3761becbf3fa7717a495f7a3f52ffe-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/6d/37/6d3761becbf3fa7717a495f7a3f52ffe-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/f3ef73623a5543efc18a0b677619a394</bk:placeLink>
+      <bk:placeName>West-End Park</bk:placeName>
+      <bk:placeAddress>250 SW 60th Ave, Miami, FL, United States</bk:placeAddress>
+      <geo:lat>25.76822</geo:lat>
+      <geo:long>-80.293411</geo:long>
+      <georss:point>25.76822 -80.293411</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>West-End Park</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:30:39 +0000</pubDate>
+      <bk:timestamp>1295015439.069</bk:timestamp>
+      <link>http://brightkite.com/objects/6d3761becbf3fa7717a495f7a3f52ffe</link>
+      <guid>http://brightkite.com/objects/6d3761becbf3fa7717a495f7a3f52ffe</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Sammy Sushi</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/30/29/30299c04f270f3d21120b39984805551-feed.jpg" /&gt;&lt;br /&gt;sushi</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/30/29/30299c04f270f3d21120b39984805551-feed.jpg</bk:photoLink>
+      <bk:photoCaption>sushi</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/30/29/30299c04f270f3d21120b39984805551-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/30/29/30299c04f270f3d21120b39984805551-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/30/29/30299c04f270f3d21120b39984805551-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/180406524c49425e15eacdffa562adbd</bk:placeLink>
+      <bk:placeName>Sammy Sushi</bk:placeName>
+      <bk:placeAddress>3016 Pacific Ave, Livermore, CA, United States</bk:placeAddress>
+      <geo:lat>37.676179</geo:lat>
+      <geo:long>-121.757742</geo:long>
+      <georss:point>37.676179 -121.757742</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Sammy Sushi</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:27:25 +0000</pubDate>
+      <bk:timestamp>1295015245.189</bk:timestamp>
+      <link>http://brightkite.com/objects/30299c04f270f3d21120b39984805551</link>
+      <guid>http://brightkite.com/objects/30299c04f270f3d21120b39984805551</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Mc Donald's</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/ef/af/efaff980e02d671b4c3fa0f45901861b-feed.jpg" /&gt;&lt;br /&gt;Need Burger</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/ef/af/efaff980e02d671b4c3fa0f45901861b-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Need Burger</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/ef/af/efaff980e02d671b4c3fa0f45901861b-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/ef/af/efaff980e02d671b4c3fa0f45901861b-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ef/af/efaff980e02d671b4c3fa0f45901861b-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/01c3a25b2170af04bc4c0717ddbde1b7</bk:placeLink>
+      <bk:placeName>Mc Donald's</bk:placeName>
+      <bk:placeAddress>283 N P St, Livermore, CA, United States</bk:placeAddress>
+      <geo:lat>37.682748</geo:lat>
+      <geo:long>-121.777696</geo:long>
+      <georss:point>37.682748 -121.777696</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Mc Donald's</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:26:04 +0000</pubDate>
+      <bk:timestamp>1295015164.929</bk:timestamp>
+      <link>http://brightkite.com/objects/efaff980e02d671b4c3fa0f45901861b</link>
+      <guid>http://brightkite.com/objects/efaff980e02d671b4c3fa0f45901861b</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Pizza Hut</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/ea/dd/eadd326c352ceefce99104492df5f804-feed.gif" /&gt;&lt;br /&gt;salad</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/ea/dd/eadd326c352ceefce99104492df5f804-feed.gif</bk:photoLink>
+      <bk:photoCaption>salad</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/ea/dd/eadd326c352ceefce99104492df5f804-feed.gif"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/ea/dd/eadd326c352ceefce99104492df5f804-big.gif"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ea/dd/eadd326c352ceefce99104492df5f804-feed.gif"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/07a7d12115696afe2a7a44988cfc7e8d</bk:placeLink>
+      <bk:placeName>Pizza Hut</bk:placeName>
+      <bk:placeAddress>3094 Story Rd, San Jose, CA, United States</bk:placeAddress>
+      <geo:lat>37.355462</geo:lat>
+      <geo:long>-121.820135</geo:long>
+      <georss:point>37.355462 -121.820135</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Pizza Hut</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:23:47 +0000</pubDate>
+      <bk:timestamp>1295015027.892</bk:timestamp>
+      <link>http://brightkite.com/objects/eadd326c352ceefce99104492df5f804</link>
+      <guid>http://brightkite.com/objects/eadd326c352ceefce99104492df5f804</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ J C Penney Co</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/db/fb/dbfbe305ae22d3cf65b76279d33e8558-feed.jpg" /&gt;&lt;br /&gt;nice</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/db/fb/dbfbe305ae22d3cf65b76279d33e8558-feed.jpg</bk:photoLink>
+      <bk:photoCaption>nice</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/db/fb/dbfbe305ae22d3cf65b76279d33e8558-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/db/fb/dbfbe305ae22d3cf65b76279d33e8558-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/db/fb/dbfbe305ae22d3cf65b76279d33e8558-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/55983933481a7f93ed8b785a8c762a6d</bk:placeLink>
+      <bk:placeName>J C Penney Co</bk:placeName>
+      <bk:placeAddress>2230 Eastridge Loop, San Jose, CA, United States</bk:placeAddress>
+      <geo:lat>37.327283</geo:lat>
+      <geo:long>-121.816466</geo:long>
+      <georss:point>37.327283 -121.816466</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>J C Penney Co</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:22:19 +0000</pubDate>
+      <bk:timestamp>1295014939.013</bk:timestamp>
+      <link>http://brightkite.com/objects/dbfbe305ae22d3cf65b76279d33e8558</link>
+      <guid>http://brightkite.com/objects/dbfbe305ae22d3cf65b76279d33e8558</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ JCPenney</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/ce/5e/ce5e3515003ae188847ddfd463678903-feed.jpg" /&gt;&lt;br /&gt;nice</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/ce/5e/ce5e3515003ae188847ddfd463678903-feed.jpg</bk:photoLink>
+      <bk:photoCaption>nice</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/ce/5e/ce5e3515003ae188847ddfd463678903-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/ce/5e/ce5e3515003ae188847ddfd463678903-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ce/5e/ce5e3515003ae188847ddfd463678903-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/2f738e1e62e621df51c964f1888b360d</bk:placeLink>
+      <bk:placeName>JCPenney</bk:placeName>
+      <bk:placeAddress>421 Vineyard Town Ctr, Morgan Hill, CA, United States</bk:placeAddress>
+      <geo:lat>37.11039</geo:lat>
+      <geo:long>-121.641598</geo:long>
+      <georss:point>37.11039 -121.641598</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>JCPenney</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:20:59 +0000</pubDate>
+      <bk:timestamp>1295014859.492</bk:timestamp>
+      <link>http://brightkite.com/objects/ce5e3515003ae188847ddfd463678903</link>
+      <guid>http://brightkite.com/objects/ce5e3515003ae188847ddfd463678903</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Salinas Valley </title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/fe/55/fe551a2fd67e737df2aabe2ced0478e5-feed.jpg" /&gt;&lt;br /&gt;nice</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/fe/55/fe551a2fd67e737df2aabe2ced0478e5-feed.jpg</bk:photoLink>
+      <bk:photoCaption>nice</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/fe/55/fe551a2fd67e737df2aabe2ced0478e5-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/fe/55/fe551a2fd67e737df2aabe2ced0478e5-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/fe/55/fe551a2fd67e737df2aabe2ced0478e5-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/414be4145ec58f9d0ece4d66f51bfa2e</bk:placeLink>
+      <bk:placeName>Salinas Valley </bk:placeName>
+      <bk:placeAddress>1100 Auto Center Circle, United States</bk:placeAddress>
+      <geo:lat>36.715389</geo:lat>
+      <geo:long>-121.663994</geo:long>
+      <georss:point>36.715389 -121.663994</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Salinas Valley </georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:19:15 +0000</pubDate>
+      <bk:timestamp>1295014755.805</bk:timestamp>
+      <link>http://brightkite.com/objects/fe551a2fd67e737df2aabe2ced0478e5</link>
+      <guid>http://brightkite.com/objects/fe551a2fd67e737df2aabe2ced0478e5</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Mc Donald's</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/85/3b/853b77ca44f3513bf54ae1450ac8df63-feed.jpg" /&gt;&lt;br /&gt;burger</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/85/3b/853b77ca44f3513bf54ae1450ac8df63-feed.jpg</bk:photoLink>
+      <bk:photoCaption>burger</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/85/3b/853b77ca44f3513bf54ae1450ac8df63-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/85/3b/853b77ca44f3513bf54ae1450ac8df63-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/85/3b/853b77ca44f3513bf54ae1450ac8df63-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ea375b531a718dbca43a7b6007d78e98</bk:placeLink>
+      <bk:placeName>Mc Donald's</bk:placeName>
+      <bk:placeAddress>1330 Northridge Shopping Ctr, Salinas, CA, United States</bk:placeAddress>
+      <geo:lat>36.720923</geo:lat>
+      <geo:long>-121.65693</geo:long>
+      <georss:point>36.720923 -121.65693</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Mc Donald's</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:16:22 +0000</pubDate>
+      <bk:timestamp>1295014582.929</bk:timestamp>
+      <link>http://brightkite.com/objects/853b77ca44f3513bf54ae1450ac8df63</link>
+      <guid>http://brightkite.com/objects/853b77ca44f3513bf54ae1450ac8df63</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ JC Penney Portrait Studio</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d0/7d/d07d04bf03b040e456e0474444e950d3-feed.jpg" /&gt;&lt;br /&gt;pic this</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d0/7d/d07d04bf03b040e456e0474444e950d3-feed.jpg</bk:photoLink>
+      <bk:photoCaption>pic this</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/d0/7d/d07d04bf03b040e456e0474444e950d3-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d0/7d/d07d04bf03b040e456e0474444e950d3-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d0/7d/d07d04bf03b040e456e0474444e950d3-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/a9f08130172c6a8daad07d43ddeee059</bk:placeLink>
+      <bk:placeName>JC Penney Portrait Studio</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>36.71643</geo:lat>
+      <geo:long>-121.65748</geo:long>
+      <georss:point>36.71643 -121.65748</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>JC Penney Portrait Studio</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:04:18 +0000</pubDate>
+      <bk:timestamp>1295013858.428</bk:timestamp>
+      <link>http://brightkite.com/objects/d07d04bf03b040e456e0474444e950d3</link>
+      <guid>http://brightkite.com/objects/d07d04bf03b040e456e0474444e950d3</guid>
+    </item>
+    <item>
+      <title>aipf posted a photo @ Takara Sushi Japanese Rstrnt</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/0c/35/0c35b93695f88da8ae2746415f409784-feed.jpg" /&gt;&lt;br /&gt;Nice sushi</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/0c/35/0c35b93695f88da8ae2746415f409784-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Nice sushi</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/0c/35/0c35b93695f88da8ae2746415f409784-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/0c/35/0c35b93695f88da8ae2746415f409784-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/0c/35/0c35b93695f88da8ae2746415f409784-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/aipf</bk:userLink>
+      <bk:userName>aipf</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/16/bb/16bbfb4158e230b80fe148f7cf545d81-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/34e820acc8db103e6d6afcb89c43905f</bk:placeLink>
+      <bk:placeName>Takara Sushi Japanese Rstrnt</bk:placeName>
+      <bk:placeAddress>218 17th St, Pacific Grove, CA, United States</bk:placeAddress>
+      <geo:lat>36.621142</geo:lat>
+      <geo:long>-121.918912</geo:long>
+      <georss:point>36.621142 -121.918912</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Takara Sushi Japanese Rstrnt</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 14:03:16 +0000</pubDate>
+      <bk:timestamp>1295013796.047</bk:timestamp>
+      <link>http://brightkite.com/objects/0c35b93695f88da8ae2746415f409784</link>
+      <guid>http://brightkite.com/objects/0c35b93695f88da8ae2746415f409784</guid>
+    </item>
+    <item>
+      <title>mchk325 posted a photo @ &#29366;&#27841;&#12364;&#35010;&#12356;&#12383;&#37096;&#23627;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/22/47/22471c02731cdc5564efee4ff3e4ef90-feed.jpg" /&gt;&lt;br /&gt;&#12390;&#12377;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/22/47/22471c02731cdc5564efee4ff3e4ef90-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#12390;&#12377;</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/22/47/22471c02731cdc5564efee4ff3e4ef90-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/22/47/22471c02731cdc5564efee4ff3e4ef90-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/22/47/22471c02731cdc5564efee4ff3e4ef90-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/mchk325</bk:userLink>
+      <bk:userName>mchk325</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/dd/df/dddf4e202f1b7dad175b1fa662f75451-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/53cda07ee39f97bad13371209e96ece7</bk:placeLink>
+      <bk:placeName>&#29366;&#27841;&#12364;&#35010;&#12356;&#12383;&#37096;&#23627;</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>&#29366;&#27841;&#12364;&#35010;&#12356;&#12383;&#37096;&#23627;</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 05:41:43 +0000</pubDate>
+      <bk:timestamp>1294983703.618</bk:timestamp>
+      <link>http://brightkite.com/objects/22471c02731cdc5564efee4ff3e4ef90</link>
+      <guid>http://brightkite.com/objects/22471c02731cdc5564efee4ff3e4ef90</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/65/bb/65bb2a2f5f1ababb8e7178b8e10a109d-feed.jpg" /&gt;&lt;br /&gt;Demonstration Video: http://dld.bz/DWXM Prevention / Detection of Electronic Harassment/Surveillance (PDEHS) Open 24/7/365! (888) 344-3742</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/65/bb/65bb2a2f5f1ababb8e7178b8e10a109d-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Demonstration Video: http://dld.bz/DWXM Prevention / Detection of Electronic Harassment/Surveillance (PDEHS) Open 24/7/365! (888) 344-3742</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/65/bb/65bb2a2f5f1ababb8e7178b8e10a109d-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/65/bb/65bb2a2f5f1ababb8e7178b8e10a109d-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/65/bb/65bb2a2f5f1ababb8e7178b8e10a109d-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 05:07:36 +0000</pubDate>
+      <bk:timestamp>1294981656.034</bk:timestamp>
+      <link>http://brightkite.com/objects/65bb2a2f5f1ababb8e7178b8e10a109d</link>
+      <guid>http://brightkite.com/objects/65bb2a2f5f1ababb8e7178b8e10a109d</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/07/b4/07b40a89dcbd5f0bb0fc61546fe92e5d-feed.jpg" /&gt;&lt;br /&gt;Video Demonstration: http://dld.bz/DW84 COMPUTER KEYBOARD (GSM-Bug) HIDDEN AUDIO MONITORING DEVICE (Buy/Rent) Open 24/7/365! (888) 344-3742</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/07/b4/07b40a89dcbd5f0bb0fc61546fe92e5d-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Video Demonstration: http://dld.bz/DW84 COMPUTER KEYBOARD (GSM-Bug) HIDDEN AUDIO MONITORING DEVICE (Buy/Rent) Open 24/7/365! (888) 344-3742</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/07/b4/07b40a89dcbd5f0bb0fc61546fe92e5d-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/07/b4/07b40a89dcbd5f0bb0fc61546fe92e5d-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/07/b4/07b40a89dcbd5f0bb0fc61546fe92e5d-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 05:05:35 +0000</pubDate>
+      <bk:timestamp>1294981535.48</bk:timestamp>
+      <link>http://brightkite.com/objects/07b40a89dcbd5f0bb0fc61546fe92e5d</link>
+      <guid>http://brightkite.com/objects/07b40a89dcbd5f0bb0fc61546fe92e5d</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/7e/41/7e4170f36a26ff5c2f304526b2848760-feed.jpg" /&gt;&lt;br /&gt;Video Demonstration: http://dld.bz/DW6G RADAR DETECTOR HIDDEN CAMERA w/BUILT-IN DIGITAL VIDEO REC (Buy/Rent) Open 24/7/365! (888) 344-3742</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/7e/41/7e4170f36a26ff5c2f304526b2848760-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Video Demonstration: http://dld.bz/DW6G RADAR DETECTOR HIDDEN CAMERA w/BUILT-IN DIGITAL VIDEO REC (Buy/Rent) Open 24/7/365! (888) 344-3742</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/7e/41/7e4170f36a26ff5c2f304526b2848760-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/7e/41/7e4170f36a26ff5c2f304526b2848760-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/7e/41/7e4170f36a26ff5c2f304526b2848760-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 04:54:22 +0000</pubDate>
+      <bk:timestamp>1294980862.642</bk:timestamp>
+      <link>http://brightkite.com/objects/7e4170f36a26ff5c2f304526b2848760</link>
+      <guid>http://brightkite.com/objects/7e4170f36a26ff5c2f304526b2848760</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/ed/ba/edba3d653fe04aecb795209a8ca8594e-feed.jpg" /&gt;&lt;br /&gt;Video Demonstration: http://dld.bz/DW5F NANNY-KILLER - SPY CAMERA, BATTERY-POWERED, MOTION-ACTIVATED DIGITAL VIDEO REC. KIT! II (Buy/Rent)</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/ed/ba/edba3d653fe04aecb795209a8ca8594e-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Video Demonstration: http://dld.bz/DW5F NANNY-KILLER - SPY CAMERA, BATTERY-POWERED, MOTION-ACTIVATED DIGITAL VIDEO REC. KIT! II (Buy/Rent)</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/ed/ba/edba3d653fe04aecb795209a8ca8594e-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/ed/ba/edba3d653fe04aecb795209a8ca8594e-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ed/ba/edba3d653fe04aecb795209a8ca8594e-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 04:52:43 +0000</pubDate>
+      <bk:timestamp>1294980763.434</bk:timestamp>
+      <link>http://brightkite.com/objects/edba3d653fe04aecb795209a8ca8594e</link>
+      <guid>http://brightkite.com/objects/edba3d653fe04aecb795209a8ca8594e</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/47/68/47682dae43cd11a1e77da66d9491ae3a-feed.jpg" /&gt;&lt;br /&gt;Demonstration Video: http://dld.bz/DWCQ SPYPHONE / CELLPHONE / RF SIGNAL DETECTOR (PROFESSIONAL) (Buy/Rent) Open 24/7/365! (888) 344-3742</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/47/68/47682dae43cd11a1e77da66d9491ae3a-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Demonstration Video: http://dld.bz/DWCQ SPYPHONE / CELLPHONE / RF SIGNAL DETECTOR (PROFESSIONAL) (Buy/Rent) Open 24/7/365! (888) 344-3742</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/47/68/47682dae43cd11a1e77da66d9491ae3a-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/47/68/47682dae43cd11a1e77da66d9491ae3a-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/47/68/47682dae43cd11a1e77da66d9491ae3a-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 04:51:14 +0000</pubDate>
+      <bk:timestamp>1294980674.138</bk:timestamp>
+      <link>http://brightkite.com/objects/47682dae43cd11a1e77da66d9491ae3a</link>
+      <guid>http://brightkite.com/objects/47682dae43cd11a1e77da66d9491ae3a</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d5/b7/d5b72ff4a34a93364239edf55faa1ead-feed.jpg" /&gt;&lt;br /&gt;Scheduled Events! (Daily: 10am PST / 1pm EST) Recorded Videos from Our Spy Video Archives: http://dld.bz/EqyE Open 24/7/365! (888) 344-3742</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d5/b7/d5b72ff4a34a93364239edf55faa1ead-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Scheduled Events! (Daily: 10am PST / 1pm EST) Recorded Videos from Our Spy Video Archives: http://dld.bz/EqyE Open 24/7/365! (888) 344-3742</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/d5/b7/d5b72ff4a34a93364239edf55faa1ead-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d5/b7/d5b72ff4a34a93364239edf55faa1ead-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d5/b7/d5b72ff4a34a93364239edf55faa1ead-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 04:35:24 +0000</pubDate>
+      <bk:timestamp>1294979724.924</bk:timestamp>
+      <link>http://brightkite.com/objects/d5b72ff4a34a93364239edf55faa1ead</link>
+      <guid>http://brightkite.com/objects/d5b72ff4a34a93364239edf55faa1ead</guid>
+    </item>
+    <item>
+      <title>dplsurve posted a photo @ DPL-Surveillance-Equipment.com</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/98/72/9872a491174d4b33aaa551e6dfbd9c08-feed.jpg" /&gt;&lt;br /&gt;Get Our Free Smart Phone App. Be The First To Find Out About Our: Spy Gadgets, Nanny Cameras, Bug Detectors,etc http://lnkd.in/y8jwxU!</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/98/72/9872a491174d4b33aaa551e6dfbd9c08-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Get Our Free Smart Phone App. Be The First To Find Out About Our: Spy Gadgets, Nanny Cameras, Bug Detectors,etc http://lnkd.in/y8jwxU!</bk:photoCaption>
+      <media:content type="image/jpeg" medium="image" url="http://s3.amazonaws.com/bkitecontent/98/72/9872a491174d4b33aaa551e6dfbd9c08-feed.jpg"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/98/72/9872a491174d4b33aaa551e6dfbd9c08-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/98/72/9872a491174d4b33aaa551e6dfbd9c08-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/dplsurve</bk:userLink>
+      <bk:userName>dplsurve</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/41/81/41818ba8d50db52b6599c4841eee6221-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/e6259fd027ff5ff0d55ca383ff7eab34</bk:placeLink>
+      <bk:placeName>DPL-Surveillance-Equipment.com</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>34.190516</geo:lat>
+      <geo:long>-118.533282</geo:long>
+      <georss:point>34.190516 -118.533282</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>DPL-Surveillance-Equipment.com</georss:featurename>
+      <pubDate>Fri, 14 Jan 2011 04:33:33 +0000</pubDate>
+      <bk:timestamp>1294979613.543</bk:timestamp>
+      <link>http://brightkite.com/objects/9872a491174d4b33aaa551e6dfbd9c08</link>
+      <guid>http://brightkite.com/objects/9872a491174d4b33aaa551e6dfbd9c08</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" xmlns:bk="http://brightkite.com/placeFeed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>attesa323 posted a text message @ 30-68 Avenue de l'Yvette</title>
+      <description>&#20170;&#26085;&#12418;&#12479;&#12452;&#26009;&#29702;&#12395;&#12375;&#12424;&#12358;&#65294;</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>&#20170;&#26085;&#12418;&#12479;&#12452;&#26009;&#29702;&#12395;&#12375;&#12424;&#12358;&#65294;</bk:message>
+      <bk:userLink>http://brightkite.com/people/attesa323</bk:userLink>
+      <bk:userName>attesa323</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/8c/65/8c652f0e5c7869f769ddd3f09021022b-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/3a65cf83ba3d96f48dd4aeb0d289e9d1</bk:placeLink>
+      <bk:placeName>30-68 Avenue de l'Yvette</bk:placeName>
+      <bk:placeAddress>Bures-sur-Yvette, France</bk:placeAddress>
+      <geo:lat>48.698533</geo:lat>
+      <geo:long>2.151709</geo:long>
+      <georss:point>48.698533 2.151709</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>30-68 Avenue de l'Yvette</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:18:15 +0000</pubDate>
+      <bk:timestamp>1287767895.834</bk:timestamp>
+      <link>http://brightkite.com/objects/ae09a63ab7d0d65591a5fca205be3aba</link>
+      <guid>http://brightkite.com/objects/ae09a63ab7d0d65591a5fca205be3aba</guid>
+    </item>
+    <item>
+      <title>netwalker posted a text message @ Quer&#233;taro</title>
+      <description>Esto est&#225; tardando demasiado</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Esto est&#225; tardando demasiado</bk:message>
+      <bk:userLink>http://brightkite.com/people/netwalker</bk:userLink>
+      <bk:userName>netwalker</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/88a412909a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ea2f1e86a22411dd91e1078fc177b538</bk:placeLink>
+      <bk:placeName>Quer&#233;taro</bk:placeName>
+      <bk:placeAddress>Mexico</bk:placeAddress>
+      <geo:lat>20.6</geo:lat>
+      <geo:long>-100.3833333</geo:long>
+      <georss:point>20.6 -100.3833333</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Quer&#233;taro</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:18:03 +0000</pubDate>
+      <bk:timestamp>1287767883.458</bk:timestamp>
+      <link>http://brightkite.com/objects/c8872f483f2c8643fb1caf3cb8cfca71</link>
+      <guid>http://brightkite.com/objects/c8872f483f2c8643fb1caf3cb8cfca71</guid>
+    </item>
+    <item>
+      <title>travel978 posted a text message @ California</title>
+      <description>Current Conditions: Rain in Las Vegas, NV (as of 9:53 AM 10/22/2010) http://ping.fm/3YqSb</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Current Conditions: Rain in Las Vegas, NV (as of 9:53 AM 10/22/2010) http://ping.fm/3YqSb</bk:message>
+      <bk:userLink>http://brightkite.com/people/travel978</bk:userLink>
+      <bk:userName>travel978</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/82/f2/82f257bf0ba44a8969cea6ed958d5f76-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ee6bdbd8a22411dd93cfcf2e34e5eb88</bk:placeLink>
+      <bk:placeName>California</bk:placeName>
+      <bk:placeAddress>United States</bk:placeAddress>
+      <geo:lat>37.2502247</geo:lat>
+      <geo:long>-119.7512643</geo:long>
+      <georss:point>37.2502247 -119.7512643</georss:point>
+      <georss:featuretypetag>state</georss:featuretypetag>
+      <georss:featurename>California</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:46 +0000</pubDate>
+      <bk:timestamp>1287767866.527</bk:timestamp>
+      <link>http://brightkite.com/objects/076348e6aa561682b9299a9311c63e44</link>
+      <guid>http://brightkite.com/objects/076348e6aa561682b9299a9311c63e44</guid>
+    </item>
+    <item>
+      <title>SelaputDara posted a text message @ Somewhere in the world</title>
+      <description>Darah Perawan, Mitos Belaka ?: Darah Perawan, Mitos Belaka ? Selaput Dara Buatan Cherry Red Website:... http://ping.fm/Ka8gl</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Darah Perawan, Mitos Belaka ?: Darah Perawan, Mitos Belaka ? Selaput Dara Buatan Cherry Red Website:... http://ping.fm/Ka8gl</bk:message>
+      <bk:userLink>http://brightkite.com/people/SelaputDara</bk:userLink>
+      <bk:userName>SelaputDara</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:28 +0000</pubDate>
+      <bk:timestamp>1287767848.159</bk:timestamp>
+      <link>http://brightkite.com/objects/7ce0559c0034ac589c56fe5161046232</link>
+      <guid>http://brightkite.com/objects/7ce0559c0034ac589c56fe5161046232</guid>
+    </item>
+    <item>
+      <title>SelaputDara posted a text message @ Somewhere in the world</title>
+      <description>Selaput Dara dan Mitos Menyesatkan &#171; RemajaDalamKliping: Selaput Dara dan Mitos Menyesatkan &#171; RemajaDalamKliping... http://ping.fm/a96dI</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Selaput Dara dan Mitos Menyesatkan &#171; RemajaDalamKliping: Selaput Dara dan Mitos Menyesatkan &#171; RemajaDalamKliping... http://ping.fm/a96dI</bk:message>
+      <bk:userLink>http://brightkite.com/people/SelaputDara</bk:userLink>
+      <bk:userName>SelaputDara</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:27 +0000</pubDate>
+      <bk:timestamp>1287767847.615</bk:timestamp>
+      <link>http://brightkite.com/objects/99c4d09dbcd46f9ed54c083ae95e6ace</link>
+      <guid>http://brightkite.com/objects/99c4d09dbcd46f9ed54c083ae95e6ace</guid>
+    </item>
+    <item>
+      <title>SelaputDara posted a text message @ Somewhere in the world</title>
+      <description>selaput dara &#187; Love Me or Die! &#187; bloggaul.com: selaput dara &#187; Love Me or Die! &#187; bloggaul.com Selaput Dara Buatan... http://ping.fm/5m9KS</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>selaput dara &#187; Love Me or Die! &#187; bloggaul.com: selaput dara &#187; Love Me or Die! &#187; bloggaul.com Selaput Dara Buatan... http://ping.fm/5m9KS</bk:message>
+      <bk:userLink>http://brightkite.com/people/SelaputDara</bk:userLink>
+      <bk:userName>SelaputDara</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:27 +0000</pubDate>
+      <bk:timestamp>1287767847.334</bk:timestamp>
+      <link>http://brightkite.com/objects/3ed6435dafe05a4b4b2b80846733bc80</link>
+      <guid>http://brightkite.com/objects/3ed6435dafe05a4b4b2b80846733bc80</guid>
+    </item>
+    <item>
+      <title>SelaputDara posted a text message @ Somewhere in the world</title>
+      <description>Rahasia Wanita [Adult Only] - Kaskus - The Largest Indonesian Community: Rahasia Wanita [Adult Only] - Kaskus - The... http://ping.fm/4D3IL</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Rahasia Wanita [Adult Only] - Kaskus - The Largest Indonesian Community: Rahasia Wanita [Adult Only] - Kaskus - The... http://ping.fm/4D3IL</bk:message>
+      <bk:userLink>http://brightkite.com/people/SelaputDara</bk:userLink>
+      <bk:userName>SelaputDara</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:26 +0000</pubDate>
+      <bk:timestamp>1287767846.977</bk:timestamp>
+      <link>http://brightkite.com/objects/e22b4ff91d58132c91f6025af6b0d2fd</link>
+      <guid>http://brightkite.com/objects/e22b4ff91d58132c91f6025af6b0d2fd</guid>
+    </item>
+    <item>
+      <title>SelaputDara posted a text message @ Somewhere in the world</title>
+      <description>Khoirul Imamudin - Mitos yang dipercaya remaja: Khoirul Imamudin - Mitos yang dipercaya remaja Selaput Dara Buatan... http://ping.fm/L5RKp</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Khoirul Imamudin - Mitos yang dipercaya remaja: Khoirul Imamudin - Mitos yang dipercaya remaja Selaput Dara Buatan... http://ping.fm/L5RKp</bk:message>
+      <bk:userLink>http://brightkite.com/people/SelaputDara</bk:userLink>
+      <bk:userName>SelaputDara</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:27 +0000</pubDate>
+      <bk:timestamp>1287767847.023</bk:timestamp>
+      <link>http://brightkite.com/objects/476e245f77a656dff2545cc020bfade3</link>
+      <guid>http://brightkite.com/objects/476e245f77a656dff2545cc020bfade3</guid>
+    </item>
+    <item>
+      <title>teralanisailing posted a text message @ Somewhere in the world</title>
+      <description>And after four years, I thoroughly enjoy Hawaii and the success of the show. All great Maui Activities at http://ow.ly/1StwZ</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>And after four years, I thoroughly enjoy Hawaii and the success of the show. All great Maui Activities at http://ow.ly/1StwZ</bk:message>
+      <bk:userLink>http://brightkite.com/people/teralanisailing</bk:userLink>
+      <bk:userName>teralanisailing</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/97/35/9735efe84dcfe94e314ab7ee72bb0f72-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:15 +0000</pubDate>
+      <bk:timestamp>1287767835.271</bk:timestamp>
+      <link>http://brightkite.com/objects/ffd15d430c26d489f3833b4a956d7181</link>
+      <guid>http://brightkite.com/objects/ffd15d430c26d489f3833b4a956d7181</guid>
+    </item>
+    <item>
+      <title>ilonahaughn posted a text message @ Somewhere in the world</title>
+      <description>Rechargeable Batteries http://rechargeablebatteries-electronicsshop.co.cc/ Electronics Shopping for Rechargeable Batteries discount</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Rechargeable Batteries http://rechargeablebatteries-electronicsshop.co.cc/ Electronics Shopping for Rechargeable Batteries discount</bk:message>
+      <bk:userLink>http://brightkite.com/people/ilonahaughn</bk:userLink>
+      <bk:userName>ilonahaughn</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:17:04 +0000</pubDate>
+      <bk:timestamp>1287767824.281</bk:timestamp>
+      <link>http://brightkite.com/objects/ed5f7d2fc1172bc0994397bed7fb5f5c</link>
+      <guid>http://brightkite.com/objects/ed5f7d2fc1172bc0994397bed7fb5f5c</guid>
+    </item>
+    <item>
+      <title>pratigya posted a text message @ Somewhere in the world</title>
+      <description>Pratigya 22nd October 22 October 2010 Part 2 Mann Kee Awaaz Pratigya www.Pratigya.net http://pi.pe/-f20jte</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Pratigya 22nd October 22 October 2010 Part 2 Mann Kee Awaaz Pratigya www.Pratigya.net http://pi.pe/-f20jte</bk:message>
+      <bk:userLink>http://brightkite.com/people/pratigya</bk:userLink>
+      <bk:userName>pratigya</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:16:41 +0000</pubDate>
+      <bk:timestamp>1287767801.186</bk:timestamp>
+      <link>http://brightkite.com/objects/e4004b0b4b53c2659c7336e22b860cf8</link>
+      <guid>http://brightkite.com/objects/e4004b0b4b53c2659c7336e22b860cf8</guid>
+    </item>
+    <item>
+      <title>AntonioRicci posted a text message @ Piazzale Camillo Golgi, 17</title>
+      <description>Da Napolitano un alt al &#8220;Lodo Alfano&#8221;. http://tinyurl.com/3x23hxx</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Da Napolitano un alt al &#8220;Lodo Alfano&#8221;. http://tinyurl.com/3x23hxx</bk:message>
+      <bk:userLink>http://brightkite.com/people/AntonioRicci</bk:userLink>
+      <bk:userName>AntonioRicci</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/84e32862da211de8e66003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/830f1cfe283b2befa41152dbe603f305</bk:placeLink>
+      <bk:placeName>Piazzale Camillo Golgi, 17</bk:placeName>
+      <bk:placeAddress>Pavia, Italy</bk:placeAddress>
+      <geo:lat>45.195692</geo:lat>
+      <geo:long>9.148687</geo:long>
+      <georss:point>45.195692 9.148687</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Piazzale Camillo Golgi, 17</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:16:40 +0000</pubDate>
+      <bk:timestamp>1287767800.715</bk:timestamp>
+      <link>http://brightkite.com/objects/3c96304fe3cf6d6320cf97a6d6f19320</link>
+      <guid>http://brightkite.com/objects/3c96304fe3cf6d6320cf97a6d6f19320</guid>
+    </item>
+    <item>
+      <title>Bytor posted a text message @ 144 Brybeck Crescent</title>
+      <description>HAPPY CAPSLOCK DAY!!!1! http://ping.fm/sVNdl</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>HAPPY CAPSLOCK DAY!!!1! http://ping.fm/sVNdl</bk:message>
+      <bk:userLink>http://brightkite.com/people/Bytor</bk:userLink>
+      <bk:userName>Bytor</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/e4842b42839811debb48003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/9ad6879c841a11deba12003048c10834</bk:placeLink>
+      <bk:placeName>144 Brybeck Crescent</bk:placeName>
+      <bk:placeAddress>Kitchener, Ontario, Canada</bk:placeAddress>
+      <geo:lat>43.443769</geo:lat>
+      <geo:long>-80.520699</geo:long>
+      <georss:point>43.443769 -80.520699</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>144 Brybeck Crescent</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:15:39 +0000</pubDate>
+      <bk:timestamp>1287767739.141</bk:timestamp>
+      <link>http://brightkite.com/objects/83617a7b0c44f16b971b372ef0feca15</link>
+      <guid>http://brightkite.com/objects/83617a7b0c44f16b971b372ef0feca15</guid>
+    </item>
+    <item>
+      <title>scottabel posted a text message @ 983 N Buttonwillow Cir</title>
+      <description>Content Marketing Strategies Conference, Dec 8-9, Berkeley, CA http://dlvr.it/7P5w6 #marketing #socialmedia #contentmarketing</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Content Marketing Strategies Conference, Dec 8-9, Berkeley, CA http://dlvr.it/7P5w6 #marketing #socialmedia #contentmarketing</bk:message>
+      <bk:userLink>http://brightkite.com/people/scottabel</bk:userLink>
+      <bk:userName>scottabel</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/b56c2ae29a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/6d097faabe8511ddb4a2003048c10834</bk:placeLink>
+      <bk:placeName>983 N Buttonwillow Cir</bk:placeName>
+      <bk:placeAddress>Palm Springs, CA, United States</bk:placeAddress>
+      <geo:lat>33.836628</geo:lat>
+      <geo:long>-116.527101</geo:long>
+      <georss:point>33.836628 -116.527101</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>983 N Buttonwillow Cir</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:15:11 +0000</pubDate>
+      <bk:timestamp>1287767711.307</bk:timestamp>
+      <link>http://brightkite.com/objects/83c8d7cbf38207d77a906b940c2703fc</link>
+      <guid>http://brightkite.com/objects/83c8d7cbf38207d77a906b940c2703fc</guid>
+    </item>
+    <item>
+      <title>riverpalm47 posted a text message @ Somewhere in the world</title>
+      <description>Is there a doctor in the house?  Severe lower back pain-burning sensation in both hips-worse while sitting? http://onlywire.com/r/13673180</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Is there a doctor in the house?  Severe lower back pain-burning sensation in both hips-worse while sitting? http://onlywire.com/r/13673180</bk:message>
+      <bk:userLink>http://brightkite.com/people/riverpalm47</bk:userLink>
+      <bk:userName>riverpalm47</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:15:05 +0000</pubDate>
+      <bk:timestamp>1287767705.409</bk:timestamp>
+      <link>http://brightkite.com/objects/8230cdd7f5abfd9016957cfb35f55e5c</link>
+      <guid>http://brightkite.com/objects/8230cdd7f5abfd9016957cfb35f55e5c</guid>
+    </item>
+    <item>
+      <title>Omitunde posted a text message @ Akron</title>
+      <description>''Deal with the evil in others through the power of inner truth'' - I Ching #61</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>''Deal with the evil in others through the power of inner truth'' - I Ching #61</bk:message>
+      <bk:userLink>http://brightkite.com/people/Omitunde</bk:userLink>
+      <bk:userName>Omitunde</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/57f731f01b9311de929c003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/edef8a92a22411ddb41427d32a1ddabe</bk:placeLink>
+      <bk:placeName>Akron</bk:placeName>
+      <bk:placeAddress>OH, United States</bk:placeAddress>
+      <geo:lat>41.0814447</geo:lat>
+      <geo:long>-81.5190053</geo:long>
+      <georss:point>41.0814447 -81.5190053</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Akron</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:15:01 +0000</pubDate>
+      <bk:timestamp>1287767701.855</bk:timestamp>
+      <link>http://brightkite.com/objects/b3f762cdb60aaf74de8cc48d44532598</link>
+      <guid>http://brightkite.com/objects/b3f762cdb60aaf74de8cc48d44532598</guid>
+    </item>
+    <item>
+      <title>adubtheengineer posted a text message @ Somewhere in the world</title>
+      <description>Free Jolene Fund donate for a good cause!</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Free Jolene Fund donate for a good cause!</bk:message>
+      <bk:userLink>http://brightkite.com/people/adubtheengineer</bk:userLink>
+      <bk:userName>adubtheengineer</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/fd03890a9a5111dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:14:59 +0000</pubDate>
+      <bk:timestamp>1287767699.942</bk:timestamp>
+      <link>http://brightkite.com/objects/c8f40c4a472e3d1cda0267a3da333c0d</link>
+      <guid>http://brightkite.com/objects/c8f40c4a472e3d1cda0267a3da333c0d</guid>
+    </item>
+    <item>
+      <title>desktopman posted a text message @ Somewhere in the world</title>
+      <description> Tips Saving Your Money on Eye Examinations </description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message> Tips Saving Your Money on Eye Examinations </bk:message>
+      <bk:userLink>http://brightkite.com/people/desktopman</bk:userLink>
+      <bk:userName>desktopman</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:14:58 +0000</pubDate>
+      <bk:timestamp>1287767698.589</bk:timestamp>
+      <link>http://brightkite.com/objects/35c1b5b50b7da97749ea6ac9379c074b</link>
+      <guid>http://brightkite.com/objects/35c1b5b50b7da97749ea6ac9379c074b</guid>
+    </item>
+    <item>
+      <title>Shimmy2one6 posted a text message @ Somewhere in the world</title>
+      <description>(NOW READ THIS!!!) from The World Famous Tony Williams - @TWFTonyWilliams http://ping.fm/SidQ0</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>(NOW READ THIS!!!) from The World Famous Tony Williams - @TWFTonyWilliams http://ping.fm/SidQ0</bk:message>
+      <bk:userLink>http://brightkite.com/people/Shimmy2one6</bk:userLink>
+      <bk:userName>Shimmy2one6</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/03/02/0302123f5a40aef419646d72329574c2-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:14:34 +0000</pubDate>
+      <bk:timestamp>1287767674.672</bk:timestamp>
+      <link>http://brightkite.com/objects/375f0efdc373b6cc2f821660c3de7571</link>
+      <guid>http://brightkite.com/objects/375f0efdc373b6cc2f821660c3de7571</guid>
+    </item>
+    <item>
+      <title>vimeier posted a text message @ Somewhere in the world</title>
+      <description>Stoff f&#252;r das Wochenende #9: Die w&#246;chentlichen Link-Tipps liefern jede Woche Inspiration, Artikel zum Thema Webdesign und mehr. http://dlvr.</description>
+      <bk:eventType>message</bk:eventType>
+      <bk:message>Stoff f&#252;r das Wochenende #9: Die w&#246;chentlichen Link-Tipps liefern jede Woche Inspiration, Artikel zum Thema Webdesign und mehr. http://dlvr.</bk:message>
+      <bk:userLink>http://brightkite.com/people/vimeier</bk:userLink>
+      <bk:userName>vimeier</bk:userName>
+      <bk:userAvatar>http://brightkite.com/images/default_user_avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Fri, 22 Oct 2010 17:14:15 +0000</pubDate>
+      <bk:timestamp>1287767655.737</bk:timestamp>
+      <link>http://brightkite.com/objects/32cb152c0d7d0ce6f87b040e2d455a94</link>
+      <guid>http://brightkite.com/objects/32cb152c0d7d0ce6f87b040e2d455a94</guid>
+    </item>
+  </channel>
+</rss>

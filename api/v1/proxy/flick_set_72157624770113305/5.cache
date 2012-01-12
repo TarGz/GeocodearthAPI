@@ -1,0 +1,328 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Twitter public timeline in GeoRss</title>
+<link>http://www.geocodearth.com/api/proxy/twitter_proxy.php</link>
+<description>See what's going on in the Twiter Universe</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>Ashden Awards — Fruits of the Nile</title>
+<description>Array</description>
+<geo:lat>0.42427</geo:lat>
+<geo:long>33.13388</geo:long>
+<georss:point>0.42427 33.13388</georss:point>
+<georss:featurename>Njeru, Ouganda</georss:featurename>
+<pubDate>1282752477</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926356875/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926356875/'>Commonwealth Pavilion</a></author>
+<guid>4926356875</guid>
+<media:content url='http://farm5.static.flickr.com/4142/4926356875_70cc2d3944.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Fruits of the Nile</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4142/4926356875_70cc2d3944_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Ashden Awards — Grameen Shakti</title>
+<description>Array</description>
+<geo:lat>24</geo:lat>
+<geo:long>90.333297</geo:long>
+<georss:point>24 90.333297</georss:point>
+<georss:featurename>Mirpur, Bangladesh</georss:featurename>
+<pubDate>1282752596</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926956568/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926956568/'>Commonwealth Pavilion</a></author>
+<guid>4926956568</guid>
+<media:content url='http://farm5.static.flickr.com/4141/4926956568_261ef2650f.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Grameen Shakti</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4141/4926956568_261ef2650f_s.jpg' height='333' width='500' />
+</item>
+
+<item>
+<title>Ashden Awards — Low-Cost Treadle Pumps for Irrigation</title>
+<description>Array</description>
+<geo:lat>27.576429</geo:lat>
+<geo:long>81.596488</geo:long>
+<georss:point>27.576429 81.596488</georss:point>
+<georss:featurename>Bahraich, Inde</georss:featurename>
+<pubDate>1282752660</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926959474/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926959474/'>Commonwealth Pavilion</a></author>
+<guid>4926959474</guid>
+<media:content url='http://farm5.static.flickr.com/4137/4926959474_03c443ec90.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Low-Cost Treadle Pumps for Irrigation</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4137/4926959474_03c443ec90_s.jpg' height='438' width='500' />
+</item>
+
+<item>
+<title>Ashden Awards — Sheep's Wool Insulation</title>
+<description>Array</description>
+<geo:lat>54.043048</geo:lat>
+<geo:long>-1.707769</geo:long>
+<georss:point>54.043048 -1.707769</georss:point>
+<georss:featurename>Dacre, Royaume Uni</georss:featurename>
+<pubDate>1282756084</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926507985/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926507985/'>Commonwealth Pavilion</a></author>
+<guid>4926507985</guid>
+<media:content url='http://farm5.static.flickr.com/4076/4926507985_a3df3fe222.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Sheep's Wool Insulation</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4076/4926507985_a3df3fe222_s.jpg' height='333' width='500' />
+</item>
+
+<item>
+<title>Ashden Awards — PV-Powered Vaccine Fridges</title>
+<description>Array</description>
+<geo:lat>11.85062</geo:lat>
+<geo:long>13.16108</geo:long>
+<georss:point>11.85062 13.16108</georss:point>
+<georss:featurename>Maiduguri, Nigeria</georss:featurename>
+<pubDate>1282756080</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926507877/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926507877/'>Commonwealth Pavilion</a></author>
+<guid>4926507877</guid>
+<media:content url='http://farm5.static.flickr.com/4082/4926507877_d49e7851f2.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — PV-Powered Vaccine Fridges</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4082/4926507877_d49e7851f2_s.jpg' height='500' width='374' />
+</item>
+
+<item>
+<title>Ashden Awards — Biogas from Waste</title>
+<description>Array</description>
+<geo:lat>-1.1667</geo:lat>
+<geo:long>36.666698</geo:long>
+<georss:point>-1.1667 36.666698</georss:point>
+<georss:featurename>Ngecha, Kenya</georss:featurename>
+<pubDate>1282756179</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927106680/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927106680/'>Commonwealth Pavilion</a></author>
+<guid>4927106680</guid>
+<media:content url='http://farm5.static.flickr.com/4100/4927106680_afeec0f78a.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Biogas from Waste</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4100/4927106680_afeec0f78a_s.jpg' height='500' width='333' />
+</item>
+
+<item>
+<title>Ashden Awards — Sustainable Energy Academy</title>
+<description>Array</description>
+<geo:lat>52.005851</geo:lat>
+<geo:long>-0.72775</geo:long>
+<georss:point>52.005851 -0.72775</georss:point>
+<georss:featurename>Milton Keynes, Royaume Uni</georss:featurename>
+<pubDate>1282756240</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927109112/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927109112/'>Commonwealth Pavilion</a></author>
+<guid>4927109112</guid>
+<media:content url='http://farm5.static.flickr.com/4077/4927109112_2f1cabd601.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Sustainable Energy Academy</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4077/4927109112_2f1cabd601_s.jpg' height='333' width='500' />
+</item>
+
+<item>
+<title>Ashden Awards — Kensa</title>
+<description>Array</description>
+<geo:lat>50.263858</geo:lat>
+<geo:long>-5.059209</geo:long>
+<georss:point>50.263858 -5.059209</georss:point>
+<georss:featurename>Truro, Royaume Uni</georss:featurename>
+<pubDate>1282757219</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927147884/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927147884/'>Commonwealth Pavilion</a></author>
+<guid>4927147884</guid>
+<media:content url='http://farm5.static.flickr.com/4075/4927147884_13b74231a6.jpg' type='image/jpeg'/>
+<media:title>Ashden Awards — Kensa</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4075/4927147884_13b74231a6_s.jpg' height='500' width='333' />
+</item>
+
+<item>
+<title>The Earth Awards — Lifesaver</title>
+<description></description>
+<geo:lat>51.50632</geo:lat>
+<geo:long>-0.12714</geo:long>
+<georss:point>51.50632 -0.12714</georss:point>
+<georss:featurename>Londres, Royaume Uni</georss:featurename>
+<pubDate>1282761458</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927329794/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927329794/'>Commonwealth Pavilion</a></author>
+<guid>4927329794</guid>
+<media:content url='http://farm5.static.flickr.com/4137/4927329794_c7bf4afafa.jpg' type='image/jpeg'/>
+<media:title>The Earth Awards — Lifesaver</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4137/4927329794_c7bf4afafa_s.jpg' height='500' width='500' />
+</item>
+
+<item>
+<title>The Earth Awards — Concrete Cloth</title>
+<description></description>
+<geo:lat>51.481258</geo:lat>
+<geo:long>-3.18067</geo:long>
+<georss:point>51.481258 -3.18067</georss:point>
+<georss:featurename>Cardiff, Royaume Uni</georss:featurename>
+<pubDate>1282761492</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926736399/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926736399/'>Commonwealth Pavilion</a></author>
+<guid>4926736399</guid>
+<media:content url='http://farm5.static.flickr.com/4093/4926736399_2d6a3bcf98.jpg' type='image/jpeg'/>
+<media:title>The Earth Awards — Concrete Cloth</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4093/4926736399_2d6a3bcf98_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>Iwokrama</title>
+<description>Array</description>
+<geo:lat>4.86632</geo:lat>
+<geo:long>-58.938259</geo:long>
+<georss:point>4.86632 -58.938259</georss:point>
+<georss:featurename>, Guyana</georss:featurename>
+<pubDate>1282764761</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927471448/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927471448/'>Commonwealth Pavilion</a></author>
+<guid>4927471448</guid>
+<media:content url='http://farm5.static.flickr.com/4115/4927471448_4b3eccf6ac.jpg' type='image/jpeg'/>
+<media:title>Iwokrama</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4115/4927471448_4b3eccf6ac_s.jpg' height='500' width='332' />
+</item>
+
+<item>
+<title>The Earth Awards — Social Alterations</title>
+<description></description>
+<geo:lat>49.32106</geo:lat>
+<geo:long>-123.074157</geo:long>
+<georss:point>49.32106 -123.074157</georss:point>
+<georss:featurename>North Vancouver, Canada</georss:featurename>
+<pubDate>1282761502</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927331650/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927331650/'>Commonwealth Pavilion</a></author>
+<guid>4927331650</guid>
+<media:content url='http://farm5.static.flickr.com/4100/4927331650_411eef70b8.jpg' type='image/jpeg'/>
+<media:title>The Earth Awards — Social Alterations</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4100/4927331650_411eef70b8_s.jpg' height='308' width='500' />
+</item>
+
+<item>
+<title>Rain Water HOG</title>
+<description>Array</description>
+<geo:lat>-33.888729</geo:lat>
+<geo:long>151.277786</geo:long>
+<georss:point>-33.888729 151.277786</georss:point>
+<georss:featurename>Sydney, Australie</georss:featurename>
+<pubDate>1282765024</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927483282/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927483282/'>Commonwealth Pavilion</a></author>
+<guid>4927483282</guid>
+<media:content url='http://farm5.static.flickr.com/4140/4927483282_2338799db7.jpg' type='image/jpeg'/>
+<media:title>Rain Water HOG</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4140/4927483282_2338799db7_s.jpg' height='500' width='375' />
+</item>
+
+<item>
+<title>Sungrid</title>
+<description>Array</description>
+<geo:lat>-32.05286</geo:lat>
+<geo:long>115.748237</geo:long>
+<georss:point>-32.05286 115.748237</georss:point>
+<georss:featurename>Perth, Australie</georss:featurename>
+<pubDate>1282765091</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926890761/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926890761/'>Commonwealth Pavilion</a></author>
+<guid>4926890761</guid>
+<media:content url='http://farm5.static.flickr.com/4117/4926890761_bf45ce5fb4.jpg' type='image/jpeg'/>
+<media:title>Sungrid</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4117/4926890761_bf45ce5fb4_s.jpg' height='500' width='333' />
+</item>
+
+<item>
+<title>Sungrid</title>
+<description>Array</description>
+<geo:lat>-32.05286</geo:lat>
+<geo:long>115.748237</geo:long>
+<georss:point>-32.05286 115.748237</georss:point>
+<georss:featurename>Perth, Australie</georss:featurename>
+<pubDate>1282765102</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4926891259/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4926891259/'>Commonwealth Pavilion</a></author>
+<guid>4926891259</guid>
+<media:content url='http://farm5.static.flickr.com/4080/4926891259_7a860989db.jpg' type='image/jpeg'/>
+<media:title>Sungrid</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4080/4926891259_7a860989db_s.jpg' height='375' width='500' />
+</item>
+
+<item>
+<title>Welectricity</title>
+<description>Array</description>
+<geo:lat>13.24814</geo:lat>
+<geo:long>-61.196319</geo:long>
+<georss:point>13.24814 -61.196319</georss:point>
+<georss:featurename>, Saint-Vincent-et-Les-Grenadines</georss:featurename>
+<pubDate>1282765120</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4927487516/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4927487516/'>Commonwealth Pavilion</a></author>
+<guid>4927487516</guid>
+<media:content url='http://farm5.static.flickr.com/4096/4927487516_414c28807b.jpg' type='image/jpeg'/>
+<media:title>Welectricity</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4096/4927487516_414c28807b_s.jpg' height='500' width='304' />
+</item>
+
+<item>
+<title>Mauritius High Commission</title>
+<description></description>
+<geo:lat>-20.135891</geo:lat>
+<geo:long>57.485961</geo:long>
+<georss:point>-20.135891 57.485961</georss:point>
+<georss:featurename>, Île Maurice</georss:featurename>
+<pubDate>1283177407</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4941290847/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4941290847/'>Commonwealth Pavilion</a></author>
+<guid>4941290847</guid>
+<media:content url='http://farm5.static.flickr.com/4073/4941290847_5d88237350.jpg' type='image/jpeg'/>
+<media:title>Mauritius High Commission</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4073/4941290847_5d88237350_s.jpg' height='384' width='500' />
+</item>
+
+<item>
+<title>Mauritius High Commission</title>
+<description></description>
+<geo:lat>-20.135891</geo:lat>
+<geo:long>57.485961</geo:long>
+<georss:point>-20.135891 57.485961</georss:point>
+<georss:featurename>, Île Maurice</georss:featurename>
+<pubDate>1283177411</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4941876896/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4941876896/'>Commonwealth Pavilion</a></author>
+<guid>4941876896</guid>
+<media:content url='http://farm5.static.flickr.com/4140/4941876896_675df5fae6.jpg' type='image/jpeg'/>
+<media:title>Mauritius High Commission</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4140/4941876896_675df5fae6_s.jpg' height='384' width='500' />
+</item>
+
+<item>
+<title>The Earth Awards — Lifesaver</title>
+<description></description>
+<geo:lat>51.515579</geo:lat>
+<geo:long>-0.065917</geo:long>
+<georss:point>51.515579 -0.065917</georss:point>
+<georss:featurename>, Royaume Uni</georss:featurename>
+<pubDate>1283184336</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4941641697/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4941641697/'>Commonwealth Pavilion</a></author>
+<guid>4941641697</guid>
+<media:content url='http://farm5.static.flickr.com/4093/4941641697_1338db374c.jpg' type='image/jpeg'/>
+<media:title>The Earth Awards — Lifesaver</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4093/4941641697_1338db374c_s.jpg' height='333' width='500' />
+</item>
+
+<item>
+<title>The Earth Awards — GEVCO</title>
+<description></description>
+<geo:lat>52.560188</geo:lat>
+<geo:long>1.207299</geo:long>
+<georss:point>52.560188 1.207299</georss:point>
+<georss:featurename>Hethel, Royaume Uni</georss:featurename>
+<pubDate>1283184349</pubDate>
+<link>http://www.flickr.com/photos/53371209@N08/4942227218/</link>
+<author><a href='http://www.flickr.com/photos/53371209@N08/4942227218/'>Commonwealth Pavilion</a></author>
+<guid>4942227218</guid>
+<media:content url='http://farm5.static.flickr.com/4100/4942227218_b5c9d03de8.jpg' type='image/jpeg'/>
+<media:title>The Earth Awards — GEVCO</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4100/4942227218_b5c9d03de8_s.jpg' height='281' width='500' />
+</item>
+</channel>
+</rss>

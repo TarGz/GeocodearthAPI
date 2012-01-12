@@ -1,0 +1,296 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss"><channel>
+<title>Flickr Gallerie</title>
+<link>http://www.geocodearth.com</link>
+<description>V1</description>
+<language>en</language>
+<ttl>45</ttl>
+
+<item>
+<title>Travel Light SpEEd</title>
+<description></description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1217505225</pubDate>
+<link>http://www.flickr.com/photos/basmanson/2719686646/</link>
+<author><a href='http://www.flickr.com/photos/basmanson/2719686646/'>2</a></author>
+<guid>2719686646</guid>
+<media:content url='http://farm4.static.flickr.com/3219/2719686646_17b15efc6b_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Travel Light SpEEd</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3219/2719686646_17b15efc6b_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Rheinkirmes</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1216140897</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2671882386/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2671882386/'>9</a></author>
+<guid>2671882386</guid>
+<media:content url='http://farm4.static.flickr.com/3172/2671882386_164d0b2606_b.jpg' type='image/jpeg' height='682' width='1024' />
+<media:title>Rheinkirmes</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3172/2671882386_164d0b2606_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Japan Day in Düsseldorf 2009</title>
+<description>Array</description>
+<geo:lat>51.219471</geo:lat>
+<geo:long>6.751152</geo:long>
+<georss:point>51.219471 6.751152</georss:point>
+<georss:featurename>Düsseldorf, Allemagne</georss:featurename>
+<pubDate>1245137797</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3632023366/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3632023366/'>9</a></author>
+<guid>3632023366</guid>
+<media:content url='http://farm3.static.flickr.com/2465/3632023366_7526ed9fdc_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Japan Day in Düsseldorf 2009</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2465/3632023366_7526ed9fdc_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Düsseldorf Fireworks</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1213481487</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2578191065/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2578191065/'>9</a></author>
+<guid>2578191065</guid>
+<media:content url='http://farm4.static.flickr.com/3261/2578191065_dc1ab75325_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Düsseldorf Fireworks</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3261/2578191065_dc1ab75325_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Japan-Tag Düsseldorf 2009</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1244940046</pubDate>
+<link>http://www.flickr.com/photos/dickmann/3623800284/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/3623800284/'>9</a></author>
+<guid>3623800284</guid>
+<media:content url='http://farm4.static.flickr.com/3631/3623800284_0e2d988fca_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>Japan-Tag Düsseldorf 2009</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3631/3623800284_0e2d988fca_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>UFO Landing Site</title>
+<description>Array</description>
+<geo:lat>51.226796</geo:lat>
+<geo:long>6.761275</geo:long>
+<georss:point>51.226796 6.761275</georss:point>
+<georss:featurename>Düsseldorf, Allemagne</georss:featurename>
+<pubDate>1216072304</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2669329324/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2669329324/'>9</a></author>
+<guid>2669329324</guid>
+<media:content url='http://farm4.static.flickr.com/3097/2669329324_4ca973542e_b.jpg' type='image/jpeg' height='1024' width='683' />
+<media:title>UFO Landing Site</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3097/2669329324_4ca973542e_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Explosions in the sky</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1278307130</pubDate>
+<link>http://www.flickr.com/photos/angie_royer/4762439519/</link>
+<author><a href='http://www.flickr.com/photos/angie_royer/4762439519/'>4</a></author>
+<guid>4762439519</guid>
+<media:content url='http://farm5.static.flickr.com/4093/4762439519_808b747610_o.jpg' type='image/jpeg' height='2304' width='3456' />
+<media:title>Explosions in the sky</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4093/4762439519_1af5f10561_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Light Explosion</title>
+<description></description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1202108791</pubDate>
+<link>http://www.flickr.com/photos/kuram/2241536508/</link>
+<author><a href='http://www.flickr.com/photos/kuram/2241536508/'>2</a></author>
+<guid>2241536508</guid>
+<media:content url='http://farm3.static.flickr.com/2363/2241536508_3f897a44ea_b.jpg' type='image/jpeg' height='653' width='1024' />
+<media:title>Light Explosion</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2363/2241536508_3f897a44ea_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Feuerwerk Rheinkirmes 2008</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1216739038</pubDate>
+<link>http://www.flickr.com/photos/dickmann/2692205653/</link>
+<author><a href='http://www.flickr.com/photos/dickmann/2692205653/'>9</a></author>
+<guid>2692205653</guid>
+<media:content url='http://farm4.static.flickr.com/3063/2692205653_00802ed7fc_b.jpg' type='image/jpeg' height='591' width='1024' />
+<media:title>Feuerwerk Rheinkirmes 2008</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3063/2692205653_00802ed7fc_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Sands Motel (light speed version)</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1279216638</pubDate>
+<link>http://www.flickr.com/photos/26405687@N08/4792350948/</link>
+<author><a href='http://www.flickr.com/photos/26405687@N08/4792350948/'>2</a></author>
+<guid>4792350948</guid>
+<media:content url='http://farm5.static.flickr.com/4136/4792350948_6b915450c5_b.jpg' type='image/jpeg' height='718' width='1024' />
+<media:title>Sands Motel (light speed version)</media:title>
+<media:thumbnail url='http://farm5.static.flickr.com/4136/4792350948_6b915450c5_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Light Speed</title>
+<description>Array</description>
+<geo:lat>53.552336</geo:lat>
+<geo:long>9.969105</geo:long>
+<georss:point>53.552336 9.969105</georss:point>
+<georss:featurename>Hambourg, Allemagne</georss:featurename>
+<pubDate>1179663694</pubDate>
+<link>http://www.flickr.com/photos/garron/505749075/</link>
+<author><a href='http://www.flickr.com/photos/garron/505749075/'>4</a></author>
+<guid>505749075</guid>
+<media:content url='http://farm1.static.flickr.com/223/505749075_762de2ca6c_o.jpg' type='image/jpeg' height='1304' width='1940' />
+<media:title>Light Speed</media:title>
+<media:thumbnail url='http://farm1.static.flickr.com/223/505749075_f7a479ab7f_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>swingset</title>
+<description>Array</description>
+<geo:lat>42.597994</geo:lat>
+<geo:long>-83.350846</geo:long>
+<georss:point>42.597994 -83.350846</georss:point>
+<georss:featurename>Keego Harbor, États-Unis</georss:featurename>
+<pubDate>1211736900</pubDate>
+<link>http://www.flickr.com/photos/gsgeorge/2521101893/</link>
+<author><a href='http://www.flickr.com/photos/gsgeorge/2521101893/'>3</a></author>
+<guid>2521101893</guid>
+<media:content url='http://farm3.static.flickr.com/2278/2521101893_e10bc04691_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>swingset</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2278/2521101893_e10bc04691_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Stirring Energy...</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1191101060</pubDate>
+<link>http://www.flickr.com/photos/rutchee/1460167812/</link>
+<author><a href='http://www.flickr.com/photos/rutchee/1460167812/'>1</a></author>
+<guid>1460167812</guid>
+<media:content url='http://farm2.static.flickr.com/1386/1460167812_55b91c9c6c_b.jpg' type='image/jpeg' height='815' width='1024' />
+<media:title>Stirring Energy...</media:title>
+<media:thumbnail url='http://farm2.static.flickr.com/1386/1460167812_55b91c9c6c_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>pacific wheel</title>
+<description>Array</description>
+<geo:lat>34.008371</geo:lat>
+<geo:long>-118.497955</geo:long>
+<georss:point>34.008371 -118.497955</georss:point>
+<georss:featurename>Santa Monica, États-Unis</georss:featurename>
+<pubDate>1182559394</pubDate>
+<link>http://www.flickr.com/photos/gsgeorge/594043993/</link>
+<author><a href='http://www.flickr.com/photos/gsgeorge/594043993/'>3</a></author>
+<guid>594043993</guid>
+<media:content url='http://farm2.static.flickr.com/1021/594043993_4880487864_b.jpg' type='image/jpeg' height='683' width='1024' />
+<media:title>pacific wheel</media:title>
+<media:thumbnail url='http://farm2.static.flickr.com/1021/594043993_4880487864_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Speed of light</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1243666275</pubDate>
+<link>http://www.flickr.com/photos/alexverweij/3578098012/</link>
+<author><a href='http://www.flickr.com/photos/alexverweij/3578098012/'>8</a></author>
+<guid>3578098012</guid>
+<media:content url='http://farm4.static.flickr.com/3612/3578098012_2a6847d7e9_o.jpg' type='image/jpeg' height='1234' width='2048' />
+<media:title>Speed of light</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3612/3578098012_63165d838e_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Light speeding through the night</title>
+<description>Array</description>
+<geo:lat>52.423438</geo:lat>
+<geo:long>9.593338</geo:long>
+<georss:point>52.423438 9.593338</georss:point>
+<georss:featurename>Hanovre, Allemagne</georss:featurename>
+<pubDate>1197132892</pubDate>
+<link>http://www.flickr.com/photos/little_krawler/2095821740/</link>
+<author><a href='http://www.flickr.com/photos/little_krawler/2095821740/'>2</a></author>
+<guid>2095821740</guid>
+<media:content url='http://farm3.static.flickr.com/2033/2095821740_51cc3b49e7_b.jpg' type='image/jpeg' height='636' width='1024' />
+<media:title>Light speeding through the night</media:title>
+<media:thumbnail url='http://farm3.static.flickr.com/2033/2095821740_51cc3b49e7_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>freeway kingdom</title>
+<description>Array</description>
+<geo:lat>34.076567</geo:lat>
+<geo:long>-118.23114</geo:long>
+<georss:point>34.076567 -118.23114</georss:point>
+<georss:featurename>Los Angeles, États-Unis</georss:featurename>
+<pubDate>1179125019</pubDate>
+<link>http://www.flickr.com/photos/gsgeorge/497571439/</link>
+<author><a href='http://www.flickr.com/photos/gsgeorge/497571439/'>3</a></author>
+<guid>497571439</guid>
+<media:content url='http://farm1.static.flickr.com/231/497571439_7cf611cd56_b.jpg' type='image/jpeg' height='688' width='1024' />
+<media:title>freeway kingdom</media:title>
+<media:thumbnail url='http://farm1.static.flickr.com/231/497571439_7cf611cd56_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+
+<item>
+<title>Light Speed...</title>
+<description>Array</description>
+<geo:lat></geo:lat>
+<geo:long></geo:long>
+<georss:point> </georss:point>
+<georss:featurename>, </georss:featurename>
+<pubDate>1272289279</pubDate>
+<link>http://www.flickr.com/photos/1puttbassman/4554077349/</link>
+<author><a href='http://www.flickr.com/photos/1puttbassman/4554077349/'>9</a></author>
+<guid>4554077349</guid>
+<media:content url='http://farm4.static.flickr.com/3360/4554077349_11d3f04ba3_b.jpg' type='image/jpeg' height='693' width='1024' />
+<media:title>Light Speed...</media:title>
+<media:thumbnail url='http://farm4.static.flickr.com/3360/4554077349_11d3f04ba3_s.jpg' type='image/jpeg' height='75' width='75'  />
+</item>
+</channel>
+</rss>

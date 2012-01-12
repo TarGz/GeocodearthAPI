@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss" xmlns:bk="http://brightkite.com/placeFeed" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>Brightkite Universe</title>
+    <link>http://brightkite.com/objects</link>
+    <description>See what's going on in the Brightkite Universe</description>
+    <language>en</language>
+    <ttl>40</ttl>
+    <atom:link type="application/rss+xml" href="http://brightkite.com/objects.rss" rel="self"/>
+    <item>
+      <title>shintumy posted a photo @ &#28006;&#21644;&#35686;&#23519;&#32626;&#38936;&#23478;&#20132;&#30058;</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/96/81/96811d19d8738d984b9c49f3a67a2b80-feed.jpg" /&gt;&lt;br /&gt;&#20024;&#22826;&#12398;&#27096;&#12395;&#12399;&#23517;&#12428;&#12394;&#12356;&#12290;&#12362;&#26089;&#12358;&#24481;&#24231;&#12356;&#12414;&#12377;&#65281;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/96/81/96811d19d8738d984b9c49f3a67a2b80-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#20024;&#22826;&#12398;&#27096;&#12395;&#12399;&#23517;&#12428;&#12394;&#12356;&#12290;&#12362;&#26089;&#12358;&#24481;&#24231;&#12356;&#12414;&#12377;&#65281;</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/96/81/96811d19d8738d984b9c49f3a67a2b80-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/96/81/96811d19d8738d984b9c49f3a67a2b80-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/96/81/96811d19d8738d984b9c49f3a67a2b80-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/shintumy</bk:userLink>
+      <bk:userName>shintumy</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/66/cf/66cf70ea01f4a169649e9a29249aa16f-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/faae240435ad212ad58f20b6f0b1a088</bk:placeLink>
+      <bk:placeName>&#28006;&#21644;&#35686;&#23519;&#32626;&#38936;&#23478;&#20132;&#30058;</bk:placeName>
+      <bk:placeAddress>&#26085;&#26412;</bk:placeAddress>
+      <geo:lat>35.881127</geo:lat>
+      <geo:long>139.653257</geo:long>
+      <georss:point>35.881127 139.653257</georss:point>
+      <georss:featuretypetag>zip</georss:featuretypetag>
+      <georss:featurename>&#28006;&#21644;&#35686;&#23519;&#32626;&#38936;&#23478;&#20132;&#30058;</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:20:51 +0000</pubDate>
+      <bk:timestamp>1291666851.654</bk:timestamp>
+      <link>http://brightkite.com/objects/96811d19d8738d984b9c49f3a67a2b80</link>
+      <guid>http://brightkite.com/objects/96811d19d8738d984b9c49f3a67a2b80</guid>
+    </item>
+    <item>
+      <title>toddmundt posted a photo @ Memphis Intl Airport-Mem</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/6f/7d/6f7dca1a920a382420f878dbc9c1ab60-feed.jpg" /&gt;&lt;br /&gt;Beautiful day in Memphis</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/6f/7d/6f7dca1a920a382420f878dbc9c1ab60-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Beautiful day in Memphis</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/6f/7d/6f7dca1a920a382420f878dbc9c1ab60-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/6f/7d/6f7dca1a920a382420f878dbc9c1ab60-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/6f/7d/6f7dca1a920a382420f878dbc9c1ab60-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/toddmundt</bk:userLink>
+      <bk:userName>toddmundt</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/68/b1/68b1df545b5476f26b4927cd687bba9e-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ee7876e3e1b3e33fa952ab8f72f2208376b2469e</bk:placeLink>
+      <bk:placeName>Memphis Intl Airport-Mem</bk:placeName>
+      <bk:placeAddress>2491 Winchester Rd, TN, United States</bk:placeAddress>
+      <geo:lat>35.053281</geo:lat>
+      <geo:long>-89.990413</geo:long>
+      <georss:point>35.053281 -89.990413</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Memphis Intl Airport-Mem</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:16:37 +0000</pubDate>
+      <bk:timestamp>1291666597.756</bk:timestamp>
+      <link>http://brightkite.com/objects/6f7dca1a920a382420f878dbc9c1ab60</link>
+      <guid>http://brightkite.com/objects/6f7dca1a920a382420f878dbc9c1ab60</guid>
+    </item>
+    <item>
+      <title>eliezerluardo posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/93/62/9362ace25c651f107dabfec6935b854a-feed.jpg" /&gt;&lt;br /&gt;Lost Your Lust For Love - How to deal with Stress http://wyld.com.au/_blog/Lost_Your_Lust_For_Love/tag/ways_to_deal_with_stress/</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/93/62/9362ace25c651f107dabfec6935b854a-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Lost Your Lust For Love - How to deal with Stress http://wyld.com.au/_blog/Lost_Your_Lust_For_Love/tag/ways_to_deal_with_stress/</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/93/62/9362ace25c651f107dabfec6935b854a-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/93/62/9362ace25c651f107dabfec6935b854a-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/93/62/9362ace25c651f107dabfec6935b854a-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/eliezerluardo</bk:userLink>
+      <bk:userName>eliezerluardo</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/95/ac/95ac9a5d068d3cfc724cfcc203feae51-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:13:43 +0000</pubDate>
+      <bk:timestamp>1291666423.821</bk:timestamp>
+      <link>http://brightkite.com/objects/9362ace25c651f107dabfec6935b854a</link>
+      <guid>http://brightkite.com/objects/9362ace25c651f107dabfec6935b854a</guid>
+    </item>
+    <item>
+      <title>doctorklein posted a photo @ Boca Raton</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d0/7c/d07c909b3c22122cdbf5676c76145c4d-feed.jpg" /&gt;&lt;br /&gt;nothin like an afternoon game of strip dino puzzle! Hunter seems to have lost his pants!</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d0/7c/d07c909b3c22122cdbf5676c76145c4d-feed.jpg</bk:photoLink>
+      <bk:photoCaption>nothin like an afternoon game of strip dino puzzle! Hunter seems to have lost his pants!</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d0/7c/d07c909b3c22122cdbf5676c76145c4d-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d0/7c/d07c909b3c22122cdbf5676c76145c4d-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d0/7c/d07c909b3c22122cdbf5676c76145c4d-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/doctorklein</bk:userLink>
+      <bk:userName>doctorklein</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/47/17/4717fb40a3b87c83b346c52e03169c92-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/40ae28fc9d717125f26c5df26fdab4c3</bk:placeLink>
+      <bk:placeName>Boca Raton</bk:placeName>
+      <bk:placeAddress>Boca Raton, FL, FL, United States</bk:placeAddress>
+      <geo:lat>26.381828</geo:lat>
+      <geo:long>-80.106799</geo:long>
+      <georss:point>26.381828 -80.106799</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Boca Raton</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:07:42 +0000</pubDate>
+      <bk:timestamp>1291666062.568</bk:timestamp>
+      <link>http://brightkite.com/objects/d07c909b3c22122cdbf5676c76145c4d</link>
+      <guid>http://brightkite.com/objects/d07c909b3c22122cdbf5676c76145c4d</guid>
+    </item>
+    <item>
+      <title>eriksjos posted a photo @ SE</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/f6/96/f696b5c0bbabdc9bac62825b2f128207-feed.jpg" /&gt;&lt;br /&gt;L&#228;ser</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/f6/96/f696b5c0bbabdc9bac62825b2f128207-feed.jpg</bk:photoLink>
+      <bk:photoCaption>L&#228;ser</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/f6/96/f696b5c0bbabdc9bac62825b2f128207-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/f6/96/f696b5c0bbabdc9bac62825b2f128207-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/f6/96/f696b5c0bbabdc9bac62825b2f128207-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/eriksjos</bk:userLink>
+      <bk:userName>eriksjos</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/d88d21841a3111de97c6003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/429944e0df7fb7c28d2e47432ab0d6d1</bk:placeLink>
+      <bk:placeName>SE</bk:placeName>
+      <bk:placeAddress>Sweden, Sweden</bk:placeAddress>
+      <geo:lat>56.300386</geo:lat>
+      <geo:long>13.016027</geo:long>
+      <georss:point>56.300386 13.016027</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>SE</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:04:39 +0000</pubDate>
+      <bk:timestamp>1291665879.21</bk:timestamp>
+      <link>http://brightkite.com/objects/f696b5c0bbabdc9bac62825b2f128207</link>
+      <guid>http://brightkite.com/objects/f696b5c0bbabdc9bac62825b2f128207</guid>
+    </item>
+    <item>
+      <title>Tatmash posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/9e/4d/9e4d7e117665883c86969f2b5f635730-feed.jpg" /&gt;&lt;br /&gt;http://ping.fm/p/3VZWO - Try on TatMash's Tattoo of the Day: lion - http://www.tatmash.com/media/3896/lion/</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/9e/4d/9e4d7e117665883c86969f2b5f635730-feed.jpg</bk:photoLink>
+      <bk:photoCaption>http://ping.fm/p/3VZWO - Try on TatMash's Tattoo of the Day: lion - http://www.tatmash.com/media/3896/lion/</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/9e/4d/9e4d7e117665883c86969f2b5f635730-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/9e/4d/9e4d7e117665883c86969f2b5f635730-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/9e/4d/9e4d7e117665883c86969f2b5f635730-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Tatmash</bk:userLink>
+      <bk:userName>Tatmash</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/a4/99/a499136d7c1a1c6d3d097feebe50ba73-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 20:02:29 +0000</pubDate>
+      <bk:timestamp>1291665749.799</bk:timestamp>
+      <link>http://brightkite.com/objects/9e4d7e117665883c86969f2b5f635730</link>
+      <guid>http://brightkite.com/objects/9e4d7e117665883c86969f2b5f635730</guid>
+    </item>
+    <item>
+      <title>Quitstalkingme posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/4d/cf/4dcfc795a1db25c14f2b33df66753e68-feed.jpg" /&gt;&lt;br /&gt;my kitteh!</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/4d/cf/4dcfc795a1db25c14f2b33df66753e68-feed.jpg</bk:photoLink>
+      <bk:photoCaption>my kitteh!</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/4d/cf/4dcfc795a1db25c14f2b33df66753e68-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/4d/cf/4dcfc795a1db25c14f2b33df66753e68-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/4d/cf/4dcfc795a1db25c14f2b33df66753e68-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Quitstalkingme</bk:userLink>
+      <bk:userName>Quitstalkingme</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/6eb49bdeab4b11dda90c003048c0801e/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:52:55 +0000</pubDate>
+      <bk:timestamp>1291665175.376</bk:timestamp>
+      <link>http://brightkite.com/objects/4dcfc795a1db25c14f2b33df66753e68</link>
+      <guid>http://brightkite.com/objects/4dcfc795a1db25c14f2b33df66753e68</guid>
+    </item>
+    <item>
+      <title>tcagent posted a photo @ Minnesota</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/36/76/3676f39c8d3ad178e03f63207d178739-feed.jpg" /&gt;&lt;br /&gt;http://ping.fm/p/Ku9im - Panoramic view of Sedona from Shugrue's Grille at Hillside. Fabulous view. Fabulous staff. And of course. Fabulous</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/36/76/3676f39c8d3ad178e03f63207d178739-feed.jpg</bk:photoLink>
+      <bk:photoCaption>http://ping.fm/p/Ku9im - Panoramic view of Sedona from Shugrue's Grille at Hillside. Fabulous view. Fabulous staff. And of course. Fabulous</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/36/76/3676f39c8d3ad178e03f63207d178739-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/36/76/3676f39c8d3ad178e03f63207d178739-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/36/76/3676f39c8d3ad178e03f63207d178739-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/tcagent</bk:userLink>
+      <bk:userName>tcagent</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/06/91/0691643bc8777690ade7bd3efde46a5d-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/eda71bc2a22411ddb9648776106ebcbe</bk:placeLink>
+      <bk:placeName>Minnesota</bk:placeName>
+      <bk:placeAddress>United States</bk:placeAddress>
+      <geo:lat>46.2502448</geo:lat>
+      <geo:long>-94.2505535</geo:long>
+      <georss:point>46.2502448 -94.2505535</georss:point>
+      <georss:featuretypetag>state</georss:featuretypetag>
+      <georss:featurename>Minnesota</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:45:35 +0000</pubDate>
+      <bk:timestamp>1291664735.902</bk:timestamp>
+      <link>http://brightkite.com/objects/3676f39c8d3ad178e03f63207d178739</link>
+      <guid>http://brightkite.com/objects/3676f39c8d3ad178e03f63207d178739</guid>
+    </item>
+    <item>
+      <title>BeamerCola posted a photo @ Atascadero</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/d6/ca/d6ca8fe9f2bc9b9135632b0beed3aa4e-feed.jpg" /&gt;&lt;br /&gt;New friend! @sw2343</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/d6/ca/d6ca8fe9f2bc9b9135632b0beed3aa4e-feed.jpg</bk:photoLink>
+      <bk:photoCaption>New friend! @sw2343</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d6/ca/d6ca8fe9f2bc9b9135632b0beed3aa4e-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/d6/ca/d6ca8fe9f2bc9b9135632b0beed3aa4e-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/d6/ca/d6ca8fe9f2bc9b9135632b0beed3aa4e-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/BeamerCola</bk:userLink>
+      <bk:userName>BeamerCola</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/23/27/232710fafbc92797d92ff931e8531c2f-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ee68fdc8a22411dd82f23b0a03fb2bf0</bk:placeLink>
+      <bk:placeName>Atascadero</bk:placeName>
+      <bk:placeAddress>CA, United States</bk:placeAddress>
+      <geo:lat>35.4894169</geo:lat>
+      <geo:long>-120.6707255</geo:long>
+      <georss:point>35.4894169 -120.6707255</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>Atascadero</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:24:48 +0000</pubDate>
+      <bk:timestamp>1291663488.982</bk:timestamp>
+      <link>http://brightkite.com/objects/d6ca8fe9f2bc9b9135632b0beed3aa4e</link>
+      <guid>http://brightkite.com/objects/d6ca8fe9f2bc9b9135632b0beed3aa4e</guid>
+    </item>
+    <item>
+      <title>besz posted a photo @ Union Square Park</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/f3/ce/f3ce85e2f4aa63535486f7f6610ffc53-feed.jpg" /&gt;&lt;br /&gt;http://ping.fm/p/p7zNc - Remember how you chose a cartoon Facebook pic to "help abused children" &amp; you asked why I was lol'ing? This is why.</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/f3/ce/f3ce85e2f4aa63535486f7f6610ffc53-feed.jpg</bk:photoLink>
+      <bk:photoCaption>http://ping.fm/p/p7zNc - Remember how you chose a cartoon Facebook pic to "help abused children" &amp; you asked why I was lol'ing? This is why.</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/f3/ce/f3ce85e2f4aa63535486f7f6610ffc53-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/f3/ce/f3ce85e2f4aa63535486f7f6610ffc53-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/f3/ce/f3ce85e2f4aa63535486f7f6610ffc53-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/besz</bk:userLink>
+      <bk:userName>besz</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/fadfa1049a5111dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/9a397f68aa111dd98100030487eb504</bk:placeLink>
+      <bk:placeName>Union Square Park</bk:placeName>
+      <bk:placeAddress>333 Post St, San Francisco, CA, United States</bk:placeAddress>
+      <geo:lat>37.787931</geo:lat>
+      <geo:long>-122.407501</geo:long>
+      <georss:point>37.787931 -122.407501</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Union Square Park</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:15:16 +0000</pubDate>
+      <bk:timestamp>1291662916.004</bk:timestamp>
+      <link>http://brightkite.com/objects/f3ce85e2f4aa63535486f7f6610ffc53</link>
+      <guid>http://brightkite.com/objects/f3ce85e2f4aa63535486f7f6610ffc53</guid>
+    </item>
+    <item>
+      <title>bc28 posted a photo @ New York City</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/60/33/60335de7a29a0dac6c3411f53fc7b81b-feed.jpg" /&gt;&lt;br /&gt;#TheTourist</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/60/33/60335de7a29a0dac6c3411f53fc7b81b-feed.jpg</bk:photoLink>
+      <bk:photoCaption>#TheTourist</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/60/33/60335de7a29a0dac6c3411f53fc7b81b-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/60/33/60335de7a29a0dac6c3411f53fc7b81b-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/60/33/60335de7a29a0dac6c3411f53fc7b81b-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/bc28</bk:userLink>
+      <bk:userName>bc28</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/0f/65/0f658409195fcdd578aa4b3526e7587a-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/ede07eeea22411dda0ef53e233ec57ca</bk:placeLink>
+      <bk:placeName>New York City</bk:placeName>
+      <bk:placeAddress>NY, United States</bk:placeAddress>
+      <geo:lat>40.7142691</geo:lat>
+      <geo:long>-74.0059729</geo:long>
+      <georss:point>40.7142691 -74.0059729</georss:point>
+      <georss:featuretypetag>city</georss:featuretypetag>
+      <georss:featurename>New York City</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:10:04 +0000</pubDate>
+      <bk:timestamp>1291662604.121</bk:timestamp>
+      <link>http://brightkite.com/objects/60335de7a29a0dac6c3411f53fc7b81b</link>
+      <guid>http://brightkite.com/objects/60335de7a29a0dac6c3411f53fc7b81b</guid>
+    </item>
+    <item>
+      <title>ax0n posted a photo @ Thai Orchid</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/ac/ca/accaae9dd06dc9b6aabef411d5d50734-feed.jpg" /&gt;&lt;br /&gt;And the point of your spam is... ???</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/ac/ca/accaae9dd06dc9b6aabef411d5d50734-feed.jpg</bk:photoLink>
+      <bk:photoCaption>And the point of your spam is... ???</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ac/ca/accaae9dd06dc9b6aabef411d5d50734-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/ac/ca/accaae9dd06dc9b6aabef411d5d50734-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/ac/ca/accaae9dd06dc9b6aabef411d5d50734-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/ax0n</bk:userLink>
+      <bk:userName>ax0n</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/2f5e02689a5211dd9951003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/f3f825cb1afc534ed6ac68cb1ef6e8db</bk:placeLink>
+      <bk:placeName>Thai Orchid</bk:placeName>
+      <bk:placeAddress>6504 Martway Street, Shawnee Mission, KS, United States</bk:placeAddress>
+      <geo:lat>39.020628</geo:lat>
+      <geo:long>-94.660443</geo:long>
+      <georss:point>39.020628 -94.660443</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Thai Orchid</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:03:11 +0000</pubDate>
+      <bk:timestamp>1291662191.085</bk:timestamp>
+      <link>http://brightkite.com/objects/accaae9dd06dc9b6aabef411d5d50734</link>
+      <guid>http://brightkite.com/objects/accaae9dd06dc9b6aabef411d5d50734</guid>
+    </item>
+    <item>
+      <title>westxguy posted a photo @ Jimmy John's</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/32/01/3201087fc42171d6062b607529485d7d-feed.jpg" /&gt;&lt;br /&gt;Signage @ Jimmy John's...</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/32/01/3201087fc42171d6062b607529485d7d-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Signage @ Jimmy John's...</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/32/01/3201087fc42171d6062b607529485d7d-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/32/01/3201087fc42171d6062b607529485d7d-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/32/01/3201087fc42171d6062b607529485d7d-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/westxguy</bk:userLink>
+      <bk:userName>westxguy</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/32/50/325078850efa21e6bef2c553560fbbc4-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/b0111581862a0b0f06770c63ef7f1c1f</bk:placeLink>
+      <bk:placeName>Jimmy John's</bk:placeName>
+      <bk:placeAddress>4730 Slide Rd, Lubbock, TX, United States</bk:placeAddress>
+      <geo:lat>33.551276</geo:lat>
+      <geo:long>-101.922412</geo:long>
+      <georss:point>33.551276 -101.922412</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Jimmy John's</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 19:00:03 +0000</pubDate>
+      <bk:timestamp>1291662003.994</bk:timestamp>
+      <link>http://brightkite.com/objects/3201087fc42171d6062b607529485d7d</link>
+      <guid>http://brightkite.com/objects/3201087fc42171d6062b607529485d7d</guid>
+    </item>
+    <item>
+      <title>chirodoc4me posted a photo @ near Hathaway Rd &amp; I- 195</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/eb/b6/ebb686ff6a15095d4649015516b844c1-feed.jpg" /&gt;&lt;br /&gt;lots and lots of Xtra cheese!!! YUMmylicious!</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/eb/b6/ebb686ff6a15095d4649015516b844c1-feed.jpg</bk:photoLink>
+      <bk:photoCaption>lots and lots of Xtra cheese!!! YUMmylicious!</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/eb/b6/ebb686ff6a15095d4649015516b844c1-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/eb/b6/ebb686ff6a15095d4649015516b844c1-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/eb/b6/ebb686ff6a15095d4649015516b844c1-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/chirodoc4me</bk:userLink>
+      <bk:userName>chirodoc4me</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/84/15/8415db615d31303550a7b2f56702aefd-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/2c28244bc236efd62967a3fecd9ba43d</bk:placeLink>
+      <bk:placeName>near Hathaway Rd &amp; I- 195</bk:placeName>
+      <bk:placeAddress>New Bedford, MA, United States</bk:placeAddress>
+      <geo:lat>41.655665</geo:lat>
+      <geo:long>-70.95893</geo:long>
+      <georss:point>41.655665 -70.95893</georss:point>
+      <georss:featuretypetag>intersection</georss:featuretypetag>
+      <georss:featurename>near Hathaway Rd &amp; I- 195</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:56:24 +0000</pubDate>
+      <bk:timestamp>1291661784.001</bk:timestamp>
+      <link>http://brightkite.com/objects/ebb686ff6a15095d4649015516b844c1</link>
+      <guid>http://brightkite.com/objects/ebb686ff6a15095d4649015516b844c1</guid>
+    </item>
+    <item>
+      <title>sunrisepromo posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/72/7f/727f870773e2dc7600cb41fa7f1b4bf8-feed.jpg" /&gt;&lt;br /&gt;Maggie gives good eskimo kisses</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/72/7f/727f870773e2dc7600cb41fa7f1b4bf8-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Maggie gives good eskimo kisses</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/72/7f/727f870773e2dc7600cb41fa7f1b4bf8-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/72/7f/727f870773e2dc7600cb41fa7f1b4bf8-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/72/7f/727f870773e2dc7600cb41fa7f1b4bf8-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/sunrisepromo</bk:userLink>
+      <bk:userName>sunrisepromo</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/c0/f8/c0f8c78e6f9043efc5188e725239c85e-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:52:47 +0000</pubDate>
+      <bk:timestamp>1291661567.051</bk:timestamp>
+      <link>http://brightkite.com/objects/727f870773e2dc7600cb41fa7f1b4bf8</link>
+      <guid>http://brightkite.com/objects/727f870773e2dc7600cb41fa7f1b4bf8</guid>
+    </item>
+    <item>
+      <title>Frick posted a photo @ Concourse B, Atl</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/75/7e/757e12b34aeb5d53d7f4ae97f873fb40-feed.jpg" /&gt;&lt;br /&gt;Monday Monday.</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/75/7e/757e12b34aeb5d53d7f4ae97f873fb40-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Monday Monday.</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/75/7e/757e12b34aeb5d53d7f4ae97f873fb40-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/75/7e/757e12b34aeb5d53d7f4ae97f873fb40-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/75/7e/757e12b34aeb5d53d7f4ae97f873fb40-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/Frick</bk:userLink>
+      <bk:userName>Frick</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/fff27aa4bf4511ddb095003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/76d5ca11433c90828b0e4125bb62a1e5</bk:placeLink>
+      <bk:placeName>Concourse B, Atl</bk:placeName>
+      <bk:placeAddress>College Park, GA, United States</bk:placeAddress>
+      <geo:lat>33.641306</geo:lat>
+      <geo:long>-84.434562</geo:long>
+      <georss:point>33.641306 -84.434562</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Concourse B, Atl</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:45:56 +0000</pubDate>
+      <bk:timestamp>1291661156.503</bk:timestamp>
+      <link>http://brightkite.com/objects/757e12b34aeb5d53d7f4ae97f873fb40</link>
+      <guid>http://brightkite.com/objects/757e12b34aeb5d53d7f4ae97f873fb40</guid>
+    </item>
+    <item>
+      <title>fmajowich posted a photo @ 7326 Beaumont Dr</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/3a/bb/3abbf9c3c68a558c6ba9aa4b392a7d98-feed.jpg" /&gt;&lt;br /&gt;Like the new downtown lakeland signs</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/3a/bb/3abbf9c3c68a558c6ba9aa4b392a7d98-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Like the new downtown lakeland signs</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/3a/bb/3abbf9c3c68a558c6ba9aa4b392a7d98-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/3a/bb/3abbf9c3c68a558c6ba9aa4b392a7d98-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/3a/bb/3abbf9c3c68a558c6ba9aa4b392a7d98-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/fmajowich</bk:userLink>
+      <bk:userName>fmajowich</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/409217ec9fd711dd9353003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/8093756daa866c74638204e6c416f7e1</bk:placeLink>
+      <bk:placeName>7326 Beaumont Dr</bk:placeName>
+      <bk:placeAddress>Lakeland, FL, United States</bk:placeAddress>
+      <geo:lat>28.136834</geo:lat>
+      <geo:long>-82.001155</geo:long>
+      <georss:point>28.136834 -82.001155</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>7326 Beaumont Dr</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:43:10 +0000</pubDate>
+      <bk:timestamp>1291660990.956</bk:timestamp>
+      <link>http://brightkite.com/objects/3abbf9c3c68a558c6ba9aa4b392a7d98</link>
+      <guid>http://brightkite.com/objects/3abbf9c3c68a558c6ba9aa4b392a7d98</guid>
+    </item>
+    <item>
+      <title>aardrian posted a photo @ Gabriels Gate Restaurant</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/cd/83/cd83252279e7418d05abf4aec5e67e0f-feed.png" /&gt;&lt;br /&gt;Linwood: spinach and cheese burger. Ask them to toast the rolls, they are always chilly.</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/cd/83/cd83252279e7418d05abf4aec5e67e0f-feed.png</bk:photoLink>
+      <bk:photoCaption>Linwood: spinach and cheese burger. Ask them to toast the rolls, they are always chilly.</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/cd/83/cd83252279e7418d05abf4aec5e67e0f-feed.png" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/cd/83/cd83252279e7418d05abf4aec5e67e0f-big.png"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/cd/83/cd83252279e7418d05abf4aec5e67e0f-feed.png"/>
+      <bk:userLink>http://brightkite.com/people/aardrian</bk:userLink>
+      <bk:userName>aardrian</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkite_store/images/user/avatar/cafb47ac9c4c11dda6bf003048c10834/avatar-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/bc08615865c2857679dc1c8da294977024a4be5a</bk:placeLink>
+      <bk:placeName>Gabriels Gate Restaurant</bk:placeName>
+      <bk:placeAddress>145 Allen St, Buffalo, NY, United States</bk:placeAddress>
+      <geo:lat>42.899676</geo:lat>
+      <geo:long>-78.875352</geo:long>
+      <georss:point>42.899676 -78.875352</georss:point>
+      <georss:featuretypetag>address</georss:featuretypetag>
+      <georss:featurename>Gabriels Gate Restaurant</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:37:18 +0000</pubDate>
+      <bk:timestamp>1291660638.678</bk:timestamp>
+      <link>http://brightkite.com/objects/cd83252279e7418d05abf4aec5e67e0f</link>
+      <guid>http://brightkite.com/objects/cd83252279e7418d05abf4aec5e67e0f</guid>
+    </item>
+    <item>
+      <title>ultimateanswer posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/8a/31/8a3147663a96312d8ba81c7e4dadde7a-feed.jpg" /&gt;&lt;br /&gt;&#26085;&#26412;&#12391;&#35501;&#12417;&#12427;&#12398;&#12399;&#20170;&#12398;&#12392;&#12371;&#12429;&#12371;&#12398;3&#20874;&#12384;&#12369;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/8a/31/8a3147663a96312d8ba81c7e4dadde7a-feed.jpg</bk:photoLink>
+      <bk:photoCaption>&#26085;&#26412;&#12391;&#35501;&#12417;&#12427;&#12398;&#12399;&#20170;&#12398;&#12392;&#12371;&#12429;&#12371;&#12398;3&#20874;&#12384;&#12369;</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/8a/31/8a3147663a96312d8ba81c7e4dadde7a-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/8a/31/8a3147663a96312d8ba81c7e4dadde7a-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/8a/31/8a3147663a96312d8ba81c7e4dadde7a-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/ultimateanswer</bk:userLink>
+      <bk:userName>ultimateanswer</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/5b/c2/5bc213f8439f0f9028c3a0cfe64f9b7e-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:19:44 +0000</pubDate>
+      <bk:timestamp>1291659584.193</bk:timestamp>
+      <link>http://brightkite.com/objects/8a3147663a96312d8ba81c7e4dadde7a</link>
+      <guid>http://brightkite.com/objects/8a3147663a96312d8ba81c7e4dadde7a</guid>
+    </item>
+    <item>
+      <title>ultimateanswer posted a photo @ Somewhere in the world</title>
+      <description>&lt;img src="http://s3.amazonaws.com/bkitecontent/45/f5/45f5e10c1129dda9b107ac59743edb06-feed.jpg" /&gt;&lt;br /&gt;Google eBookstore&#12398;iPhone&#12450;&#12503;&#12522;&#12290;US&#12473;&#12488;&#12450;&#12391;&#12480;&#12454;&#12531;&#12525;&#12540;&#12489;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12394;&#12387;&#12383;&#12290;&#12506;&#12540;&#12472;&#12417;&#12367;&#12426;&#12399;&#12371;&#12435;&#12394;&#24863;&#12376;</description>
+      <bk:eventType>photo</bk:eventType>
+      <bk:photoLink>http://s3.amazonaws.com/bkitecontent/45/f5/45f5e10c1129dda9b107ac59743edb06-feed.jpg</bk:photoLink>
+      <bk:photoCaption>Google eBookstore&#12398;iPhone&#12450;&#12503;&#12522;&#12290;US&#12473;&#12488;&#12450;&#12391;&#12480;&#12454;&#12531;&#12525;&#12540;&#12489;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12394;&#12387;&#12383;&#12290;&#12506;&#12540;&#12472;&#12417;&#12367;&#12426;&#12399;&#12371;&#12435;&#12394;&#24863;&#12376;</bk:photoCaption>
+      <media:content type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/45/f5/45f5e10c1129dda9b107ac59743edb06-feed.jpg" medium="image"/>
+      <media:thumbnail height="80" width="80" url="http://s3.amazonaws.com/bkitecontent/45/f5/45f5e10c1129dda9b107ac59743edb06-big.jpg"/>
+      <enclosure type="image/jpeg" url="http://s3.amazonaws.com/bkitecontent/45/f5/45f5e10c1129dda9b107ac59743edb06-feed.jpg"/>
+      <bk:userLink>http://brightkite.com/people/ultimateanswer</bk:userLink>
+      <bk:userName>ultimateanswer</bk:userName>
+      <bk:userAvatar>http://s3.amazonaws.com/bkitecontent/5b/c2/5bc213f8439f0f9028c3a0cfe64f9b7e-big.png</bk:userAvatar>
+      <bk:placeLink>http://brightkite.com/places/00000000000000000000000000000000</bk:placeLink>
+      <bk:placeName>Somewhere in the world</bk:placeName>
+      <bk:placeAddress></bk:placeAddress>
+      <geo:lat>0.0</geo:lat>
+      <geo:long>0.0</geo:long>
+      <georss:point>0.0 0.0</georss:point>
+      <georss:featuretypetag>universe</georss:featuretypetag>
+      <georss:featurename>Somewhere in the world</georss:featurename>
+      <pubDate>Mon, 06 Dec 2010 18:18:28 +0000</pubDate>
+      <bk:timestamp>1291659508.263</bk:timestamp>
+      <link>http://brightkite.com/objects/45f5e10c1129dda9b107ac59743edb06</link>
+      <guid>http://brightkite.com/objects/45f5e10c1129dda9b107ac59743edb06</guid>
+    </item>
+  </channel>
+</rss>
